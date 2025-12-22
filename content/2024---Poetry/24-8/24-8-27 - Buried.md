@@ -1,0 +1,11 @@
+While digging through my summer files
+I found a touch of gold
+'Cause I had cut some arguments
+Which thusfar've been untold
+
+So come the weekend I will break
+A couple args brand new
+And we will see what friends will find
+What they will say and do
+
+#poem/ballad #poem/debate

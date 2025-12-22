@@ -1,0 +1,29 @@
+I'm back at work; not much has changed
+But still I labor on
+It seems we had a staffing change
+While I on road was gone
+
+But otherwise there's not much new
+Just have some more to write
+We'll see how these next days shake out
+But they should be alright
+
+The bus was just the same old route
+With slightly different times
+But that's no problem for me, no
+What is, is finding rhymes
+
+But even that I often solve
+Just like most other things
+By testing out some different words
+And finding out what rings
+
+The other thing about my work
+That I almost forgot
+Is that the lunch from CPI
+Is worth it to be got
+
+But that's about all I will say
+Forgive my wandering
+Perhaps July will bring about
+A bit more focusing

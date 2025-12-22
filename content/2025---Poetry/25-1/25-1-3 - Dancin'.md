@@ -1,0 +1,16 @@
+The party music emanates 
+From ballroom space above
+While lobby and the ground floor won't
+Receive such dancing love
+
+Until a couple girls walk by
+And choose to break it down
+To music from a level up
+To take away all frowns
+
+The duo did a little jig
+While smiling faces shown
+With fun and frolic all about
+For their joy and my own
+
+#poem/ballad #poem/friends
