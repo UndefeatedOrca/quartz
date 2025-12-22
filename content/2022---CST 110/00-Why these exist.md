@@ -1,0 +1,3 @@
+So, CST 110 was kind of a mind numbing class and Professor Walter was kinda crazy in a way that made me not take the class very seriously, so I decided the best way to keep myself engaged in class was to take a stream of conciousness approach to notetaking with the only constraint being that everything had to be written in Haiku. The result was better than anything I expected, and the process makes for a funny story.
+
+Minor edits for grammatic accuracy have been made, but the goal is to keep the original text to the greatest degree possible
