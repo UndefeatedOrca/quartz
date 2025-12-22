@@ -2,6 +2,6 @@
 title:
 draft: false
 tags:
-date:
+date: {{date}}
 updated:
 ---
