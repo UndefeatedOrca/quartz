@@ -1,5 +1,6 @@
 This is the list of ongoing or yet to be completed tasks on the website. I'm a little worried it's going to get longer before it gets shorter.
-- [ ] Fix failure to build
+- [x] Fix failure to build
+	- it wasn't actually an issue
 - [ ] Fix line breaks
 - [ ] Tag poems I wrote over the past six months
 - [ ] Sanitize my personal copies of poems
@@ -15,3 +16,5 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [ ] Add collapsible tangent blocks
 - [ ] Customize color scheme
 - [ ] Figure out analytics
+- [ ] Tag \#poem/food
+- [ ] Tag \#poem/music
