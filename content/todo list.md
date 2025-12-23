@@ -1,4 +1,5 @@
 This is the list of ongoing or yet to be completed tasks on the website. I'm a little worried it's going to get longer before it gets shorter.
+- [ ] Fix failure to build
 - [ ] Fix line breaks
 - [ ] Tag poems I wrote over the past six months
 - [ ] Sanitize my personal copies of poems
