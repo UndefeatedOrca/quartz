@@ -12,3 +12,5 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [ ] Write [[Favorite Pieces]]
 - [ ] Add cool little links to my socials in the corner
 - [ ] Add collapsible tangent blocks
+- [ ] Customize color scheme
+- [ ] Figure out analytics

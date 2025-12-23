@@ -9,4 +9,4 @@ This is is the long-term home of my poems, rants, and ramblings (along with arch
 
 This is a perpetual work in progress, and I fear I know less about how everything works than I ought to, but hopefully you're able to at least find something interesting.
 
-Right now all that I have up are some haikus I wrote during [[2022---CST 100]], but that should be changing in the next day or so as I work through my [[todo list]]. 
+Right now all that I have up are some haikus I wrote during [[2022---CST 100/]], but that should be changing in the next day or so as I work through my [[todo list]]. 
