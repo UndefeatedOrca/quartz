@@ -1,0 +1,14 @@
+This is the list of ongoing or yet to be completed tasks on the website. I'm a little worried it's going to get longer before it gets shorter.
+- [ ] Fix line breaks
+- [ ] Tag poems I wrote over the past six months
+- [ ] Sanitize my personal copies of poems
+- [ ] Upload poems to folders
+- [ ] Move convert-frontmatter.js to quartz folder
+- [ ] Run convert-frontmatter.js
+- [ ] Copy over rants from Rumbles on Every Horizon
+- [ ] Copy over rants from Patrick's Daily Poem
+- [ ] Update [[Who Am I]]
+- [ ] Write [[The Design of this Site]]
+- [ ] Write [[Favorite Pieces]]
+- [ ] Add cool little links to my socials in the corner
+- [ ] Add collapsible tangent blocks
