@@ -35,6 +35,79 @@ export default ((opts?: Partial<TagContentOptions>) => {
         (file.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes).includes(tag),
       )
 
+    // Generate parent tag breadcrumbs and child tags for nested tags
+    const renderTagNavigation = (currentTag: string) => {
+      if (!currentTag || currentTag === "/") return null
+      
+      const segments = currentTag.split("/")
+      
+      // Find all child tags
+      const allTags = [
+        ...new Set(
+          allFiles.flatMap((data) => data.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes),
+        ),
+      ]
+      const childTags = allTags.filter(t => {
+        const tSegments = t.split("/")
+        return tSegments.length === segments.length + 1 && t.startsWith(currentTag + "/")
+      }).sort((a, b) => a.localeCompare(b))
+      
+      // Generate parent breadcrumbs
+      const breadcrumbs = []
+      for (let i = 0; i < segments.length - 1; i++) {
+        const parentTag = segments.slice(0, i + 1).join("/")
+        const tagListingPage = `/tags/${parentTag}` as FullSlug
+        const href = resolveRelative(fileData.slug!, tagListingPage)
+        
+        breadcrumbs.push(
+          <span key={parentTag}>
+            <a class="internal tag-link" href={href}>
+              {parentTag}
+            </a>
+            {" / "}
+          </span>
+        )
+      }
+      
+      // Generate child tag links
+      const childLinks = childTags.map((childTag, idx) => {
+        const tagListingPage = `/tags/${childTag}` as FullSlug
+        const href = resolveRelative(fileData.slug!, tagListingPage)
+        const childName = childTag.split("/").pop()
+        
+        return (
+          <span key={childTag}>
+            <a class="internal tag-link" href={href}>
+              {childName}
+            </a>
+            {idx < childTags.length - 1 ? ", " : ""}
+          </span>
+        )
+      })
+      
+      const hasParents = segments.length > 1
+      const hasChildren = childTags.length > 0
+      
+      if (!hasParents && !hasChildren) return null
+      
+      return (
+        <div style="margin-bottom: 1rem; color: var(--gray); font-size: 0.9rem; line-height: 1.6;">
+          {hasParents && (
+            <div>
+              {breadcrumbs}
+              <span style="color: var(--dark);">{segments[segments.length - 1]}</span>
+            </div>
+          )}
+          {hasChildren && (
+            <div style="margin-top: 0.5rem;">
+              <span style="color: var(--gray);">Child tags: </span>
+              {childLinks}
+            </div>
+          )}
+        </div>
+      )
+    }
+
     const content = (
       (tree as Root).children.length === 0
         ? fileData.description
@@ -116,6 +189,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
 
       return (
         <div class="popover-hint">
+          {renderTagNavigation(tag)}
           <article class={classes}>{content}</article>
           <div class="page-listing">
             <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
