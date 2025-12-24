@@ -3,7 +3,7 @@ title: "18 - CFAW Health"
 created: 2025-09-18
 tags:
   - poem/ballad
-  - poem/School/CFAW
+  - poem/school/CFAW
 ---
 
 I've made it back from nasty cold

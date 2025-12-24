@@ -28,8 +28,8 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [ ] Add collapsible tangent blocks and/or figure out how to use them and other components
 - [ ] Customize color scheme
 - [ ] Figure out analytics
-- [ ] Tag \#poem/food
-- [ ] Tag \#poem/music
+- [ ] Tag #poem/food
+- [ ] Tag #poem/music
 - [ ] Figure out if there's a good way to de-uglify my urls
 - [ ] Add random note button
 - [ ] Go steal a bunch of other people's site design ideas

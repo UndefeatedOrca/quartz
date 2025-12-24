@@ -9,7 +9,7 @@ description:
 created: 2025-11-17
 modified:
 ---
-The following is a continuation of [Deer Throwing]([deer throwing - Laur Brown](https://laurbrown1.substack.com/p/deer-throwing)) by Lauren Brown. Read it first, it's under a thousand words and otherwise this won't make any sense.
+The following is a continuation of [Deer Throwing]((https://laurbrown1.substack.com/p/deer-throwing) by Lauren Brown. Read it first, it's under a thousand words and otherwise this won't make any sense.
 
 ---
 

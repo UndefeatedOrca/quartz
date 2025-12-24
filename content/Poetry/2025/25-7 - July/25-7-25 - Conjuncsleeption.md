@@ -1,9 +1,9 @@
 ---
-title: "25 - Conjuncsleeption"
+title: 25 - Conjuncsleeption
 created: 2025-07-25
 tags:
   - poem/ballad
-  - poem/poem
+  - poem/poems
 ---
 
 I'm working on another poem
