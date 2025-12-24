@@ -38,7 +38,12 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        const hiddenFolders = new Set(["attachments"])
+        return !hiddenFolders.has(node.displayName)
+      }
+    }),
   ],
   right: [
     Component.Graph(),

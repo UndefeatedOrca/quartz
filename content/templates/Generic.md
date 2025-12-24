@@ -3,6 +3,6 @@ title:
 draft: false
 tags:
 description:
-created: {{date}}
+created:
 modified:
 ---
