@@ -66,3 +66,6 @@ But even so the game was fun
 And done before midnight
 The whole evening could well be called
 A general delight!
+
+---
+Also, our captain had her birthday today, so after we finished the game of bowling, our team left (as we needed to go before midnight) and sang her an impromptu happy birthday in the hallways of Montview.

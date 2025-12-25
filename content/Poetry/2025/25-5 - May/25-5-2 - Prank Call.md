@@ -30,3 +30,8 @@ I don't know what he did for it
 But hit it off they had
 I hope that they are happy though
 It made me a bit sad
+
+---
+As best I can tell, the story behind what happened in this event is that there has been a chain of prank calls and returned prank calls between people from Liberty(?) and a Texas(?) school that started at a YLS. This call was made by a mutual friend but non-party to the prank calls and he called a girl who may or may not have been directly related to the event as well. After that, the call proceeded as described in the poem, though other impressions included Goofy, Mickey Mouse, Seinfeld, the Bee Movie bee, Donald Trump, Obama, Kamala Harris, and maybe a few more.
+
+I truly do not understand exactly what went down, all I know is that it was truly hilarious to listen to.
