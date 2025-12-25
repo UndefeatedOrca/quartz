@@ -3,7 +3,7 @@ title: Welcome to PaJoFo Ponderings
 date: 2025-12-22
 modified: 2025-12-22
 ---
-Howdy, I'm *Pa*trick *Jo*seph *Fo*os and this is my website!
+Howdy, I'm Patrick Joseph Foos and this is my website!
 
 This is is the long-term home of my poems, rants, and ramblings (along with archives of published works. Take a look around and enjoy content that you can't find anywhere other than scattered [Instagram](https://www.instagram.com/patrickthrowingbricks/) stories, [two](https://roeh.substack.com/) [separate](https://patricksdailypoem.substack.com/) Substacks, the [Valor Dictus](https://valor-dictus.com/staff_name/patrick-foos/) website, or actually nowhere else. To get started, take a look inside a folder or two, ask [[Who Am I]], or take a look at some of my [[Favorite Pieces]] or #poem/favorites. If you're interested in the technical side of things, check out [[The Design of this Site]] or just ask me.
 

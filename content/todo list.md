@@ -18,6 +18,8 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [x] Run convert-frontmatter.js
 - [x] Update how tags work
 - [x] Create working attachments folder that doesn't show up in the explorer - just implement Claude fix
+- [x] Identify why files are randomly disappearing
+	- some kind of git issue
 - [ ] Copy over rants from Rumbles on Every Horizon
 - [ ] Copy over rants from Patrick's Daily Poem
 - [ ] See if I can change how social media previews handle line breaks/disable entirely
