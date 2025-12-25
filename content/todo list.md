@@ -33,3 +33,4 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [ ] Figure out if there's a good way to de-uglify my urls
 - [ ] Add random note button
 - [ ] Go steal a bunch of other people's site design ideas
+- [ ] Tag #MacDonald
