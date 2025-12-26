@@ -21,11 +21,11 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [x] Identify why files are randomly disappearing
 	- some kind of git issue
 - [x] Copy over rants from Rumbles on Every Horizon
-- [ ] Copy over rants from Patrick's Daily Poem
+- [x] Copy over rants from Patrick's Daily Poem
 - [x] Copy over writing from Valor Dictus
-- [ ] See if I can change how social media previews handle line breaks/disable entirely
+- [ ] See if I can change how social media previews handle line breaks
 - [ ] Update [[Who Am I]]
-- [ ] Write [[The Design of this Site]]
+- [x] Write [[The Design of this Site]]
 - [ ] Write [[Favorite Pieces]]
 - [ ] Add cool little links to my socials in the corner
 	- this probably just means editing the footer
@@ -41,3 +41,4 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [ ] Implement vibe-coded holiday calendar plugin
 - [ ] Update Claude's convert-frontmatter script to handle existing frontmatter
 - [ ] Figure out what's going on with the github commits that have popped up
+- [ ] Fix tag hierarchy

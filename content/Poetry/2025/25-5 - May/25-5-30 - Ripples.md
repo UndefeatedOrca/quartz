@@ -40,3 +40,11 @@ But now their tales are lost to time
 And all that will remain
 Are whirlpools in the great world's tub
 All spinning down the drain
+
+---
+
+The original inspiration for this poem was the water of the Potomac River that always seems to have a different shape to its ripples every time I pass over it on the yellow line as I go in to work. Sometimes the water is disturbed, brown, and you can’t make out anything in it, some days the wind has died down and you can see the bridges perfectly in the reflection of the water. I have a firm belief that the first time I went into DC on the VRE alone, the water was perfectly still and a mirror of the world and that I’ll spend the rest of my life chasing that vision of two bridges, one a perfect copy of the other on a canvas made of liquid glass.[^1]
+
+As to what this poem ended up being: I think I’ve been reading too much history recently and it’s seeping into the part of my brain that comes up with these.
+
+[^1]: It’s also possible that the water was never that still and I simply didn’t look closely when I went to listen to Chloe Cole speak at the Heritage Foundation.
