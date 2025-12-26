@@ -3,7 +3,7 @@ title: "22 - Field Hockey"
 created: 2025-08-22
 tags:
   - poem/ballad
-  - poem/games/hockey
+  - games/hockey
 ---
 
 I learned today the soccer field

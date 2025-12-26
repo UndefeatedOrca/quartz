@@ -4,7 +4,7 @@ created: 2025-12-16
 tags:
   - poem/ballad
   - poem/sleep
-  - poem/games/vidya
+  - games/video
 ---
 
 Things happened sure, but I need sleep

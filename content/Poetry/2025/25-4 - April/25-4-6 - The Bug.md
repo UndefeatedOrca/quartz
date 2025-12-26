@@ -4,7 +4,7 @@ created: 2025-04-06
 tags:
   - poem/ballad
   - poem/friends
-  - poem/games/lacrosse
+  - games/lacrosse
 ---
 
 The lax game was proceeding well

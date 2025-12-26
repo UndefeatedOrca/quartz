@@ -4,7 +4,7 @@ created: 2024-08-04
 tags:
   - poem/ballad
   - poem/debate
-  - poem/games/golf
+  - games/golf
 ---
 
 We went up to the driving range

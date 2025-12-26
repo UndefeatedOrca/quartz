@@ -5,7 +5,7 @@ tags:
   - poem/ballad
   - poem/sleep
   - poem/friends
-  - poem/games
+  - games
 ---
 
 I had something to write about

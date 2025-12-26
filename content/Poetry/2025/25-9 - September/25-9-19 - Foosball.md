@@ -4,7 +4,7 @@ created: 2025-09-19
 tags:
   - poem/ballad
   - poem/friends
-  - poem/games/foosball
+  - games/foosball
 ---
 
 The spinners go as ball will roll

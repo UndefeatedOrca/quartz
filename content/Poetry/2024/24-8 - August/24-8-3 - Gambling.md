@@ -3,7 +3,7 @@ title: "3 - Gambling"
 created: 2024-08-03
 tags:
   - poem/ballad
-  - poem/games/poker
+  - games/poker
 ---
 
 The chips go in, the cards go down

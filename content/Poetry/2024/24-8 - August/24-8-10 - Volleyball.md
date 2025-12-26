@@ -3,7 +3,7 @@ title: "10 - Volleyball"
 created: 2024-08-10
 tags:
   - poem/ballad
-  - poem/games/volleyball
+  - games/volleyball
   - poem/debate
 ---
 

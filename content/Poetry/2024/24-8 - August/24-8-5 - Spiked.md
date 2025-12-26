@@ -4,7 +4,7 @@ created: 2024-08-05
 tags:
   - poem/ballad
   - poem/debate
-  - poem/games/volleyball
+  - games/volleyball
 ---
 
 Today we played some volleyball

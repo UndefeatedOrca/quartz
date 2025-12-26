@@ -3,7 +3,7 @@ title: "26 - Euchre"
 created: 2025-05-26
 tags:
   - poem/ballad
-  - poem/games
+  - games
 ---
 
 It isn't every day you come

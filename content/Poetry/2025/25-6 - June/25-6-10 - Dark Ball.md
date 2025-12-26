@@ -4,7 +4,7 @@ created: 2025-06-10
 tags:
   - poem/ballad
   - poem/friends
-  - poem/games/pickleball
+  - games/pickleball
 ---
 
 A thwack or two rebounds the ball

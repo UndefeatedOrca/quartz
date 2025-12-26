@@ -4,7 +4,7 @@ created: 2024-07-17
 tags:
   - poem/ballad
   - poem/sleep
-  - poem/games/vidya
+  - games/video
 ---
 
 Here is a blink or miss it poem

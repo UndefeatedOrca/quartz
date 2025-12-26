@@ -4,7 +4,7 @@ created: 2024-07-14
 tags:
   - poem/ballad
   - poem/friends
-  - poem/games/catan
+  - games/catan
 ---
 
 My game was off to a rough start

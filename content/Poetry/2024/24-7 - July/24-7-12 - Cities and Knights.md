@@ -4,7 +4,7 @@ created: 2024-07-12
 tags:
   - poem/limerick
   - poem/friends
-  - poem/games/catan
+  - games/catan
 ---
 
 There once was game called Catan

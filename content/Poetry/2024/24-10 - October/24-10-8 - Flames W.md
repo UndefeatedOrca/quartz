@@ -4,7 +4,7 @@ created: 2024-10-08
 tags:
   - poem/ballad
   - poem/school
-  - poem/games/football
+  - games/football
 ---
 
 The football games at my college

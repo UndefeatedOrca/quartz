@@ -3,7 +3,7 @@ title: "1 - Beach Sports"
 created: 2024-08-01
 tags:
   - poem/ballad
-  - poem/games/volleyball
+  - games/volleyball
 ---
 
 Arcing graceful through the sky

@@ -35,3 +35,6 @@ I swear someday we will debate
 Without making a mess
 But ere we reach that distant day
 We'll dance in goofiness
+
+# Note
+I don’t even remember what the plankless multi-plank CP was, but I feel like it had something to do with Navy bombing a cross-ex at Kentucky in a way that was clearly mistaken but not obviously exploitable.

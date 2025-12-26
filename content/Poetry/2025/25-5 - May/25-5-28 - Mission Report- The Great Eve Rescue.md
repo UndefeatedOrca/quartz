@@ -3,7 +3,7 @@ title: "28 - Mission Report- The Great Eve Rescue"
 created: 2025-05-28
 tags:
   - poem/ballad
-  - poem/games/vidya
+  - games/video
   - poem/saga/Eve
 ---
 

@@ -3,7 +3,7 @@ title: "4 - Ahead of Class"
 created: 2025-09-04
 tags:
   - poem/ballad
-  - poem/games/hockey
+  - games/hockey
   - poem/school
 ---
 

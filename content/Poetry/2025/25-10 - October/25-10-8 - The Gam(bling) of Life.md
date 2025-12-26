@@ -4,7 +4,7 @@ created: 2025-10-08
 tags:
   - poem/ballad
   - poem/family
-  - poem/games/board
+  - games/board
 ---
 
 The Game of Life is difficult

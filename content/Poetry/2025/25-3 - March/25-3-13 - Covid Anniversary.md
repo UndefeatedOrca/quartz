@@ -1,10 +1,11 @@
 ---
-title: "13 - Covid Anniversary"
+title: 13 - Covid Anniversary
 created: 2025-03-13
 tags:
   - poem/ballad
   - poem/school
   - poem/history
+holiday: 03/13
 ---
 
 Five years ago we heard the call

@@ -1,8 +1,9 @@
 ---
-title: "23 - Sunday Vignettes"
+title: 23 - Sunday Vignettes
 created: 2025-02-23
 tags:
   - poem/school/watching
+  - "#poem/favorites"
 ---
 
 A dead end we found

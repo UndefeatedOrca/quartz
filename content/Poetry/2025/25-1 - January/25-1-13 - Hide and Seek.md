@@ -3,7 +3,7 @@ title: "13 - Hide and Seek"
 created: 2025-01-13
 tags:
   - poem/friends
-  - poem/games/poker
+  - games/poker
 ---
 
 We gallivant around the floor

@@ -36,3 +36,11 @@ I try to replicate the Poos
 In many ways although
 I'm not quite where I ought to be
 And of all that I know
+---
+Q: Did I actually drink paint water?
+
+A: No comment.
+
+. . .
+
+but if I did, it was from watercolors

@@ -4,7 +4,7 @@ created: 2025-04-06
 tags:
   - poem/ballad
   - poem/friends
-  - poem/games/vidya
+  - games/video
 ---
 
 The hidden skills my friends all have

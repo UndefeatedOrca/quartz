@@ -3,7 +3,7 @@ title: "22 - Fog Islands"
 created: 2024-12-22
 tags:
   - poem/ballad
-  - poem/games/catan
+  - games/catan
 ---
 
 To see into the distant fog

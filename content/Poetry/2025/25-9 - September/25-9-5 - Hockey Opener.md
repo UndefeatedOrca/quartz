@@ -3,7 +3,7 @@ title: "5 - Hockey Opener"
 created: 2025-09-05
 tags:
   - poem/ballad
-  - poem/games/hockey
+  - games/hockey
   - poem/school
 ---
 

@@ -5,7 +5,7 @@ tags:
   - poem/ballad
   - poem/family
   - poem/saga/roadtrip2024
-  - poem/games
+  - games
 ---
 
 A card game and a mallet sport

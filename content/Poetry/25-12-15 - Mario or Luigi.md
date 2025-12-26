@@ -51,3 +51,12 @@ So if you need your plumbing fixed
 Now you know who to call
 (It isn't me I fear, not yet
 I don't know much at all)
+
+---
+Fun fact about the drain unclogging:
+
+I used the piss cup that they gave me when I went down the Grand Canyon to catch the water that came out from the sink. I feel the need to tell you this to brag that I did not use it a single time, and as such it has been able to, until this day, proudly sit atop my dresser, having never been polluted.
+
+It has now been polluted. The stuff in that sink was indescribably nasty.
+
+We will see if it takes on a new life as a utility item in our house, but I don’t think it’s going back on my dresser.

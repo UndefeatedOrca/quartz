@@ -2,8 +2,8 @@
 title:
 draft: false
 tags:
-  - fiction/scifi
-  - shortstory
+  - genre/scifi
+  - fiction/shortstory
   - fanfiction/lb
 description:
 created: 2025-11-17

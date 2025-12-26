@@ -3,7 +3,7 @@ title: "22 - Distracted"
 created: 2025-02-22
 tags:
   - poem/ballad
-  - poem/games/vidya
+  - games/video
 ---
 
 And so it's fin'lly got me out

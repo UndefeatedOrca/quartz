@@ -20,4 +20,4 @@ Will watch a show
 With friends I know
 
 ---
-A careful reader will note that I whatever rhyme scheme I intended to use at the beginning of the poem, I had given up by the end. In theory, it was mean to be ABABBCBCCDCDDEDE . . .
+A careful reader will note that I whatever rhyme scheme I intended to use at the beginning of the poem, I had given up by the end. In theory, it was mean to be ABABBCBCCDCDDEDE . . . but I choose to assert that the loss of structure is actually a commentary on either my sleepiness or the origin of the free time that allows me to watch movies.

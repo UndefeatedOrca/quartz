@@ -4,7 +4,7 @@ created: 2024-09-23
 tags:
   - poem/ballad
   - poem/books
-  - Chesterton
+  - author/Chesterton
 ---
 
 Atop the elms near Purley place

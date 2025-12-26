@@ -3,7 +3,7 @@ title: "13 - Game Night"
 created: 2025-07-13
 tags:
   - poem/ballad
-  - poem/games/vidya
+  - games/video
 ---
 
 The night grows late but games go on

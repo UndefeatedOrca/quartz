@@ -36,3 +36,5 @@ So on the whole I thought it was
 Quite nice to make a friend
 Who acted on behalf of life
 To stop my grisly end
+---
+To my friend’s credit, the girl missed important context to our conversation that meant that while I did in fact ask if brownies had chocolate, I was trying to ask about raspberries and blatantly misspoke. Even so, I greatly appreciated the intervention and the conversation we had afterwards was quite enjoyable.

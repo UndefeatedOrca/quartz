@@ -3,7 +3,7 @@ title: "8 - Poker"
 created: 2024-08-08
 tags:
   - poem/ballad
-  - poem/games/poker
+  - games/poker
 ---
 
 I'm not quite sure how we got here

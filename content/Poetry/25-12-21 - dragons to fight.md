@@ -3,7 +3,7 @@ title: "21 - dragons to fight"
 created: 2025-12-21
 tags:
   - poem/ballad
-  - poem/games/vidya
+  - games/video
   - poem/tech
 ---
 

@@ -3,7 +3,7 @@ title: "30 - First Game"
 created: 2025-08-30
 tags:
   - poem/ballad
-  - poem/games/football
+  - games/football
   - poem/school
 ---
 

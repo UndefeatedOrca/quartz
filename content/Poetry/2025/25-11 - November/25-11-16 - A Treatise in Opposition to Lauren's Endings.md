@@ -52,3 +52,9 @@ Defeated death, put dark to flight
 Freed us from evil, sin
 The greatest story ever told
 Ends with unlikely win
+
+---
+tl;dr stories should have happy endings because our stories have happy endings
+
+also, go subscribe to Laur Brown, she redid her Substack and it’s straight fire (it has a coherent theme, something far beyond my aesthetic capacity)
+# https://laurbrown1.substack.com !!!

@@ -5,7 +5,7 @@ tags:
   - poem/ballad
   - poem/friends
   - poem/sleep
-  - poem/games/catan
+  - games/catan
 ---
 
 An early morning wake up call

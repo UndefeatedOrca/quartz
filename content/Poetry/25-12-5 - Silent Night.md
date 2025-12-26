@@ -36,3 +36,7 @@ Millenia ago there was
 Another silent night
 To shake foundations of the earth
 And make it once more right
+---
+All it took was the chance writing of “all is calm” and suddenly yet another poem gets a stanza added that somehow ties back to Advent.
+
+That is the fun thing about writing these fast and seeing where they go: sometimes they go somewhere unexpected.

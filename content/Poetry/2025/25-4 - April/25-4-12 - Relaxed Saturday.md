@@ -4,7 +4,7 @@ created: 2025-04-12
 tags:
   - poem/ballad
   - poem/friends
-  - poem/games/vidya
+  - games/video
 ---
 
 I didn't get work done today

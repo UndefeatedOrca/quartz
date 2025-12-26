@@ -3,7 +3,7 @@ title: "3 - Silksong"
 created: 2025-09-03
 tags:
   - poem/ballad
-  - poem/games/vidya
+  - games/video
 ---
 
 After a span of six long years

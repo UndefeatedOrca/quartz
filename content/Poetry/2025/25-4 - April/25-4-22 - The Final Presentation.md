@@ -35,3 +35,7 @@ The moral of the story is
 To just send it, that's all
 And if that don't work out for you
 Please don't, my number, call
+---
+Not mentioned in the poem but definitely stuck in my mind was my 30 second rant about how poppi was on Shark Tank and how even though we don’t have the financials for the company because it’s privately held “line go up.”
+
+Yes, that was a verbatim quote from my segment. No, I didn't script it, I adlibbed it because we needed to fill time.
