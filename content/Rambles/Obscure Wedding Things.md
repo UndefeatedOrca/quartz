@@ -3,7 +3,7 @@ title:
 draft: false
 tags:
   - geography
-  - rambles
+  - ramble
 description:
 created: 2025-09-21
 modified:

@@ -56,3 +56,11 @@ And when precipitation fails
 The brunt of storm has past
 But distant sounds of thunder stay
 And in the air will last
+
+---
+
+I wrote this in sections as an actual thunderstorm went overhead, with incredible amounts of lightning in the clouds, and then the thunder, and then the rain, and now all I hear is the thunder. And yes, there were sirens in the distance, which combined with the thunderclaps directly overhead, did spook me a little.
+
+Originally, I was going to just send it after I wrote the fifth stanza, but I waited so long that it started raining, so I decided that it only made sense to add a few more lines.
+
+I also re-read this before sending it out, which I don’t normally do because I’m falling asleep at that point, and goodness me, I really hope that there aren’t as many typos in what I normally send out as there were in the unedited draft of this one!

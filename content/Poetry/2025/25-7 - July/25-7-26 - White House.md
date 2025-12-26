@@ -1,10 +1,11 @@
 ---
-title: "26 - White House"
+title: 26 - White House
 created: 2025-07-26
 tags:
   - poem/ballad
   - poem/politics
   - poem/CRA
+  - poem/favorites
 ---
 
 The White House gate in morning light
@@ -81,3 +82,11 @@ So ends my tale of White House time
 It may not come again
 But we will see how life goes on
 And I'll update you then
+
+---
+
+Somehow the way that I took the pictures of the helicopter it’s basically impossible to tell that they’re on the White House lawn or even in DC. The only building giveaways are tiny and mostly covered by trees. It’s kinda baffling tbh.
+
+![](https://substackcdn.com/image/fetch/$s_!yK2m!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ff7467e-e856-43e8-b763-f6c3e7dc5c71_3024x2421.jpeg)
+
+Screenagers amirite?

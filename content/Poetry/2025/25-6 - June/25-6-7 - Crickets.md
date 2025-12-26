@@ -29,3 +29,15 @@ It isn't pretty but it works
 To use a paper towel
 But on the whole the process is
 A little south of foul
+
+---
+
+Yes, this is a real thing that happens. Crickets in the shower. The worst times are when they’re between the shower curtain and the inside of the tub and they only come out once the water comes on. At that point, there’s very little you can do.
+
+I really hate crickets.
+
+Why are they half the size of my hand?
+
+Why do they jump?
+
+Why?

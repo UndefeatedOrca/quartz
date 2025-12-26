@@ -5,6 +5,7 @@ tags:
   - snippet/gaming
   - games/video
   - rant
+  - reviews/games
 description:
 created: 2025-12-15
 modified:

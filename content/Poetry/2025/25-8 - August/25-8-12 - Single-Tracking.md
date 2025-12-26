@@ -25,3 +25,9 @@ But maybe that's too much to ask
 So here's my final call
 Be there for when I come on back
 When leaves begin to fall
+
+---
+
+I really have no idea what happened, but for some reason I was informed when I boarded my Orange Line train to Vienna that the train would be reversing course and going to New Carrollton instead. Huh.
+
+Where even is Carrollton?

@@ -5,7 +5,7 @@ tags:
   - poem/ballad
   - poem/favorites
 ---
-
+![a photo of a pile of shoes](https://substackcdn.com/image/fetch/$s_!niDf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b2d5910-e789-4345-ad6a-d5dd01c69f1d_2536x2465.jpeg)
 I've worn through many pairs of shoes
 Across my days of life
 I've worn them on the happy days

@@ -20,3 +20,7 @@ When will the answers find me out?
 Why do they haunt me so?
 There, in my dreams, are faces gone 
 From years and years ago
+
+---
+
+This poem is based on true events, but then I noticed that I had a bunch of question words in the beginning of each stanza and decided that the Hardy Boys would be channeled today.

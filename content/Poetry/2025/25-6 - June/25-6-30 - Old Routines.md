@@ -36,3 +36,7 @@ But that's about all I will say
 Forgive my wandering
 Perhaps July will bring about
 A bit more focusing
+
+---
+
+It turns out that the bus schedule changes were entirely uneventful. The route is the same and it shows up five minutes later in the mornings and leaves the Pentagon two minutes earlier the evenings. Overall, wonderful change, if only because the bus actually left the Pentagon on time, rather than twenty minutes late like the 17K did. I have no complaints.
