@@ -1,6 +1,6 @@
 ---
-title: "26 - idk anymore bro"
-created: 2025-01-26
+title: 26 - idk anymore bro
+created: 2025-01-26T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/church

@@ -1,6 +1,6 @@
 ---
-title: "4 - Dusting"
-created: 2025-12-04
+title: 4 - Dusting
+created: 2025-12-04T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/nature/snow

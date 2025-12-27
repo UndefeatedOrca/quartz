@@ -1,6 +1,6 @@
 ---
-title: "9 - Spinny-Goofy Chair"
-created: 2025-11-09
+title: 9 - Spinny-Goofy Chair
+created: 2025-11-09T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

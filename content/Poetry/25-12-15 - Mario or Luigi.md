@@ -1,6 +1,6 @@
 ---
-title: "15 - Mario or Luigi"
-created: 2025-12-15
+title: 15 - Mario or Luigi
+created: 2025-12-15T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/favorites

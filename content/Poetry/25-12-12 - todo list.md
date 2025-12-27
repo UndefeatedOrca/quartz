@@ -1,6 +1,6 @@
 ---
-title: "12 - todo list"
-created: 2025-12-12
+title: 12 - todo list
+created: 2025-12-12T00:00:00.000Z
 tags:
   - poem/ballad
 ---

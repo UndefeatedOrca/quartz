@@ -1,6 +1,6 @@
 ---
-title: "11 - AC Finale"
-created: 2024-07-11
+title: 11 - AC Finale
+created: 2024-07-11T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/CRA/AC

@@ -1,6 +1,6 @@
 ---
-title: "12 - Metro Bug"
-created: 2025-07-12
+title: 12 - Metro Bug
+created: 2025-07-12T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/commute

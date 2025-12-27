@@ -1,6 +1,6 @@
 ---
-title: "31 - Library Food Fight"
-created: 2025-03-31
+title: 31 - Library Food Fight
+created: 2025-03-31T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/woman

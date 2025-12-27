@@ -1,6 +1,6 @@
 ---
-title: "28 - Reality Bent"
-created: 2024-09-28
+title: 28 - Reality Bent
+created: 2024-09-28T00:00:00.000Z
 tags:
   - poem/ballad
 ---

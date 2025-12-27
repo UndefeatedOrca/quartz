@@ -1,6 +1,6 @@
 ---
-title: "6 - ADA Eve"
-created: 2025-03-06
+title: 6 - ADA Eve
+created: 2025-03-06T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

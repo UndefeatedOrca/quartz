@@ -1,6 +1,6 @@
 ---
-title: "24 - Deja Vu"
-created: 2024-06-24
+title: 24 - Deja Vu
+created: 2024-06-24T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/commute

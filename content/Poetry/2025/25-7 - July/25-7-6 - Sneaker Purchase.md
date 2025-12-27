@@ -1,6 +1,6 @@
 ---
-title: "6 - Sneaker Purchase"
-created: 2025-07-06
+title: 6 - Sneaker Purchase
+created: 2025-07-06T00:00:00.000Z
 tags:
   - poem/ballad
 ---

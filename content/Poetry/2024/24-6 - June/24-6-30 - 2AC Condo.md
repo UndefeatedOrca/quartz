@@ -1,6 +1,6 @@
 ---
-title: "30 - 2AC Condo"
-created: 2024-06-30
+title: 30 - 2AC Condo
+created: 2024-06-30T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

@@ -1,6 +1,6 @@
 ---
-title: "23 - Buc-ees"
-created: 2025-06-23
+title: 23 - Buc-ees
+created: 2025-06-23T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/saga/roadtrip2025

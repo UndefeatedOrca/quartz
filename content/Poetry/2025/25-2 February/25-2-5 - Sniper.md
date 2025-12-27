@@ -1,6 +1,6 @@
 ---
-title: "5 - Sniper"
-created: 2025-02-05
+title: 5 - Sniper
+created: 2025-02-05T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

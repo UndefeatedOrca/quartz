@@ -1,6 +1,6 @@
 ---
-title: "18 - Not for the Bit"
-created: 2025-10-18
+title: 18 - Not for the Bit
+created: 2025-10-18T00:00:00.000Z
 tags:
   - poem/ballad
 ---

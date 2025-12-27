@@ -1,6 +1,6 @@
 ---
-title: "28 - Checkmarks"
-created: 2025-07-28
+title: 28 - Checkmarks
+created: 2025-07-28T00:00:00.000Z
 tags:
   - poem/ballad
 ---

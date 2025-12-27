@@ -1,6 +1,6 @@
 ---
-title: "17 - Eloquence"
-created: 2025-02-17
+title: 17 - Eloquence
+created: 2025-02-17T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

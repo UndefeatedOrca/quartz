@@ -1,6 +1,6 @@
 ---
-title: "17 - Where are my ebooks"
-created: 2025-08-17
+title: 17 - Where are my ebooks
+created: 2025-08-17T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/tech

@@ -1,6 +1,6 @@
 ---
-title: "4 - The Day the Lights Went Out"
-created: 2025-08-04
+title: 4 - The Day the Lights Went Out
+created: 2025-08-04T00:00:00.000Z
 tags:
   - poem/ballad
   - substitute

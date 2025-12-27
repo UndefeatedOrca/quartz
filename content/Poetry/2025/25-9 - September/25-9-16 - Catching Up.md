@@ -1,6 +1,6 @@
 ---
-title: "16 - Catching Up"
-created: 2025-09-16
+title: 16 - Catching Up
+created: 2025-09-16T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

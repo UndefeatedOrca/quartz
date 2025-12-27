@@ -1,6 +1,6 @@
 ---
-title: "22 - almost there"
-created: 2025-12-22
+title: 22 - almost there
+created: 2025-12-22T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/tech

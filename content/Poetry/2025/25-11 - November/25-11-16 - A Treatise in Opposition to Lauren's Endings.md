@@ -1,6 +1,6 @@
 ---
-title: "16 - A Treatise in Opposition to Lauren's Endings"
-created: 2025-11-16
+title: 16 - A Treatise in Opposition to Lauren's Endings
+created: 2025-11-16T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

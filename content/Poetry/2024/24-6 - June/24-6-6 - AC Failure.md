@@ -1,6 +1,6 @@
 ---
-title: "6 - AC Failure"
-created: 2024-06-06
+title: 6 - AC Failure
+created: 2024-06-06T00:00:00.000Z
 tags:
   - poem/CRA/AC
 ---

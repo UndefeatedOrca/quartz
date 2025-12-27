@@ -1,6 +1,6 @@
 ---
-title: "9 - West Point Windows"
-created: 2024-11-09
+title: 9 - West Point Windows
+created: 2024-11-09T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

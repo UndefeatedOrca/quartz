@@ -1,6 +1,6 @@
 ---
-title: "24 - Hunger Games"
-created: 2025-03-24
+title: 24 - Hunger Games
+created: 2025-03-24T00:00:00.000Z
 tags:
   - poem/sleep
   - poem/friends

@@ -1,6 +1,6 @@
 ---
-title: "5 - Picnic"
-created: 2024-06-05
+title: 5 - Picnic
+created: 2024-06-05T00:00:00.000Z
 tags:
   - poem/friends
   - poem/sonnet

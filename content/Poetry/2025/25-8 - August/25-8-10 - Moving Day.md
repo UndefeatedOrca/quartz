@@ -1,6 +1,6 @@
 ---
-title: "10 - Moving Day"
-created: 2025-08-10
+title: 10 - Moving Day
+created: 2025-08-10T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/family

@@ -1,6 +1,6 @@
 ---
-title: "14 - Twenty-One"
-created: 2025-04-14
+title: 14 - Twenty-One
+created: 2025-04-14T00:00:00.000Z
 tags:
   - poem/ballad
 ---

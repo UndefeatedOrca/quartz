@@ -1,6 +1,6 @@
 ---
-title: "2 - Stories"
-created: 2024-09-02
+title: 2 - Stories
+created: 2024-09-02T00:00:00.000Z
 tags:
   - poem/ballad
 ---

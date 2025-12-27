@@ -1,6 +1,6 @@
 ---
-title: "27 - Recollection"
-created: 2024-12-27
+title: 27 - Recollection
+created: 2024-12-27T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/woman

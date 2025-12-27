@@ -1,6 +1,6 @@
 ---
-title: "18 - Third Candle"
-created: 2024-12-18
+title: 18 - Third Candle
+created: 2024-12-18T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/church/calendar

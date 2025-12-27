@@ -1,6 +1,6 @@
 ---
-title: "3 - Road Trip Day Seven"
-created: 2024-07-03
+title: 3 - Road Trip Day Seven
+created: 2024-07-03T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/family

@@ -1,6 +1,6 @@
 ---
-title: "2 - Road Trip Day Six (Wall Drug)"
-created: 2024-07-02
+title: 2 - Road Trip Day Six (Wall Drug)
+created: 2024-07-02T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/saga/roadtrip2024

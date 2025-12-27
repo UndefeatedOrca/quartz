@@ -1,6 +1,6 @@
 ---
-title: "26 - AC Nirvana"
-created: 2024-07-26
+title: 26 - AC Nirvana
+created: 2024-07-26T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/CRA/AC

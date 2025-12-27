@@ -1,6 +1,6 @@
 ---
-title: "30 - Debate Eve"
-created: 2024-07-30
+title: 30 - Debate Eve
+created: 2024-07-30T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/CRA

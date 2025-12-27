@@ -1,6 +1,6 @@
 ---
-title: "29 - Couplets"
-created: 2025-09-29
+title: 29 - Couplets
+created: 2025-09-29T00:00:00.000Z
 tags:
   - poem/woman
 ---

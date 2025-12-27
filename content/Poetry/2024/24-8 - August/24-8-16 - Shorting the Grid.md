@@ -1,6 +1,6 @@
 ---
-title: "16 - Shorting the Grid"
-created: 2024-08-16
+title: 16 - Shorting the Grid
+created: 2024-08-16T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/politics/energy

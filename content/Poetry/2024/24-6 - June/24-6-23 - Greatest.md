@@ -1,6 +1,6 @@
 ---
-title: "23 - Greatest"
-created: 2024-06-23
+title: 23 - Greatest
+created: 2024-06-23T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/church

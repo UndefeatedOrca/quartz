@@ -1,6 +1,6 @@
 ---
-title: "22 - The Final Presentation"
-created: 2025-04-22
+title: 22 - The Final Presentation
+created: 2025-04-22T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

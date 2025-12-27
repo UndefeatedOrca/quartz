@@ -1,6 +1,6 @@
 ---
-title: "4 - Slumber Ghosts"
-created: 2025-06-04
+title: 4 - Slumber Ghosts
+created: 2025-06-04T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/sleep

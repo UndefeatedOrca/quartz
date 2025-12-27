@@ -1,6 +1,6 @@
 ---
-title: "22 - Locked Out"
-created: 2025-05-22
+title: 22 - Locked Out
+created: 2025-05-22T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/CRA

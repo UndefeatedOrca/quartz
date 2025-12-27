@@ -1,6 +1,6 @@
 ---
-title: "20 - Snowblown"
-created: 2025-02-20
+title: 20 - Snowblown
+created: 2025-02-20T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

@@ -4,6 +4,7 @@ draft: false
 tags:
   - ramble
   - tech
+  - author/Gwern
 description:
 created: 2025-07-17
 modified:

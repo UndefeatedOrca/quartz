@@ -1,6 +1,6 @@
 ---
-title: "2 - Candlemas"
-created: 2025-02-02
+title: 2 - Candlemas
+created: 2025-02-02T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/church

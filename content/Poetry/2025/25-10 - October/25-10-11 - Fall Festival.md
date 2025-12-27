@@ -1,6 +1,6 @@
 ---
-title: "11 - Fall Festival"
-created: 2025-10-11
+title: 11 - Fall Festival
+created: 2025-10-11T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/nature/seasons

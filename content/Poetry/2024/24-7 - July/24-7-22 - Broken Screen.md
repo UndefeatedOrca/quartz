@@ -1,6 +1,6 @@
 ---
-title: "22 - Broken Screen"
-created: 2024-07-22
+title: 22 - Broken Screen
+created: 2024-07-22T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/saga/BrokenPhone

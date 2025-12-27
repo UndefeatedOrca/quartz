@@ -1,6 +1,6 @@
 ---
-title: "4 - Lovely Weather"
-created: 2025-02-04
+title: 4 - Lovely Weather
+created: 2025-02-04T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/nature/seasons

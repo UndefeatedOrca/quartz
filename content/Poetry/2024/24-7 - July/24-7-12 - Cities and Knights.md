@@ -1,6 +1,6 @@
 ---
-title: "12 - Cities and Knights"
-created: 2024-07-12
+title: 12 - Cities and Knights
+created: 2024-07-12T00:00:00.000Z
 tags:
   - poem/limerick
   - poem/friends

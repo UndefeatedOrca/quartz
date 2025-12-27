@@ -1,6 +1,6 @@
 ---
-title: "31 - Pilgrims"
-created: 2025-10-31
+title: 31 - Pilgrims
+created: 2025-10-31T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/church

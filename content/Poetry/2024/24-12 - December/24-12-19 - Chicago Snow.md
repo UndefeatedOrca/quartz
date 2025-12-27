@@ -1,6 +1,6 @@
 ---
-title: "19 - Chicago Snow"
-created: 2024-12-19
+title: 19 - Chicago Snow
+created: 2024-12-19T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/saga/chicago

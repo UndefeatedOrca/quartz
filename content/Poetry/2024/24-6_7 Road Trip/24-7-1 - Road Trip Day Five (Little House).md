@@ -1,6 +1,6 @@
 ---
-title: "1 - Road Trip Day Five (Little House)"
-created: 2024-07-01
+title: 1 - Road Trip Day Five (Little House)
+created: 2024-07-01T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/saga/roadtrip2024

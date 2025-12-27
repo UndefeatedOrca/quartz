@@ -1,6 +1,6 @@
 ---
-title: "22 - Fog Islands"
-created: 2024-12-22
+title: 22 - Fog Islands
+created: 2024-12-22T00:00:00.000Z
 tags:
   - poem/ballad
   - games/catan

@@ -1,6 +1,6 @@
 ---
-title: "25 - How to Win"
-created: 2024-11-25
+title: 25 - How to Win
+created: 2024-11-25T00:00:00.000Z
 tags:
   - poem/ballad
   - games/pickleball

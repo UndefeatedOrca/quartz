@@ -1,6 +1,6 @@
 ---
-title: "18 - Mix it Up"
-created: 2025-12-18
+title: 18 - Mix it Up
+created: 2025-12-18T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

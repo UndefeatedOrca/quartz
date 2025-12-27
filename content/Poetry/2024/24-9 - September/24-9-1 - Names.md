@@ -1,6 +1,6 @@
 ---
-title: "1 - Names"
-created: 2024-09-01
+title: 1 - Names
+created: 2024-09-01T00:00:00.000Z
 tags:
   - poem/ballad
 ---

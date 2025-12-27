@@ -1,6 +1,6 @@
 ---
-title: "16 - What is Bedtime"
-created: 2025-12-16
+title: 16 - What is Bedtime
+created: 2025-12-16T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/sleep

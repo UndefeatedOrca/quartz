@@ -1,6 +1,6 @@
 ---
-title: "23 - I Didn't Sleep In"
-created: 2025-11-23
+title: 23 - I Didn't Sleep In
+created: 2025-11-23T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

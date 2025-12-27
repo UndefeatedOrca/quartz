@@ -1,6 +1,6 @@
 ---
-title: "7 - Snow Day Three"
-created: 2025-01-07
+title: 7 - Snow Day Three
+created: 2025-01-07T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/family

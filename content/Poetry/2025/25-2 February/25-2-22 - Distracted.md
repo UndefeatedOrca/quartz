@@ -1,6 +1,6 @@
 ---
-title: "22 - Distracted"
-created: 2025-02-22
+title: 22 - Distracted
+created: 2025-02-22T00:00:00.000Z
 tags:
   - poem/ballad
   - games/video

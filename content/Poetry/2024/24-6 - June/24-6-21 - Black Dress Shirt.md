@@ -1,6 +1,6 @@
 ---
-title: "21 - Black Dress Shirt"
-created: 2024-06-21
+title: 21 - Black Dress Shirt
+created: 2024-06-21T00:00:00.000Z
 tags:
   - poem/ballad
 ---

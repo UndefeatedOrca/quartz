@@ -1,6 +1,6 @@
 ---
-title: "18 - (Un)Delayed"
-created: 2025-07-18
+title: 18 - (Un)Delayed
+created: 2025-07-18T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/commute

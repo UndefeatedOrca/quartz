@@ -1,6 +1,6 @@
 ---
-title: "14 - Not a poem about popcorn"
-created: 2025-06-14
+title: 14 - Not a poem about popcorn
+created: 2025-06-14T00:00:00.000Z
 tags:
   - poem/friends
   - poem/poems

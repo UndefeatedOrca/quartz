@@ -1,6 +1,6 @@
 ---
-title: "18 - Blocked Out"
-created: 2025-02-18
+title: 18 - Blocked Out
+created: 2025-02-18T00:00:00.000Z
 tags:
   - poem/haiku
   - poem/school

@@ -1,6 +1,6 @@
 ---
-title: "14 - Departure"
-created: 2025-06-14
+title: 14 - Departure
+created: 2025-06-14T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/sleep

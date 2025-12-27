@@ -1,6 +1,6 @@
 ---
-title: "15 - Destiny Dropped"
-created: 2024-09-15
+title: 15 - Destiny Dropped
+created: 2024-09-15T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

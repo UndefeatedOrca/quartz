@@ -1,6 +1,6 @@
 ---
 title: 25 - Conjuncsleeption
-created: 2025-07-25
+created: 2025-07-25T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/poems

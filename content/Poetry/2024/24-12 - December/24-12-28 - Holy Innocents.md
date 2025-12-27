@@ -1,9 +1,10 @@
 ---
-title: "28 - Holy Innocents"
-created: 2024-12-28
+title: 28 - Holy Innocents
+created: 2024-12-28T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/church/calendar
+holiday: 12/28
 ---
 
 The holy infants raise a cry

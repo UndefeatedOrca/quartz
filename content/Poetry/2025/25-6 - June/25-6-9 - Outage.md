@@ -1,6 +1,6 @@
 ---
-title: "9 - Outage"
-created: 2025-06-09
+title: 9 - Outage
+created: 2025-06-09T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/CRA

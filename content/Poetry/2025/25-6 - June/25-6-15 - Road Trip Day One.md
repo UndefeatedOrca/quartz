@@ -1,6 +1,6 @@
 ---
-title: "15 - Road Trip Day One"
-created: 2025-06-15
+title: 15 - Road Trip Day One
+created: 2025-06-15T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/saga/roadtrip2025

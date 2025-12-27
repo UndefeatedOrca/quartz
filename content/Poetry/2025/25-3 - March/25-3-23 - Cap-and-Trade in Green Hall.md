@@ -1,6 +1,6 @@
 ---
-title: "23 - Cap-and-Trade in Green Hall"
-created: 2025-03-23
+title: 23 - Cap-and-Trade in Green Hall
+created: 2025-03-23T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/woman

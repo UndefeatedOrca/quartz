@@ -1,6 +1,6 @@
 ---
-title: "2 - Sprint"
-created: 2025-06-02
+title: 2 - Sprint
+created: 2025-06-02T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/commute

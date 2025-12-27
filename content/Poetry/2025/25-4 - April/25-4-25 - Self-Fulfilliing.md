@@ -1,6 +1,6 @@
 ---
-title: "25 - Self-Fulfilliing"
-created: 2025-04-25
+title: 25 - Self-Fulfilliing
+created: 2025-04-25T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/woman

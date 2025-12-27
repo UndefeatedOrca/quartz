@@ -1,6 +1,6 @@
 ---
-title: "27 - Post Caption"
-created: 2024-11-27
+title: 27 - Post Caption
+created: 2024-11-27T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

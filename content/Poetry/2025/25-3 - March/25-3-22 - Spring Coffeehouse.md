@@ -1,6 +1,6 @@
 ---
-title: "22 - Spring Coffeehouse"
-created: 2025-03-22
+title: 22 - Spring Coffeehouse
+created: 2025-03-22T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

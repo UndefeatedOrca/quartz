@@ -1,6 +1,6 @@
 ---
-title: "21 - Jonathan"
-created: 2024-10-21
+title: 21 - Jonathan
+created: 2024-10-21T00:00:00.000Z
 tags:
   - poem/limerick
   - poem/school/tomfoolery

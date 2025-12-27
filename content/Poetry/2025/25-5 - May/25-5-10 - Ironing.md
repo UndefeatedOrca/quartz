@@ -1,6 +1,6 @@
 ---
-title: "10 - Ironing"
-created: 2025-05-10
+title: 10 - Ironing
+created: 2025-05-10T00:00:00.000Z
 tags:
   - poem/ballad
 ---

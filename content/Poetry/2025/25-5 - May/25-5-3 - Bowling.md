@@ -1,6 +1,6 @@
 ---
-title: "3 - Bowling"
-created: 2025-05-03
+title: 3 - Bowling
+created: 2025-05-03T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

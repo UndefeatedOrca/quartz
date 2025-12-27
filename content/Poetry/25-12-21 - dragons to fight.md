@@ -1,6 +1,6 @@
 ---
-title: "21 - dragons to fight"
-created: 2025-12-21
+title: 21 - dragons to fight
+created: 2025-12-21T00:00:00.000Z
 tags:
   - poem/ballad
   - games/video

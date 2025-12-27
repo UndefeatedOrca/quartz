@@ -1,6 +1,6 @@
 ---
 title: 15 - Ides of March
-created: 2025-03-15
+created: 2025-03-15T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/history

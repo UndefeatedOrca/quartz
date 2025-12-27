@@ -1,6 +1,6 @@
 ---
-title: "29 - Puzzle Pieces"
-created: 2025-04-29
+title: 29 - Puzzle Pieces
+created: 2025-04-29T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/acrostic

@@ -1,6 +1,6 @@
 ---
-title: "27 - careful"
-created: 2025-01-27
+title: 27 - careful
+created: 2025-01-27T00:00:00.000Z
 tags:
   - poem/ballad
 ---

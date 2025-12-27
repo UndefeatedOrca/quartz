@@ -1,6 +1,6 @@
 ---
-title: "19 - Foosball"
-created: 2025-09-19
+title: 19 - Foosball
+created: 2025-09-19T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

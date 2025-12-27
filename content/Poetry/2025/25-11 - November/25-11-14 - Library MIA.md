@@ -1,6 +1,6 @@
 ---
-title: "14 - Library MIA"
-created: 2025-11-14
+title: 14 - Library MIA
+created: 2025-11-14T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

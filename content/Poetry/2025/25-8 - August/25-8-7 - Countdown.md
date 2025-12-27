@@ -1,6 +1,6 @@
 ---
-title: "7 - Countdown"
-created: 2025-08-07
+title: 7 - Countdown
+created: 2025-08-07T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

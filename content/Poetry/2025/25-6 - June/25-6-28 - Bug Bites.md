@@ -1,6 +1,6 @@
 ---
-title: "28 - Bug Bites"
-created: 2025-06-28
+title: 28 - Bug Bites
+created: 2025-06-28T00:00:00.000Z
 tags:
   - poem/ballad
 ---

@@ -1,6 +1,6 @@
 ---
-title: "2 - JV-Novice Nats"
-created: 2025-03-02
+title: 2 - JV-Novice Nats
+created: 2025-03-02T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

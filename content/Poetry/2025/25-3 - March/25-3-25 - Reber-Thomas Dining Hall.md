@@ -1,6 +1,6 @@
 ---
-title: "25 - Reber-Thomas Dining Hall"
-created: 2025-03-25
+title: 25 - Reber-Thomas Dining Hall
+created: 2025-03-25T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

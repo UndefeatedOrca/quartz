@@ -1,6 +1,6 @@
 ---
-title: "18 - Procedurals"
-created: 2025-03-18
+title: 18 - Procedurals
+created: 2025-03-18T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

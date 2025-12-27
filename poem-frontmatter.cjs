@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const matter = require('gray-matter');
 
 // Configuration
 const CONTENT_DIR = './content'; // Adjust if needed
@@ -63,25 +64,6 @@ function extractTags(content) {
   return { tags: allTags, contentWithoutTags };
 }
 
-function addFrontmatter(content, metadata) {
-  const { date, title, tags } = metadata;
-  
-  let frontmatter = '---\n';
-  frontmatter += `title: "${title}"\n`;
-  frontmatter += `created: ${date}\n`;
-  
-  if (tags && tags.length > 0) {
-    frontmatter += 'tags:\n';
-    tags.forEach(tag => {
-      frontmatter += `  - ${tag}\n`;
-    });
-  }
-  
-  frontmatter += '---\n\n';
-  
-  return frontmatter + content;
-}
-
 function processFile(filePath) {
   const filename = path.basename(filePath);
   const parsed = parseFilename(filename);
@@ -91,26 +73,46 @@ function processFile(filePath) {
     return;
   }
   
-  const content = fs.readFileSync(filePath, 'utf8');
+  const fileContent = fs.readFileSync(filePath, 'utf8');
   
-  // Check if already has frontmatter
-  if (content.startsWith('---')) {
-    console.log(`⏭️  Skipping ${filename} (already has frontmatter)`);
-    return;
+  // Parse existing frontmatter if present
+  const { data: existingFrontmatter, content } = matter(fileContent);
+  
+  // Extract tags from content
+  const { tags: extractedTags, contentWithoutTags } = extractTags(content);
+  
+  // Merge frontmatter
+  const newFrontmatter = { ...existingFrontmatter };
+  
+  // Add title if missing or empty
+  if (!newFrontmatter.title || newFrontmatter.title.trim() === '') {
+    newFrontmatter.title = parsed.title;
   }
   
-  const { tags, contentWithoutTags } = extractTags(content);
-  const newContent = addFrontmatter(contentWithoutTags, {
-    date: parsed.date,
-    title: parsed.title,
-    tags,
-  });
+  // Add created date if missing or empty
+  if (!newFrontmatter.created || newFrontmatter.created.toString().trim() === '') {
+    newFrontmatter.created = parsed.date;
+  }
+  
+  // Merge tags - combine existing with extracted, remove duplicates
+  const existingTags = Array.isArray(newFrontmatter.tags) 
+    ? newFrontmatter.tags 
+    : (newFrontmatter.tags ? [newFrontmatter.tags] : []);
+  
+  const allTags = [...new Set([...existingTags, ...extractedTags])];
+  
+  if (allTags.length > 0) {
+    newFrontmatter.tags = allTags;
+  }
+  
+  // Reconstruct file with updated frontmatter
+  const newContent = matter.stringify(contentWithoutTags, newFrontmatter);
   
   if (DRY_RUN) {
     console.log(`\n📝 Would process: ${filename}`);
-    console.log(`   Date: ${parsed.date}`);
-    console.log(`   Title: ${parsed.title}`);
-    console.log(`   Tags: ${tags.join(', ') || 'none'}`);
+    console.log(`   Title: ${newFrontmatter.title} ${existingFrontmatter.title ? '(preserved)' : '(added)'}`);
+    console.log(`   Date: ${newFrontmatter.created} ${existingFrontmatter.created ? '(preserved)' : '(added)'}`);
+    console.log(`   Tags: ${allTags.join(', ') || 'none'} ${extractedTags.length > 0 ? `(+${extractedTags.length} from content)` : ''}`);
   } else {
     fs.writeFileSync(filePath, newContent, 'utf8');
     console.log(`✅ Processed: ${filename}`);

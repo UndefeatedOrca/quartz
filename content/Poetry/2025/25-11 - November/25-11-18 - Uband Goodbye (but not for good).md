@@ -1,6 +1,6 @@
 ---
-title: "18 - Uband Goodbye (but not for good)"
-created: 2025-11-18
+title: 18 - Uband Goodbye (but not for good)
+created: 2025-11-18T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

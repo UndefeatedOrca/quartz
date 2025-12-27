@@ -1,6 +1,6 @@
 ---
-title: "23 - The Edit"
-created: 2024-07-23
+title: 23 - The Edit
+created: 2024-07-23T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/CRA

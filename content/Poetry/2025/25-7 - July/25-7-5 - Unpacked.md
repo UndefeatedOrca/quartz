@@ -1,6 +1,6 @@
 ---
-title: "5 - Unpacked"
-created: 2025-07-05
+title: 5 - Unpacked
+created: 2025-07-05T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school/dorms

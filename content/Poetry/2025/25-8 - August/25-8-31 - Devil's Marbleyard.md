@@ -1,6 +1,6 @@
 ---
-title: "31 - Devil's Marbleyard"
-created: 2025-08-31
+title: 31 - Devil's Marbleyard
+created: 2025-08-31T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

@@ -1,6 +1,6 @@
 ---
-title: "1 - Rent-a-Son"
-created: 2025-06-01
+title: 1 - Rent-a-Son
+created: 2025-06-01T00:00:00.000Z
 tags:
   - poem/friends
 ---

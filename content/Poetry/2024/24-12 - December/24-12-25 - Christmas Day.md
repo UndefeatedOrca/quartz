@@ -1,6 +1,6 @@
 ---
-title: "25 - Christmas Day"
-created: 2024-12-25
+title: 25 - Christmas Day
+created: 2024-12-25T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/church/calendar

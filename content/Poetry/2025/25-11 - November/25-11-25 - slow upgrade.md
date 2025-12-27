@@ -1,6 +1,6 @@
 ---
-title: "25 - slow upgrade"
-created: 2025-11-25
+title: 25 - slow upgrade
+created: 2025-11-25T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/tech

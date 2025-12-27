@@ -1,6 +1,6 @@
 ---
-title: "17 - Moving Day"
-created: 2025-05-17
+title: 17 - Moving Day
+created: 2025-05-17T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/poems

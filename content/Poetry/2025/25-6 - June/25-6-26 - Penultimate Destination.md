@@ -1,6 +1,6 @@
 ---
-title: "26 - Penultimate Destination"
-created: 2025-06-26
+title: 26 - Penultimate Destination
+created: 2025-06-26T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/saga/roadtrip2025

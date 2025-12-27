@@ -1,6 +1,6 @@
 ---
-title: "21 - Locker"
-created: 2025-03-21
+title: 21 - Locker
+created: 2025-03-21T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

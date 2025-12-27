@@ -1,6 +1,6 @@
 ---
-title: "7 - Finals are(n't) Cancelled"
-created: 2025-12-07
+title: 7 - Finals are(n't) Cancelled
+created: 2025-12-07T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/nature/snow

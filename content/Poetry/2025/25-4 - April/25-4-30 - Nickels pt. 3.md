@@ -1,6 +1,6 @@
 ---
-title: "30 - Nickels pt. 3"
-created: 2025-04-30
+title: 30 - Nickels pt. 3
+created: 2025-04-30T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/woman

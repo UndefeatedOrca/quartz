@@ -1,6 +1,6 @@
 ---
-title: "7 - Sweden"
-created: 2024-11-07
+title: 7 - Sweden
+created: 2024-11-07T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

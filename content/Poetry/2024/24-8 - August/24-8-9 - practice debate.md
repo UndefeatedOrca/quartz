@@ -1,6 +1,6 @@
 ---
-title: "9 - practice debate"
-created: 2024-08-09
+title: 9 - practice debate
+created: 2024-08-09T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

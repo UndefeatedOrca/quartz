@@ -1,6 +1,6 @@
 ---
-title: "26 - dentistry"
-created: 2025-11-26
+title: 26 - dentistry
+created: 2025-11-26T00:00:00.000Z
 tags:
   - poem/dentist
 ---

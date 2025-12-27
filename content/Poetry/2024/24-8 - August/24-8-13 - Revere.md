@@ -1,6 +1,6 @@
 ---
-title: "13 - Revere"
-created: 2024-08-13
+title: 13 - Revere
+created: 2024-08-13T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

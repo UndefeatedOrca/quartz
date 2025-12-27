@@ -1,6 +1,6 @@
 ---
-title: "12 - Commissions"
-created: 2025-06-12
+title: 12 - Commissions
+created: 2025-06-12T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/poems

@@ -1,6 +1,6 @@
 ---
-title: "24 - Graphic Design Is My Passion"
-created: 2024-12-24
+title: 24 - Graphic Design Is My Passion
+created: 2024-12-24T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/poems

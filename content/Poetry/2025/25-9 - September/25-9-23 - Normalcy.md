@@ -1,6 +1,6 @@
 ---
-title: "23 - Normalcy"
-created: 2025-09-23
+title: 23 - Normalcy
+created: 2025-09-23T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

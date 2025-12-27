@@ -1,6 +1,6 @@
 ---
-title: "19 - Juneteenth"
-created: 2024-06-19
+title: 19 - Juneteenth
+created: 2024-06-19T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/commute

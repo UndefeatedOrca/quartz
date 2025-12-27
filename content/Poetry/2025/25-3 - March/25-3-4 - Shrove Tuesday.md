@@ -1,6 +1,6 @@
 ---
-title: "4 - Shrove Tuesday"
-created: 2025-03-04
+title: 4 - Shrove Tuesday
+created: 2025-03-04T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/church/calendar

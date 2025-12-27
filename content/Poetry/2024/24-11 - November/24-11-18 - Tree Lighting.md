@@ -1,6 +1,6 @@
 ---
-title: "18 - Tree Lighting"
-created: 2024-11-18
+title: 18 - Tree Lighting
+created: 2024-11-18T00:00:00.000Z
 tags:
   - poem/church
   - poem/school

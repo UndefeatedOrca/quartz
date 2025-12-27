@@ -1,6 +1,6 @@
 ---
-title: "13 - Christmas Music"
-created: 2025-12-13
+title: 13 - Christmas Music
+created: 2025-12-13T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/church

@@ -1,6 +1,6 @@
 ---
-title: "26 - Hanging Lights"
-created: 2024-11-26
+title: 26 - Hanging Lights
+created: 2024-11-26T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school/dorms

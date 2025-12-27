@@ -1,2 +1,0 @@
-# 12/02 - Contact Cleaner
-I was reminded today of the existence of electrical contact cleaner. That wonderful concoction has incredible powers which I do not fully understand. What I do know is that it was able to fix the volume wheel on my keyboard where nothing else could, and that the solution was relatively cheap. There are unfortunately not other electrical contacts that I own which are in need of cleaning, but if I ever do need to clean them, I have the tool for the job.

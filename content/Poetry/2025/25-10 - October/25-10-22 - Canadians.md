@@ -1,6 +1,6 @@
 ---
-title: "22 - Canadians"
-created: 2025-10-22
+title: 22 - Canadians
+created: 2025-10-22T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

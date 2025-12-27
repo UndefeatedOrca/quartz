@@ -1,6 +1,6 @@
 ---
-title: "10 - Night Train"
-created: 2025-02-10
+title: 10 - Night Train
+created: 2025-02-10T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/nature

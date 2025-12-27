@@ -1,6 +1,6 @@
 ---
-title: "16 - Dairy Products"
-created: 2025-05-16
+title: 16 - Dairy Products
+created: 2025-05-16T00:00:00.000Z
 tags:
   - poem/ballad
 ---

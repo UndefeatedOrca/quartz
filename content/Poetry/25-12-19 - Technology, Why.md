@@ -1,6 +1,6 @@
 ---
-title: "19 - Technology, Why"
-created: 2025-12-19
+title: '19 - Technology, Why'
+created: 2025-12-19T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/tech

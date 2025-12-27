@@ -1,9 +1,8 @@
 ---
-title: "9 - Fall Break"
-created: 2024-10-09
+title: 9 - Fall Break
+created: 2024-10-09T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/sleep
   - poem/sleep
 ---
 

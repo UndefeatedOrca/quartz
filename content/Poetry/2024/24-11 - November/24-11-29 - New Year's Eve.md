@@ -1,6 +1,6 @@
 ---
-title: "29 - New Year's Eve"
-created: 2024-11-29
+title: 29 - New Year's Eve
+created: 2024-11-29T00:00:00.000Z
 tags:
   - poem/church/calendar
   - poem/ballad

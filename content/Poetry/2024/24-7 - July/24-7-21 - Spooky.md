@@ -1,6 +1,6 @@
 ---
-title: "21 - Spooky"
-created: 2024-07-21
+title: 21 - Spooky
+created: 2024-07-21T00:00:00.000Z
 tags:
   - poem/ballad
 ---

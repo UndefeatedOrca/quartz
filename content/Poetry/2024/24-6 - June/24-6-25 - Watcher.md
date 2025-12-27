@@ -1,6 +1,6 @@
 ---
-title: "25 - Watcher"
-created: 2024-06-25
+title: 25 - Watcher
+created: 2024-06-25T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/commute

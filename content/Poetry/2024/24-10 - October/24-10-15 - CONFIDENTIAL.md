@@ -1,6 +1,6 @@
 ---
-title: "15 - CONFIDENTIAL"
-created: 2024-10-15
+title: 15 - CONFIDENTIAL
+created: 2024-10-15T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school/tomfoolery

@@ -1,6 +1,6 @@
 ---
-title: "25 - Unanswered"
-created: 2025-05-25
+title: 25 - Unanswered
+created: 2025-05-25T00:00:00.000Z
 tags:
   - poem/ballad
 ---

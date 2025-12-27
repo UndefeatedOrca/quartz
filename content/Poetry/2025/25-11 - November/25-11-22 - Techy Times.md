@@ -1,6 +1,6 @@
 ---
-title: "22 - Techy Times"
-created: 2025-11-22
+title: 22 - Techy Times
+created: 2025-11-22T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/tech

@@ -1,6 +1,6 @@
 ---
-title: "13 - Previously On . . ."
-created: 2025-08-13
+title: 13 - Previously On . . .
+created: 2025-08-13T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

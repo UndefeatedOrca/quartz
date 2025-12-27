@@ -1,6 +1,6 @@
 ---
-title: "8 - Spring Semester"
-created: 2025-01-08
+title: 8 - Spring Semester
+created: 2025-01-08T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

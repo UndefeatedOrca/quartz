@@ -1,6 +1,6 @@
 ---
-title: "27 - Buried"
-created: 2024-08-27
+title: 27 - Buried
+created: 2024-08-27T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

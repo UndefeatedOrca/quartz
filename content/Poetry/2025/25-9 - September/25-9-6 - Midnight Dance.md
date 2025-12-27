@@ -1,6 +1,6 @@
 ---
-title: "6 - Midnight Dance"
-created: 2025-09-06
+title: 6 - Midnight Dance
+created: 2025-09-06T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/dancing

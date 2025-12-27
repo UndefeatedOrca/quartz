@@ -1,6 +1,6 @@
 ---
-title: "11 - Twenty-Five Remain"
-created: 2025-05-11
+title: 11 - Twenty-Five Remain
+created: 2025-05-11T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/poems

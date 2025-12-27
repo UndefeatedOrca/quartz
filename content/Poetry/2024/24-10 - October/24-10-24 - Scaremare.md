@@ -1,6 +1,6 @@
 ---
-title: "24 - Scaremare"
-created: 2024-10-24
+title: 24 - Scaremare
+created: 2024-10-24T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

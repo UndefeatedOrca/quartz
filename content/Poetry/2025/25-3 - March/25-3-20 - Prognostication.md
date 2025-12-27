@@ -1,6 +1,6 @@
 ---
-title: "20 - Prognostication"
-created: 2025-03-20
+title: 20 - Prognostication
+created: 2025-03-20T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

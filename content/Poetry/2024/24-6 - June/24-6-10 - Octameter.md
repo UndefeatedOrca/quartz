@@ -3,9 +3,9 @@ title: 10-Ocatmeter
 draft: false
 tags:
   - poem/poems
-description:
-created: 2024-06-10
-modified: 2024-06-23
+description: null
+created: 2024-06-10T00:00:00.000Z
+modified: 2024-06-23T00:00:00.000Z
 ---
 This sonnet writing exercise
 Thus far has gone a bit awry
@@ -22,5 +22,4 @@ Police caught me, here's my offense
 For just one more iamb I need)
 To make my poem a sonnet read
 ### Note
-Second to last line read "Two syllables I seem to need" when originally published 
-#poem/poems
+Second to last line read "Two syllables I seem to need" when originally published

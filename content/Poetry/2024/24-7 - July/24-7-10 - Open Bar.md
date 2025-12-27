@@ -1,6 +1,6 @@
 ---
-title: "10 - Open Bar"
-created: 2024-07-10
+title: 10 - Open Bar
+created: 2024-07-10T00:00:00.000Z
 tags:
   - poem/ballad
 ---

@@ -1,6 +1,6 @@
 ---
-title: "14 - Fusion PIC (Voted on the CP)"
-created: 2024-10-14
+title: 14 - Fusion PIC (Voted on the CP)
+created: 2024-10-14T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

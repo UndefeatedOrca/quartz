@@ -1,6 +1,6 @@
 ---
-title: "9 - Windows to the Past"
-created: 2025-10-09
+title: 9 - Windows to the Past
+created: 2025-10-09T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/favorites

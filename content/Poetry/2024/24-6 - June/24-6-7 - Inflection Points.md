@@ -1,6 +1,6 @@
 ---
-title: "7 - Inflection Points"
-created: 2024-06-07
+title: 7 - Inflection Points
+created: 2024-06-07T00:00:00.000Z
 tags:
   - poem/politics
   - poem/limerick

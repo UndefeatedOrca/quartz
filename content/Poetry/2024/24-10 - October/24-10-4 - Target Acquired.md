@@ -1,6 +1,6 @@
 ---
-title: "4 - Target Acquired"
-created: 2024-10-04
+title: 4 - Target Acquired
+created: 2024-10-04T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/saga/assassin

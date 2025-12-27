@@ -1,6 +1,6 @@
 ---
-title: "15 - Drafts"
-created: 2025-07-15
+title: 15 - Drafts
+created: 2025-07-15T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/poems

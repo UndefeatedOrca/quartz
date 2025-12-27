@@ -1,6 +1,6 @@
 ---
-title: "29 - Idea Search"
-created: 2024-12-29
+title: 29 - Idea Search
+created: 2024-12-29T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

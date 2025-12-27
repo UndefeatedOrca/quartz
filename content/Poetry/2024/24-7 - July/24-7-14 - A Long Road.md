@@ -1,6 +1,6 @@
 ---
-title: "14 - A Long Road"
-created: 2024-07-14
+title: 14 - A Long Road
+created: 2024-07-14T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

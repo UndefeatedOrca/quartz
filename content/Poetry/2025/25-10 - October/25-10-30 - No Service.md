@@ -1,6 +1,6 @@
 ---
-title: "30 - No Service"
-created: 2025-10-30
+title: 30 - No Service
+created: 2025-10-30T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/saga/camping24

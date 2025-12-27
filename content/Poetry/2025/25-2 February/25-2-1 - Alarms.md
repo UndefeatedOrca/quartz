@@ -1,6 +1,6 @@
 ---
-title: "1 - Alarms"
-created: 2025-02-01
+title: 1 - Alarms
+created: 2025-02-01T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school/dorms

@@ -1,6 +1,6 @@
 ---
-title: "2 - Prank Call"
-created: 2025-05-02
+title: 2 - Prank Call
+created: 2025-05-02T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school/watching

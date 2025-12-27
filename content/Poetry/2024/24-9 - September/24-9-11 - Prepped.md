@@ -1,6 +1,6 @@
 ---
-title: "11 - Prepped"
-created: 2024-09-11
+title: 11 - Prepped
+created: 2024-09-11T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

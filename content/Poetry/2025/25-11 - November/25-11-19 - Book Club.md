@@ -1,6 +1,6 @@
 ---
-title: "19 - Book Club"
-created: 2025-11-19
+title: 19 - Book Club
+created: 2025-11-19T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

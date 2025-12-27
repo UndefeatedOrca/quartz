@@ -1,6 +1,6 @@
 ---
-title: "2 - Certified"
-created: 2024-10-02
+title: 2 - Certified
+created: 2024-10-02T00:00:00.000Z
 tags:
   - poem/ballad
 ---

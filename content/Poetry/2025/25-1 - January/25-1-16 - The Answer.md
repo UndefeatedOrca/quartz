@@ -1,6 +1,6 @@
 ---
-title: "16 - The Answer"
-created: 2025-01-16
+title: 16 - The Answer
+created: 2025-01-16T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/church

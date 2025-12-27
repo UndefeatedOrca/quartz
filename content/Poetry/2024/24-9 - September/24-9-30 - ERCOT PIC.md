@@ -1,6 +1,6 @@
 ---
-title: "30 - ERCOT PIC"
-created: 2024-09-30
+title: 30 - ERCOT PIC
+created: 2024-09-30T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

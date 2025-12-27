@@ -1,6 +1,6 @@
 ---
-title: "30 - Old Routines"
-created: 2025-06-30
+title: 30 - Old Routines
+created: 2025-06-30T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/CRA

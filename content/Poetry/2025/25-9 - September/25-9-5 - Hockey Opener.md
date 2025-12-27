@@ -1,6 +1,6 @@
 ---
-title: "5 - Hockey Opener"
-created: 2025-09-05
+title: 5 - Hockey Opener
+created: 2025-09-05T00:00:00.000Z
 tags:
   - poem/ballad
   - games/hockey

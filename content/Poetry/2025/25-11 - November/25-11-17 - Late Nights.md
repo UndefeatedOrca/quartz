@@ -1,6 +1,6 @@
 ---
-title: "17 - Late Nights"
-created: 2025-11-17
+title: 17 - Late Nights
+created: 2025-11-17T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

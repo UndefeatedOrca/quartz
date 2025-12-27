@@ -1,6 +1,6 @@
 ---
-title: "4 - Early Bedtime"
-created: 2025-05-04
+title: 4 - Early Bedtime
+created: 2025-05-04T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school/dorms

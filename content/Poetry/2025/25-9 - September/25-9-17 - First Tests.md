@@ -1,6 +1,6 @@
 ---
-title: "17 - First Tests"
-created: 2025-09-17
+title: 17 - First Tests
+created: 2025-09-17T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

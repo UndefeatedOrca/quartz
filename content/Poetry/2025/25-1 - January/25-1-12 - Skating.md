@@ -1,6 +1,6 @@
 ---
-title: "12 - Skating"
-created: 2025-01-12
+title: 12 - Skating
+created: 2025-01-12T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

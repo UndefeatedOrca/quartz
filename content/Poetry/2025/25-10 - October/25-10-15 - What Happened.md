@@ -1,6 +1,6 @@
 ---
-title: "15 - What Happened"
-created: 2025-10-15
+title: 15 - What Happened
+created: 2025-10-15T00:00:00.000Z
 tags:
   - poem/ballad
 ---

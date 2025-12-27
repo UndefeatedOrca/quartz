@@ -1,6 +1,6 @@
 ---
-title: "27 - Road Trip Day One"
-created: 2024-06-27
+title: 27 - Road Trip Day One
+created: 2024-06-27T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/saga/roadtrip2024

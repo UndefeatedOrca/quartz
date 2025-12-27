@@ -1,6 +1,6 @@
 ---
-title: "17 - Invasion"
-created: 2025-04-17
+title: 17 - Invasion
+created: 2025-04-17T00:00:00.000Z
 tags:
   - poem/friends
   - poem/school

@@ -1,6 +1,6 @@
 ---
-title: "9 - The Face in the Snow"
-created: 2025-01-09
+title: 9 - The Face in the Snow
+created: 2025-01-09T00:00:00.000Z
 tags:
   - poem
 ---

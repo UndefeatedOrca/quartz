@@ -1,6 +1,6 @@
 ---
-title: "2 - ahhhhh"
-created: 2025-12-02
+title: 2 - ahhhhh
+created: 2025-12-02T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/sleep

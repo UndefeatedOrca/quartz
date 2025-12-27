@@ -1,6 +1,6 @@
 ---
-title: "3 - Burning"
-created: 2024-11-03
+title: 3 - Burning
+created: 2024-11-03T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/nature/seasons

@@ -1,6 +1,6 @@
 ---
-title: "29 - Daily Poem"
-created: 2024-10-29
+title: 29 - Daily Poem
+created: 2024-10-29T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/poems

@@ -1,6 +1,6 @@
 ---
-title: "25 - Nice Day"
-created: 2025-02-25
+title: 25 - Nice Day
+created: 2025-02-25T00:00:00.000Z
 tags:
   - poem/nature/seasons
 ---

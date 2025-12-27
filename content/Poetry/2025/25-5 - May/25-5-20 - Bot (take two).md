@@ -1,6 +1,6 @@
 ---
-title: "20 - Bot (take two)"
-created: 2025-05-20
+title: 20 - Bot (take two)
+created: 2025-05-20T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/tech

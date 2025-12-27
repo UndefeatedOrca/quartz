@@ -1,6 +1,6 @@
 ---
-title: "4 - Ahead of Class"
-created: 2025-09-04
+title: 4 - Ahead of Class
+created: 2025-09-04T00:00:00.000Z
 tags:
   - poem/ballad
   - games/hockey

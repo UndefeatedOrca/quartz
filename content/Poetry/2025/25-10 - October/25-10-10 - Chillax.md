@@ -1,6 +1,6 @@
 ---
-title: "10 - Chillax"
-created: 2025-10-10
+title: 10 - Chillax
+created: 2025-10-10T00:00:00.000Z
 tags:
   - poem/ballad
 ---

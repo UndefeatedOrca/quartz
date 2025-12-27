@@ -1,6 +1,6 @@
 ---
-title: "29 - Doorman"
-created: 2024-07-29
+title: 29 - Doorman
+created: 2024-07-29T00:00:00.000Z
 tags:
   - poem/ballad
 ---

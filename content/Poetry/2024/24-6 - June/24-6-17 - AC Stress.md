@@ -1,6 +1,6 @@
 ---
-title: "17 - AC Stress"
-created: 2024-06-17
+title: 17 - AC Stress
+created: 2024-06-17T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/CRA/AC

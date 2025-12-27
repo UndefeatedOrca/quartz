@@ -1,6 +1,6 @@
 ---
-title: "16 - womp womp"
-created: 2024-10-16
+title: 16 - womp womp
+created: 2024-10-16T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school/tomfoolery

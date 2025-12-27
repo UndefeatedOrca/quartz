@@ -27,7 +27,7 @@ Most importantly though, and to tie this all back to the previous random thought
 
 Bunny never did gain world domination, but I like to think that I did my part to give him his best possible chance.
 
-In other words, the first time I used [ASCII Art](EmojiKeyboardASCIIArt) was in my Scratch signature. Wow!
+In other words, the first time I used [ASCII Art](EmojiKeyboardASCIIArt.md) was in my Scratch signature. Wow!
 
 [^1]: I won’t flex about being a gifted elementary school student, but I will flex about that boat.
 

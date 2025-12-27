@@ -1,6 +1,6 @@
 ---
-title: "14 - Snowman"
-created: 2024-12-14
+title: 14 - Snowman
+created: 2024-12-14T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/nature/snow

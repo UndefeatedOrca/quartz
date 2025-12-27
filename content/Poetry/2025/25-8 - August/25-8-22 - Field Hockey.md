@@ -1,6 +1,6 @@
 ---
-title: "22 - Field Hockey"
-created: 2025-08-22
+title: 22 - Field Hockey
+created: 2025-08-22T00:00:00.000Z
 tags:
   - poem/ballad
   - games/hockey

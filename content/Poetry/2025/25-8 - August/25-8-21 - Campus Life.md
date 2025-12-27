@@ -1,6 +1,6 @@
 ---
-title: "21 - Campus Life"
-created: 2025-08-21
+title: 21 - Campus Life
+created: 2025-08-21T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

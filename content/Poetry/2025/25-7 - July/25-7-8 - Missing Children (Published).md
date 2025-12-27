@@ -1,6 +1,6 @@
 ---
-title: "8 - Missing Children (Published)"
-created: 2025-07-08
+title: 8 - Missing Children (Published)
+created: 2025-07-08T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/CRA

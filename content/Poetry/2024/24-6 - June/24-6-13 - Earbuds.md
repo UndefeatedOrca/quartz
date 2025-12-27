@@ -1,6 +1,6 @@
 ---
-title: "13 - Earbuds"
-created: 2024-06-13
+title: 13 - Earbuds
+created: 2024-06-13T00:00:00.000Z
 tags:
   - poem/commute
   - poem/ballad

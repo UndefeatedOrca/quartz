@@ -1,6 +1,6 @@
 ---
-title: "19 - Intermission"
-created: 2025-04-19
+title: 19 - Intermission
+created: 2025-04-19T00:00:00.000Z
 tags:
   - poem/ballad
 ---

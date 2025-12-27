@@ -1,6 +1,6 @@
 ---
-title: "21 - Thematic"
-created: 2025-04-21
+title: 21 - Thematic
+created: 2025-04-21T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/sleep

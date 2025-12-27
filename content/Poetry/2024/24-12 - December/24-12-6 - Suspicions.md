@@ -1,6 +1,6 @@
 ---
-title: "6 - Suspicions"
-created: 2024-12-06
+title: 6 - Suspicions
+created: 2024-12-06T00:00:00.000Z
 tags:
   - poem/ballad
 ---

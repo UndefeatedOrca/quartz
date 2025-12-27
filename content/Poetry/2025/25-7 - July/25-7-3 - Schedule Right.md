@@ -1,6 +1,6 @@
 ---
-title: "3 - Schedule Right"
-created: 2025-07-03
+title: 3 - Schedule Right
+created: 2025-07-03T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/sleep

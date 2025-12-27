@@ -1,6 +1,6 @@
 ---
 title: 13 - Covid Anniversary
-created: 2025-03-13
+created: 2025-03-13T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

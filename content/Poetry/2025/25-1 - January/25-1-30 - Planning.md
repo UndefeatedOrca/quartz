@@ -1,6 +1,6 @@
 ---
-title: "30 - Planning"
-created: 2025-01-30
+title: 30 - Planning
+created: 2025-01-30T00:00:00.000Z
 tags:
   - poem/ballad
   - unfinished

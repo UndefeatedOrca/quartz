@@ -1,3 +1,10 @@
+---
+title: 25 - Evilskevers
+created: '2025-12-25'
+tags:
+  - poem/ballad
+  - poem/family
+---
 For breakfast I will let you choose
 The content of your meal
 I hope that you are wise in that
@@ -21,6 +28,4 @@ I'd grab those if I could
 Just stay away from salsa ones
 And steer yourself toward fruits
 The evilskivers aren't the best
-But ebelskevers? Beauts 
-
-#poem/ballad #poem/family 
+But ebelskevers? Beauts

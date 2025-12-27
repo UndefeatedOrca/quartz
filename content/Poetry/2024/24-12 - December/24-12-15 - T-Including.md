@@ -1,6 +1,6 @@
 ---
-title: "15 - T-Including"
-created: 2024-12-15
+title: 15 - T-Including
+created: 2024-12-15T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

@@ -1,6 +1,6 @@
 ---
-title: "4 - Caroling"
-created: 2024-12-04
+title: 4 - Caroling
+created: 2024-12-04T00:00:00.000Z
 tags:
   - poem/debate
   - poem/ballad

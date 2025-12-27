@@ -1,6 +1,6 @@
 ---
-title: "30 - First Game"
-created: 2025-08-30
+title: 30 - First Game
+created: 2025-08-30T00:00:00.000Z
 tags:
   - poem/ballad
   - games/football

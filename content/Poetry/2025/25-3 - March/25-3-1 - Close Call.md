@@ -1,6 +1,6 @@
 ---
-title: "1 - Close Call"
-created: 2025-03-01
+title: 1 - Close Call
+created: 2025-03-01T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/poems

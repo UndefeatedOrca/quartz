@@ -1,6 +1,6 @@
 ---
-title: "10 - Chance Encounters"
-created: 2025-04-10
+title: 10 - Chance Encounters
+created: 2025-04-10T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

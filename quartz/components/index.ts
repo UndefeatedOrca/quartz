@@ -24,6 +24,9 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 
+//custom components
+import HolidayCalendar from "./HolidayCalendar"
+
 export {
   ArticleTitle,
   Content,
@@ -50,4 +53,7 @@ export {
   Comments,
   Flex,
   ConditionalRender,
+
+  //custom components
+  HolidayCalendar,
 }

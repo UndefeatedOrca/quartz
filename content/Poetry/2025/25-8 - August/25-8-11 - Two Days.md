@@ -1,6 +1,6 @@
 ---
-title: "11 - Two Days"
-created: 2025-08-11
+title: 11 - Two Days
+created: 2025-08-11T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

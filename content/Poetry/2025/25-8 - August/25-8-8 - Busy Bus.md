@@ -1,6 +1,6 @@
 ---
-title: "8 - Busy Bus"
-created: 2025-08-08
+title: 8 - Busy Bus
+created: 2025-08-08T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/commute

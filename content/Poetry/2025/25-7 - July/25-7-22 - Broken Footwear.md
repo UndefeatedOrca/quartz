@@ -1,6 +1,6 @@
 ---
-title: "22 - Broken Footwear"
-created: 2025-07-22
+title: 22 - Broken Footwear
+created: 2025-07-22T00:00:00.000Z
 tags:
   - poem/ballad
 ---

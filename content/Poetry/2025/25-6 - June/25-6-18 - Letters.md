@@ -1,6 +1,6 @@
 ---
-title: "18 - Letters"
-created: 2025-06-18
+title: 18 - Letters
+created: 2025-06-18T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/nature/weather

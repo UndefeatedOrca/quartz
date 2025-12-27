@@ -1,6 +1,6 @@
 ---
-title: "26 - Euchre"
-created: 2025-05-26
+title: 26 - Euchre
+created: 2025-05-26T00:00:00.000Z
 tags:
   - poem/ballad
   - games

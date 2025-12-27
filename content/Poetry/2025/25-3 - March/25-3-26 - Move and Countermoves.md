@@ -1,6 +1,6 @@
 ---
-title: "26 - Move and Countermoves"
-created: 2025-03-26
+title: 26 - Move and Countermoves
+created: 2025-03-26T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/woman

@@ -1,6 +1,6 @@
 ---
-title: "29 - Bus Schedule Changes"
-created: 2025-06-29
+title: 29 - Bus Schedule Changes
+created: 2025-06-29T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/commute

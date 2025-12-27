@@ -1,6 +1,6 @@
 ---
-title: "24 - Early Wakeup"
-created: 2025-07-24
+title: 24 - Early Wakeup
+created: 2025-07-24T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/sleep

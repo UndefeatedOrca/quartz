@@ -1,6 +1,6 @@
 ---
-title: "24 - T Subsidies"
-created: 2024-09-24
+title: 24 - T Subsidies
+created: 2024-09-24T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

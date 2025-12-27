@@ -1,6 +1,6 @@
 ---
-title: "30 - Ripples"
-created: 2025-05-30
+title: 30 - Ripples
+created: 2025-05-30T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/commute

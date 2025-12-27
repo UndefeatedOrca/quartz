@@ -1,6 +1,6 @@
 ---
-title: "8 - Beekeeper"
-created: 2024-06-08
+title: 8 - Beekeeper
+created: 2024-06-08T00:00:00.000Z
 tags:
   - poem/nature/animal
   - poem/favorites

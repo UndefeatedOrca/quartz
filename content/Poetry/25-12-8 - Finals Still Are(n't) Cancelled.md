@@ -1,6 +1,6 @@
 ---
-title: "8 - Finals Still Are(n't) Cancelled"
-created: 2025-12-08
+title: 8 - Finals Still Are(n't) Cancelled
+created: 2025-12-08T00:00:00.000Z
 tags:
   - poem/haiku
   - poem/school

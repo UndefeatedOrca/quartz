@@ -1,6 +1,6 @@
 ---
-title: "29 - North Campus"
-created: 2025-08-29
+title: 29 - North Campus
+created: 2025-08-29T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

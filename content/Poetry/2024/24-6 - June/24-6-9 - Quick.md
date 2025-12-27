@@ -1,6 +1,6 @@
 ---
-title: "9 - Quick"
-created: 2024-06-09
+title: 9 - Quick
+created: 2024-06-09T00:00:00.000Z
 tags:
   - poem/sleep
   - poem/haiku

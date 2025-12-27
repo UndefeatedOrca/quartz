@@ -1,6 +1,6 @@
 ---
-title: "14 - Missing"
-created: 2024-06-14
+title: 14 - Missing
+created: 2024-06-14T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/commute

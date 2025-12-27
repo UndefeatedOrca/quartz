@@ -1,6 +1,6 @@
 ---
-title: "1 - Fan Switch"
-created: 2025-04-01
+title: 1 - Fan Switch
+created: 2025-04-01T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school/dorms

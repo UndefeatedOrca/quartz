@@ -1,6 +1,6 @@
 ---
-title: "31 - Deja Vu - AC Edition"
-created: 2025-07-31
+title: 31 - Deja Vu - AC Edition
+created: 2025-07-31T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/CRA/AC

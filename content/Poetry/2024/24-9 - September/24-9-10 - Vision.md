@@ -1,6 +1,6 @@
 ---
-title: "10 - Vision"
-created: 2024-09-10
+title: 10 - Vision
+created: 2024-09-10T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school/watching

@@ -1,6 +1,6 @@
 ---
-title: "11 - Memory"
-created: 2025-04-11
+title: 11 - Memory
+created: 2025-04-11T00:00:00.000Z
 tags:
   - poem/ballad
 ---

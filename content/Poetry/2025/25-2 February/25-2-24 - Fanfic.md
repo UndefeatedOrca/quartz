@@ -1,6 +1,6 @@
 ---
-title: "24 - Fanfic"
-created: 2025-02-24
+title: 24 - Fanfic
+created: 2025-02-24T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/books

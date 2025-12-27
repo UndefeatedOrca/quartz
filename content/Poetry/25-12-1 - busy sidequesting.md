@@ -1,6 +1,6 @@
 ---
-title: "1 - busy sidequesting"
-created: 2025-12-01
+title: 1 - busy sidequesting
+created: 2025-12-01T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

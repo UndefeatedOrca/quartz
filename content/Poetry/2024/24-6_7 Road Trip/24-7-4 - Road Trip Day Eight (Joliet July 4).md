@@ -1,9 +1,10 @@
 ---
-title: "4 - Road Trip Day Eight (Joliet July 4)"
-created: 2024-07-04
+title: 4 - Road Trip Day Eight (Joliet July 4)
+created: 2024-07-04T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/saga/roadtrip2024
+holiday: 07/04
 ---
 
 America's birthday today

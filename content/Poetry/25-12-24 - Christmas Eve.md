@@ -1,3 +1,10 @@
+---
+title: 24 - Christmas Eve
+created: '2025-12-24'
+tags:
+  - poem/ballad
+  - poem/church/calendar
+---
 The bells have run, the people sung
 They're ready for the day
 Where we remember Jesus birth
@@ -17,5 +24,3 @@ A humbling a ne'er before
 The great inverse of place
 Is altogether all within
 A little Child's face
-
-#poem/ballad #poem/church/calendar 

@@ -1,6 +1,6 @@
 ---
-title: "5 - Ashes to Ashes"
-created: 2025-03-05
+title: 5 - Ashes to Ashes
+created: 2025-03-05T00:00:00.000Z
 tags:
   - poem/church/calendar
   - poem/ballad

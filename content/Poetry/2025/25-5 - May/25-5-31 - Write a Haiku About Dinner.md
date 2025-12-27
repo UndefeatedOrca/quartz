@@ -1,6 +1,6 @@
 ---
-title: "31 - Write a Haiku About Dinner"
-created: 2025-05-31
+title: 31 - Write a Haiku About Dinner
+created: 2025-05-31T00:00:00.000Z
 tags:
   - poem/haiku
   - poem/family

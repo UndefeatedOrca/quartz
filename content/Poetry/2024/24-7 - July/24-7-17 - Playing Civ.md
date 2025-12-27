@@ -1,6 +1,6 @@
 ---
-title: "17 - Playing Civ"
-created: 2024-07-17
+title: 17 - Playing Civ
+created: 2024-07-17T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/sleep

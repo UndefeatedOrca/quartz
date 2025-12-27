@@ -1,6 +1,6 @@
 ---
-title: "6 - Return"
-created: 2025-05-06
+title: 6 - Return
+created: 2025-05-06T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

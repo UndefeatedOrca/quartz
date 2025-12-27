@@ -1,6 +1,6 @@
 ---
-title: "8 - The Crayon Incident of '22"
-created: 2025-05-08
+title: 8 - The Crayon Incident of '22
+created: 2025-05-08T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/history

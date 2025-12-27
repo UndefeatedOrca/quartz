@@ -1,6 +1,6 @@
 ---
-title: "7 - Look Ma, I'm on TV"
-created: 2025-04-07
+title: '7 - Look Ma, I''m on TV'
+created: 2025-04-07T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/politics

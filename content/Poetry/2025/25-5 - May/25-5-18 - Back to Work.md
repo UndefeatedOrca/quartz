@@ -1,6 +1,6 @@
 ---
-title: "18 - Back to Work"
-created: 2025-05-18
+title: 18 - Back to Work
+created: 2025-05-18T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/CRA/AC

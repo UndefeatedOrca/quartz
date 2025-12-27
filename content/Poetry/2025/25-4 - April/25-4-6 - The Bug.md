@@ -1,6 +1,6 @@
 ---
-title: "6 - The Bug"
-created: 2025-04-06
+title: 6 - The Bug
+created: 2025-04-06T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

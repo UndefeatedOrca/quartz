@@ -1,6 +1,6 @@
 ---
-title: "26 - Restless"
-created: 2024-09-26
+title: 26 - Restless
+created: 2024-09-26T00:00:00.000Z
 tags:
   - poem/ballad
 ---

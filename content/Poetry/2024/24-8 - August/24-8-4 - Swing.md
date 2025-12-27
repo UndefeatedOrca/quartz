@@ -1,6 +1,6 @@
 ---
-title: "4 - Swing"
-created: 2024-08-04
+title: 4 - Swing
+created: 2024-08-04T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

@@ -1,6 +1,6 @@
 ---
-title: "9 - A touch late"
-created: 2025-02-09
+title: 9 - A touch late
+created: 2025-02-09T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

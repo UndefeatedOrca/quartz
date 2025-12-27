@@ -1,6 +1,6 @@
 ---
-title: "23 - New(ish) Phone"
-created: 2024-07-23
+title: 23 - New(ish) Phone
+created: 2024-07-23T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/saga/BrokenPhone

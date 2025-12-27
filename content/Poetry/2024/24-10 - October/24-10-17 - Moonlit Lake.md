@@ -1,6 +1,6 @@
 ---
-title: "17 - Moonlit Lake"
-created: 2024-10-17
+title: 17 - Moonlit Lake
+created: 2024-10-17T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/nature

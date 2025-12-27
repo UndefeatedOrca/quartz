@@ -1,6 +1,6 @@
 ---
-title: "8 - Nat Con Knife"
-created: 2024-07-08
+title: 8 - Nat Con Knife
+created: 2024-07-08T00:00:00.000Z
 tags:
   - poem/limerick
 ---

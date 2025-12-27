@@ -1,6 +1,6 @@
 ---
-title: "30 - Wind and Truth"
-created: 2025-09-30
+title: 30 - Wind and Truth
+created: 2025-09-30T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/books

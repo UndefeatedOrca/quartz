@@ -1,6 +1,6 @@
 ---
-title: "7 - Service"
-created: 2024-12-07
+title: 7 - Service
+created: 2024-12-07T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

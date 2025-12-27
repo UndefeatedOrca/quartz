@@ -1,6 +1,6 @@
 ---
-title: "28 - Mission Report- The Great Eve Rescue"
-created: 2025-05-28
+title: 28 - Mission Report- The Great Eve Rescue
+created: 2025-05-28T00:00:00.000Z
 tags:
   - poem/ballad
   - games/video

@@ -1,6 +1,6 @@
 ---
-title: "29 - I love the rain"
-created: 2025-10-29
+title: 29 - I love the rain
+created: 2025-10-29T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/woman

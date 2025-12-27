@@ -1,6 +1,6 @@
 ---
-title: "23 - Time has Flown"
-created: 2025-04-23
+title: 23 - Time has Flown
+created: 2025-04-23T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

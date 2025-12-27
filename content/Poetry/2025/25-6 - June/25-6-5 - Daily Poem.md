@@ -1,6 +1,6 @@
 ---
-title: "5 - Daily Poem"
-created: 2025-06-05
+title: 5 - Daily Poem
+created: 2025-06-05T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/poems

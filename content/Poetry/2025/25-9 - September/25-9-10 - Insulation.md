@@ -1,6 +1,6 @@
 ---
-title: "10 - Insulation"
-created: 2025-09-10
+title: 10 - Insulation
+created: 2025-09-10T00:00:00.000Z
 tags:
   - poem/ballad
 ---

@@ -1,6 +1,6 @@
 ---
-title: "24 - Tangles"
-created: 2025-01-24
+title: 24 - Tangles
+created: 2025-01-24T00:00:00.000Z
 tags:
   - poem/ballad
 ---

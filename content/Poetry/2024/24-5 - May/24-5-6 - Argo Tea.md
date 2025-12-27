@@ -3,9 +3,9 @@ title: 6-Argo Tea
 draft: false
 tags:
   - poem/sonnet
-description:
-created: 2024-05-06
-modified: 2024-07-18
+description: null
+created: 2024-05-06T00:00:00.000Z
+modified: 2024-07-18T00:00:00.000Z
 ---
 Woe! Argo Tea that won'drous place of joy
 Has closed its gate to open just once more

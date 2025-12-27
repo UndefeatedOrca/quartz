@@ -1,6 +1,6 @@
 ---
-title: "6 - Missing Light"
-created: 2024-11-06
+title: 6 - Missing Light
+created: 2024-11-06T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school/AIClub

@@ -1,6 +1,6 @@
 ---
-title: "3 - Laundry Haiku"
-created: 2024-12-03
+title: 3 - Laundry Haiku
+created: 2024-12-03T00:00:00.000Z
 tags:
   - poem/haiku
   - poem/school/dorms

@@ -1,6 +1,6 @@
 ---
-title: "13 - Game Night"
-created: 2025-07-13
+title: 13 - Game Night
+created: 2025-07-13T00:00:00.000Z
 tags:
   - poem/ballad
   - games/video

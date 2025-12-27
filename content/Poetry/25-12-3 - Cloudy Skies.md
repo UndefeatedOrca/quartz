@@ -1,6 +1,6 @@
 ---
-title: "3 - Cloudy Skies"
-created: 2025-12-03
+title: 3 - Cloudy Skies
+created: 2025-12-03T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/nature/sky

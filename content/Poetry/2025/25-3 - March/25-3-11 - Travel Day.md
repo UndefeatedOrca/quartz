@@ -1,6 +1,6 @@
 ---
-title: "11 - Travel Day"
-created: 2025-03-11
+title: 11 - Travel Day
+created: 2025-03-11T00:00:00.000Z
 tags:
   - poem/ballad
 ---

@@ -1,6 +1,6 @@
 ---
-title: "14 - Heresy"
-created: 2025-01-14
+title: 14 - Heresy
+created: 2025-01-14T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate

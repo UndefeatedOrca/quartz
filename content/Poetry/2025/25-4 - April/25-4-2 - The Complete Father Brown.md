@@ -1,6 +1,6 @@
 ---
-title: "2 - The Complete Father Brown"
-created: 2025-04-02
+title: 2 - The Complete Father Brown
+created: 2025-04-02T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/books

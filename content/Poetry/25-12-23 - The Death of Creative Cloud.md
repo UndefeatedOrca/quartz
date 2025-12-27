@@ -1,3 +1,10 @@
+---
+title: 23 - The Death of Creative Cloud
+created: '2025-12-23'
+tags:
+  - poem/ballad
+  - poem/tech
+---
 Although I've done some epic things
 I think I've got to say
 Creative Cloud's removal was

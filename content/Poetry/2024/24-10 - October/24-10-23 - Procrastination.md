@@ -1,6 +1,6 @@
 ---
-title: "23 - Procrastination"
-created: 2024-10-23
+title: 23 - Procrastination
+created: 2024-10-23T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

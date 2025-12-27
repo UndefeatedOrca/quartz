@@ -1,6 +1,6 @@
 ---
-title: "2 - Mr Goodies"
-created: 2025-11-02
+title: 2 - Mr Goodies
+created: 2025-11-02T00:00:00.000Z
 tags:
   - poem/limerick
   - poem/friends

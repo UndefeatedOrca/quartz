@@ -1,6 +1,6 @@
 ---
-title: "2 - First Candle"
-created: 2024-12-02
+title: 2 - First Candle
+created: 2024-12-02T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/church/calendar

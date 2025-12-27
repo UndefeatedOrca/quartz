@@ -1,6 +1,6 @@
 ---
-title: "13 - Onions"
-created: 2025-09-13
+title: 13 - Onions
+created: 2025-09-13T00:00:00.000Z
 tags:
   - poem/ballad
 ---

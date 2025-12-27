@@ -1,6 +1,6 @@
 ---
-title: "28 - Road Trip Day Two"
-created: 2024-06-28
+title: 28 - Road Trip Day Two
+created: 2024-06-28T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/saga/roadtrip2024

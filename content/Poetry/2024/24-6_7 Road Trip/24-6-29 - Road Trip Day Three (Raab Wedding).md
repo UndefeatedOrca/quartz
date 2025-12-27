@@ -1,6 +1,6 @@
 ---
-title: "29 - Road Trip Day Three (Raab Wedding)"
-created: 2024-06-29
+title: 29 - Road Trip Day Three (Raab Wedding)
+created: 2024-06-29T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/saga/roadtrip2024

@@ -1,10 +1,11 @@
 ---
-title: "4 - Fourth of July 2023"
-created: 2024-07-04
+title: 4 - Fourth of July 2023
+created: 2024-07-04T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/politics
   - poem/friends
+holiday: 07/04
 ---
 
 A year ago I spent the day

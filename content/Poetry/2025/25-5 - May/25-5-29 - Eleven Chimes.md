@@ -1,6 +1,6 @@
 ---
-title: "29 - Eleven Chimes"
-created: 2025-05-29
+title: 29 - Eleven Chimes
+created: 2025-05-29T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/sleep

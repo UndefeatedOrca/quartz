@@ -1,6 +1,6 @@
 ---
-title: "11 - Stopped Lane (Metro Ballad)"
-created: 2024-06-11
+title: 11 - Stopped Lane (Metro Ballad)
+created: 2024-06-11T00:00:00.000Z
 tags:
   - poem/commute
   - poem/ballad

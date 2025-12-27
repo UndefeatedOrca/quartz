@@ -1,6 +1,6 @@
 ---
-title: "8 - Flames W"
-created: 2024-10-08
+title: 8 - Flames W
+created: 2024-10-08T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

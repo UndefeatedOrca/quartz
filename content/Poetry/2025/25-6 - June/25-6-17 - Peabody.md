@@ -1,6 +1,6 @@
 ---
-title: "17 - Peabody"
-created: 2025-06-17
+title: 17 - Peabody
+created: 2025-06-17T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/saga/roadtrip2025

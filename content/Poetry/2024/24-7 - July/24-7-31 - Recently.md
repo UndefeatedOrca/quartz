@@ -1,6 +1,6 @@
 ---
-title: "31 - Recently"
-created: 2024-07-31
+title: 31 - Recently
+created: 2024-07-31T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/CRA/AC

@@ -1,6 +1,6 @@
 ---
-title: "24 - My Washer is a Sad Luddite"
-created: 2025-09-24
+title: 24 - My Washer is a Sad Luddite
+created: 2025-09-24T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/tech

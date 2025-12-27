@@ -1,6 +1,6 @@
 ---
-title: "9 - The Great Return"
-created: 2025-05-09
+title: 9 - The Great Return
+created: 2025-05-09T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/dentist

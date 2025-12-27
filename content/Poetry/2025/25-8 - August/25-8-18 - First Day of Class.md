@@ -1,6 +1,6 @@
 ---
-title: "18 - First Day of Class"
-created: 2025-08-18
+title: 18 - First Day of Class
+created: 2025-08-18T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school

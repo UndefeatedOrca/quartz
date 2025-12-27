@@ -1,6 +1,6 @@
 ---
-title: "26 - My Day Today was Interesting"
-created: 2025-09-26
+title: 26 - My Day Today was Interesting
+created: 2025-09-26T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends

@@ -1,6 +1,6 @@
 ---
-title: "16 - Buried"
-created: 2025-06-16
+title: 16 - Buried
+created: 2025-06-16T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/saga/roadtrip2025

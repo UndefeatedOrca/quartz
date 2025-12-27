@@ -1,6 +1,6 @@
 ---
-title: "19 - Daily Office"
-created: 2025-03-19
+title: 19 - Daily Office
+created: 2025-03-19T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/church

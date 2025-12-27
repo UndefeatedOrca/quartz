@@ -1,6 +1,6 @@
 ---
-title: "23 - Yudkowsky"
-created: 2025-07-23
+title: 23 - Yudkowsky
+created: 2025-07-23T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/CRA

@@ -1,6 +1,6 @@
 ---
-title: "21 - Post Convo Poetry"
-created: 2024-08-21
+title: 21 - Post Convo Poetry
+created: 2024-08-21T00:00:00.000Z
 tags:
   - poem/school
 ---

@@ -1,6 +1,6 @@
 ---
-title: "20 - Great SAT Words"
-created: 2025-08-20
+title: 20 - Great SAT Words
+created: 2025-08-20T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/books

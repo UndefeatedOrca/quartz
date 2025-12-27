@@ -1,6 +1,6 @@
 ---
-title: "22 - Archived and In-Process"
-created: 2024-08-22
+title: 22 - Archived and In-Process
+created: 2024-08-22T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/poems

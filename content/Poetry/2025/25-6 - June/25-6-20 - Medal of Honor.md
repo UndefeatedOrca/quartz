@@ -1,6 +1,6 @@
 ---
-title: "20 - Medal of Honor"
-created: 2025-06-20
+title: 20 - Medal of Honor
+created: 2025-06-20T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/saga/roadtrip2025

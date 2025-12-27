@@ -1,6 +1,6 @@
 ---
 title: 7 - Perpetua
-created: 2025-03-07
+created: 2025-03-07T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/church/calendar

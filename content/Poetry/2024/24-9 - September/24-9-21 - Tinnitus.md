@@ -1,6 +1,6 @@
 ---
-title: "21 - Tinnitus"
-created: 2024-09-21
+title: 21 - Tinnitus
+created: 2024-09-21T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/sleep

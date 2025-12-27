@@ -1,6 +1,6 @@
 ---
-title: "16 - Lightning Storm"
-created: 2025-07-16
+title: 16 - Lightning Storm
+created: 2025-07-16T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/nature/weather

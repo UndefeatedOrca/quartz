@@ -1,6 +1,6 @@
 ---
-title: "25 - Castles in the Sky"
-created: 2025-08-25
+title: 25 - Castles in the Sky
+created: 2025-08-25T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/nature/weather

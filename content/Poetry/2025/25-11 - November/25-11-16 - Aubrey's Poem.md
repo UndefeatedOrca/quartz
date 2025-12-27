@@ -1,6 +1,6 @@
 ---
-title: "16 - Aubrey's Poem"
-created: 2025-11-16
+title: 16 - Aubrey's Poem
+created: 2025-11-16T00:00:00.000Z
 tags:
   - poem
 ---

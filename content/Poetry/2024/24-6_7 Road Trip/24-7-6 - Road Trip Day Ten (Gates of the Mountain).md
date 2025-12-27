@@ -1,6 +1,6 @@
 ---
-title: "6 - Road Trip Day Ten (Gates of the Mountain)"
-created: 2024-07-06
+title: 6 - Road Trip Day Ten (Gates of the Mountain)
+created: 2024-07-06T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/saga/roadtrip2024
