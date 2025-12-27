@@ -48,8 +48,11 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.ConditionalRender({
+      component: Component.HolidayCalendar({ showUpcomingDays: 7 }),
+      condition: (page) => page.fileData.slug === "index", 
+    }),
     Component.Backlinks(),
-    Component.HolidayCalendar({ showUpcomingDays: 7 }), 
   ],
 }
 

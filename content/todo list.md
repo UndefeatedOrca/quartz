@@ -38,7 +38,9 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [ ] Add random note button
 - [ ] Go steal a bunch of other people's site design ideas
 - [ ] Tag #author/MacDonald
-- [ ] Implement vibe-coded holiday calendar plugin
-- [ ] Update Claude's convert-frontmatter script to handle existing frontmatter
+- [x] Implement vibe-coded holiday calendar plugin
+- [x] Update Claude's convert-frontmatter script to handle existing frontmatter
+- [ ] Add holidays to frontmatter of relevant notes
 - [ ] Figure out what's going on with the github commits that have popped up
 - [ ] Fix tag hierarchy
+- [ ] Update graph settings
