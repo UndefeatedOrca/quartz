@@ -31,10 +31,9 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 	- this probably just means editing the footer
 - [ ] Add collapsible tangent blocks and/or figure out how to use them and other components
 - [ ] Customize color scheme
-- [ ] Figure out analytics
+- [x] Figure out analytics
 - [ ] Tag #poem/food
 - [ ] Tag #poem/music
-- [ ] Figure out if there's a good way to de-uglify my urls
 - [ ] Add random note button
 - [ ] Go steal a bunch of other people's site design ideas
 - [ ] Tag #author/MacDonald
@@ -43,5 +42,5 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [ ] Add holidays to frontmatter of relevant notes
 - [ ] Figure out what's going on with the github commits that have popped up
 - [ ] Fix tag hierarchy
-- [ ] Update graph settings
+- [x] Update graph settings
 - [ ] Consider adding comments section
