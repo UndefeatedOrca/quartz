@@ -23,7 +23,8 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [x] Copy over rants from Rumbles on Every Horizon
 - [x] Copy over rants from Patrick's Daily Poem
 - [x] Copy over writing from Valor Dictus
-- [ ] See if I can change how social media previews handle line breaks
+- [x] See if I can change how social media previews handle line breaks
+	- gave up on this lol
 - [ ] Update [[Who Am I]]
 - [x] Write [[The Design of this Site]]
 - [ ] Write [[Favorite Pieces]]
@@ -35,6 +36,7 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [ ] Tag #poem/food
 - [ ] Tag #poem/music
 - [ ] Add random note button
+	- I wonder if I could fit it in with the reader mode and the night mode toggle swithc and just shrink the search bar a bit
 - [ ] Go steal a bunch of other people's site design ideas
 - [ ] Tag #author/MacDonald
 - [x] Implement vibe-coded holiday calendar plugin
