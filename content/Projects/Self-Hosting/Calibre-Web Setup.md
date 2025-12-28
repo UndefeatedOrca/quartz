@@ -15,7 +15,7 @@ After successfully installing Calibre over the break, I decided that the next st
 
 First, I went to the official site and copied the Docker Compose .yaml file that I can easily plug into Portainer to activate everything as intended:
 
-```
+```yaml
 ---
 services:
   calibre-web:
@@ -37,7 +37,7 @@ services:
 
 Then I plugged in the requisite file paths so that the bind mounts would work:
 
-```
+```yaml
     volumes:
       - /home/patrick/docker/calibre/config
       - /home/patrick/docker/calibre/config/Calibre Library
@@ -103,7 +103,7 @@ The other thing that was progress was realizing that I had made a mistake in my 
 
 My container had no internal structure. My file looked like this:
 
-```
+```yaml
     volumes:
       - /home/patrick/docker/calibre/config/calibrelibrary
       - /home/patrick/docker/calibre-web/data
@@ -111,7 +111,7 @@ My container had no internal structure. My file looked like this:
 
 When it was supposed to look like this:
 
-```
+```yaml
     volumes:
       - /home/patrick/docker/calibre/config/calibrelibrary:/config
       - /home/patrick/docker/calibre-web/data:/books

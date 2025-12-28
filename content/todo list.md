@@ -44,3 +44,4 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [ ] Figure out what's going on with the github commits that have popped up
 - [ ] Fix tag hierarchy
 - [ ] Update graph settings
+- [ ] Consider adding comments section

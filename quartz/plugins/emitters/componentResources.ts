@@ -163,6 +163,7 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       posthog.init('${cfg.analytics.apiKey}', {
         api_host: '${cfg.analytics.host ?? "https://app.posthog.com"}',
         capture_pageview: false,
+        cookieless_mode: 'always',
       });
       document.addEventListener('nav', () => {
         posthog.capture('$pageview', { path: location.pathname });

@@ -11,11 +11,11 @@ modified:
 holiday:
 ---
 # %%Summary%%
-This is a Quartz component plugin, I vibecoded with Claude that displays a notes based on date using a frontmatter element named "holiday" and either the date or one of a preset list of named holidays like Christmas or Easter. It only appears on the index page of the site and is set to display the next seven days worth of notes.
+This is a Quartz component I vibecoded with Claude that displays a notes based on date using a frontmatter element named "holiday" and either the date or one of a preset list of named holidays like Christmas or Easter. It only appears on the index page of the site and is set to display the next seven days worth of notes.
 # Function
 *Although I vibecoded this entire thing, and also don't understand typescript, here's what I understand.*
 
-The plugin does three things
+The component does three things
 1. Calculate the dates of the various moving holidays - Easter, Memorial Day, Thanksgiving, etc. - and assigns them and the preset holidays names
 2. Searches the content folder for files with the `holiday` frontmatter tag and checks the contents for either valid holiday names or dates in the MM/DD format
 3. Checks the date and displays a list of notes that are set for either today or a configurable amount of days in the future
@@ -77,7 +77,7 @@ The following is a list of current holidays that will work with an alias
 - Full list of observances from 2019 Book of Common Prayer
 - Other fun days
 # Potential Improvements
-In the future, I'd like to update this plugin (either myself or vibecoding) with a modular loading system so that users could add or remove lists of relevant dates like:
+In the future, I'd like to update this component (either myself or vibecoding) with a modular loading system so that users could add or remove lists of relevant dates like:
 - US Federal Holidays
 - State Specific Holidays
 - Country Specific Holidays

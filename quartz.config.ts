@@ -12,8 +12,10 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
+    analytics: { 
+      provider: 'posthog', 
+      apiKey: 'phc_ns5zQlmhF21ulT048z3EFITVeH3n7zlPInyhtl0GMSQ', 
+      host: 'https://us.i.posthog.com',
     },
     locale: "en-US",
     baseUrl: "pajofo.net",
