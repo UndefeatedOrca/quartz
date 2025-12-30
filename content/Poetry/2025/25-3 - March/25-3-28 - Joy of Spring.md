@@ -3,7 +3,7 @@ title: 28 - Joy of Spring
 created: 2025-03-28T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/nature/seasons
+  - nature/seasons
 ---
 
 The weather's great and sun is out

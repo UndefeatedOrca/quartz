@@ -4,7 +4,7 @@ created: 2025-04-07T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/politics
-  - poem/favorites
+  - favorites/poem
 ---
 ![[Pasted image 20251225153335.png]]
 Two years ago we made a meme

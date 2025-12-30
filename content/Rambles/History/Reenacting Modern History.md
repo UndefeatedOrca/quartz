@@ -3,7 +3,7 @@ title:
 draft: false
 tags:
   - ramble
-  - history
+  - facts/history
 description:
 created: 2025-06-26
 modified:

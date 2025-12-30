@@ -2,7 +2,7 @@
 title:
 draft: false
 tags:
-  - published/ValorDictus
+  - polished/ValorDictus
   - reviews/plays
 description:
 created: 2021-11-19

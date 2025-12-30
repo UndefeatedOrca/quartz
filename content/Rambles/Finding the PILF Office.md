@@ -2,10 +2,10 @@
 title:
 draft: false
 tags:
-  - PILF
+  - story/work/PILF
   - story/work
   - ramble
-  - prose/favorites
+  - favorites/prose
 description:
 created: 2025-08-05
 modified:

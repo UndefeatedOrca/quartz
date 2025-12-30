@@ -3,7 +3,7 @@ title:
 draft: false
 tags:
   - ramble
-  - books/narnia
+  - books/Narnia
   - author/CSLewis
 description:
 created: 2025-08-14

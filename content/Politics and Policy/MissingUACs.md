@@ -2,9 +2,9 @@
 title: "Primer: The Shameful Scandal of Biden’s Missing Illegal Alien Children"
 draft: false
 tags:
-  - published/CRA
+  - polished/CRA
   - politics/immigration
-  - prose/favorites
+  - favorites/prose
 description: The Biden administration’s non-enforcement of the law, gutting of vetting processes, and evisceration of safeguards were all conscious choices that lost track of hundreds of thousands of children, leaving them vulnerable to exploitation, trafficking, and forced labor.
 created: 2025-07-08
 modified:

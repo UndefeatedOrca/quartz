@@ -4,7 +4,7 @@ created: 2025-10-29T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/woman
-  - poem/nature/weather
+  - nature/weather
 ---
 
 My friend has visited this week

@@ -4,8 +4,8 @@ created: 2025-05-08T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/history
-  - poem/band
-  - poem/favorites
+  - poem/music/band
+  - favorites/poem
 ---
 
 A couple years ago I filled

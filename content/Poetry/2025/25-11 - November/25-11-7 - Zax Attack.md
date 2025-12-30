@@ -4,7 +4,8 @@ created: 2025-11-07T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/books
-  - poem/favorites
+  - favorites/poem
+  - author/Seuss
 ---
 
 The Zax went out one day and said

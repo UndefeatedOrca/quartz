@@ -1,5 +1,5 @@
 ---
-title:
+title: Alt Codes
 draft: false
 tags:
   - tech

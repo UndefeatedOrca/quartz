@@ -4,7 +4,7 @@ draft: false
 tags:
   - ramble
   - geography
-  - prose/favorites
+  - favorites/prose
 description:
 created: 2025-10-18
 modified:

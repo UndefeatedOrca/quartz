@@ -2,7 +2,7 @@
 title: True Love, the Sphinx, and Other Unsolvable Riddles, a Comedy in Four Voices
 draft: false
 tags:
-  - published/ValorDictus
+  - polished/ValorDictus
   - reviews/books
   - genre/comedy
   - genre/romance

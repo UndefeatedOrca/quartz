@@ -5,6 +5,7 @@ tags:
   - poem/ballad
   - poem/church/calendar
   - poem/saga/candles
+holiday: advent2
 ---
 
 I tell you that there'll be a time

@@ -3,7 +3,7 @@ title: 24 - Drenchburg
 created: 2024-09-24T00:00:00.000Z
 tags:
   - poem/school
-  - poem/nature/weather
+  - nature/weather
 ---
 
 The drizzle drip rain is not something I like

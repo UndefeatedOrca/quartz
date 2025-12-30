@@ -6,6 +6,7 @@ tags:
   - poem/friends
   - poem/books
   - poem/church
+  - fiction/fanfiction/lb
 ---
 
 While I respect creative choice
@@ -58,3 +59,5 @@ tl;dr stories should have happy endings because our stories have happy endings
 
 also, go subscribe to Laur Brown, she redid her Substack and it’s straight fire (it has a coherent theme, something far beyond my aesthetic capacity)
 # https://laurbrown1.substack.com !!!
+
+I've aimed to prove my point by endeavoring to write happy endings to some of her stories, you can read them here: #fiction/fanfiction/lb  

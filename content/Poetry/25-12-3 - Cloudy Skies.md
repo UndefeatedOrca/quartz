@@ -3,9 +3,9 @@ title: 3 - Cloudy Skies
 created: 2025-12-03T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/nature/sky
+  - nature/sky
   - poem/church
-  - poem/favorites
+  - favorites/poem
 ---
 
 The clouds obscure the winter sun

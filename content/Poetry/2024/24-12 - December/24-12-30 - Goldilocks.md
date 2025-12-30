@@ -4,8 +4,8 @@ created: 2024-12-30T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/church
-  - poem/nature
-  - poem/favorites
+  - nature
+  - favorites/poem
 ---
 
 We took a rocket for a ride

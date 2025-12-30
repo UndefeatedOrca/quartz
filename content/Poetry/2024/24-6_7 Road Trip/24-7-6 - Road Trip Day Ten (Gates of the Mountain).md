@@ -5,7 +5,7 @@ tags:
   - poem/ballad
   - poem/saga/roadtrip2024
   - poem/history
-  - poem/nature
+  - nature
 ---
 
 The waters skimmed up by the wind

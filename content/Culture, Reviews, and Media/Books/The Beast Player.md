@@ -4,7 +4,7 @@ draft: false
 tags:
   - reviews/books
   - genre/adventure
-  - published/ROEH
+  - polished/ROEH
 description:
 created: 2022-08-17
 modified:

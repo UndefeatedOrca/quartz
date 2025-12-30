@@ -1,11 +1,10 @@
 ---
-title:
+title: Jimmy's Card Drawing
 draft: false
 tags:
   - project
   - stats
   - school
-  - tism
 description: In which I understand a question in a way that is both reasonable and apparently incorrect
 created: 2025-09-16
 modified:

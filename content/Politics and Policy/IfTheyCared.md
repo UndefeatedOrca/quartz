@@ -1,10 +1,10 @@
 ---
-title:
+title: If They Cared About Our Health
 draft: false
 tags:
-  - published/ValorDictus
+  - polished/ValorDictus
   - politics
-  - prose/favorites
+  - favorites/prose
 description:
 created: 2022-12-08
 modified:

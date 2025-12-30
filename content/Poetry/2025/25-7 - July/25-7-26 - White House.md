@@ -5,7 +5,7 @@ tags:
   - poem/ballad
   - poem/politics
   - poem/CRA
-  - poem/favorites
+  - favorites/poem
 ---
 
 The White House gate in morning light

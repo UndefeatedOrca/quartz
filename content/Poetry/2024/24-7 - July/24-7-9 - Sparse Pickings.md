@@ -3,6 +3,7 @@ title: 9 - Sparse Pickings
 created: 2024-07-09T00:00:00.000Z
 tags:
   - poem/ballad
+  - poem/food
 ---
 
 When my fam'ly goes on a trip

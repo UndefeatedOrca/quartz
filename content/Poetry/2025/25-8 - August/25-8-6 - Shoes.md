@@ -3,7 +3,7 @@ title: 6 - Shoes
 created: 2025-08-06T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/favorites
+  - favorites/poem
 ---
 ![a photo of a pile of shoes](https://substackcdn.com/image/fetch/$s_!niDf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b2d5910-e789-4345-ad6a-d5dd01c69f1d_2536x2465.jpeg)
 I've worn through many pairs of shoes

@@ -4,7 +4,8 @@ created: 2025-03-05T00:00:00.000Z
 tags:
   - poem/church/calendar
   - poem/ballad
-  - poem/favorites
+  - favorites/poem
+holiday: ash-wednesday
 ---
 
 Ashes to ashes, dust to dust

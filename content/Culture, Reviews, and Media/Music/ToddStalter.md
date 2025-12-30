@@ -2,7 +2,7 @@
 title: Todd Stalter
 draft: false
 tags:
-  - prose/favorites
+  - favorites/prose
   - ramble
   - music/band
   - school

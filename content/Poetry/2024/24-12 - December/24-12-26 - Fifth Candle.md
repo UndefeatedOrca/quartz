@@ -5,6 +5,7 @@ tags:
   - poem/ballad
   - poem/church/calendar
   - poem/saga/candles
+holiday: christmas
 ---
 
 The season is upon us now

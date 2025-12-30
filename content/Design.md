@@ -1,7 +1,8 @@
 ---
-title:
+title: The Design of this Site
 draft: false
 tags:
+  - tech/quartz
 description:
 created: 2025-12-23
 modified: 2025-12-27
@@ -22,7 +23,7 @@ When you look at a tag page, at the top you'll see links to any parent or child 
 2. Sometimes I misspell tags and the only way to find the rest of tags is to look in the parent and verify that there's no strange modifications
 This was achieved modifying `./quartz/quartz/components/pages/TagContent.tsx`, thanks Claude!
 # Holiday Calendar
-![[HolidayCalendarPlugin#Summary]]
+![[HolidayPlugin#Summary]]
 # Analytics
 I opted to use [[PostHog]] analytics for the site, for three reasons:
 

@@ -4,6 +4,7 @@ created: 2025-08-19T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school
+  - poem/food
 ---
 
 The rot remains my place to eat

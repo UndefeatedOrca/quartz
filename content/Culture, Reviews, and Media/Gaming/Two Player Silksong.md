@@ -2,6 +2,8 @@
 title:
 draft: false
 tags:
+  - games/video
+  - ramble
 description:
 created: 2025-11-12
 modified:

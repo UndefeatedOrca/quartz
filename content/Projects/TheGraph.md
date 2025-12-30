@@ -1,5 +1,5 @@
 ---
-title:
+title: The Graph
 draft: false
 tags:
   - project

@@ -3,6 +3,7 @@ title: 10 - Eating on a Budget
 created: 2025-07-10T00:00:00.000Z
 tags:
   - poem/ballad
+  - poem/food
 ---
 
 DC is host to lots of food

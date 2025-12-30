@@ -1,5 +1,5 @@
 ---
-title:
+title: The NGA Counterplan is Stupid
 draft: false
 tags:
   - debate

@@ -2,7 +2,7 @@
 title: "Adaptation Angle: Prom and Prejudice"
 draft: false
 tags:
-  - published/ValorDictus
+  - polished/ValorDictus
   - reviews/books
   - genre/romance
 description: A heartfelt tribute to the classic novel, this book is worth the read.

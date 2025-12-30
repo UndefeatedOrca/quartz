@@ -4,7 +4,7 @@ created: 2025-03-07T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/church/calendar
-hol: 03/07
+holiday: 03/07
 ---
 
 Unseemly would the martyr be

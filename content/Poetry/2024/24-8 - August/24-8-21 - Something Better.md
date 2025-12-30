@@ -4,7 +4,7 @@ created: 2024-08-21T00:00:00.000Z
 tags:
   - poem
   - poem/woman
-  - poem/favorites
+  - favorites/poem
 ---
 
 The wisdom of Kermit is something to hear

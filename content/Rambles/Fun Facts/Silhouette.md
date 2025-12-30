@@ -2,7 +2,7 @@
 title:
 draft: false
 tags:
-  - prose/favorites
+  - favorites/prose
   - facts
 description:
 created: 2025-10-22

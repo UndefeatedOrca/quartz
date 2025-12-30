@@ -2,8 +2,8 @@
 title:
 draft: false
 tags:
-  - published/ValorDictus
-  - published/ROEH
+  - polished/ValorDictus
+  - polished/ROEH
   - politics/culture
 description:
 created: 2022-07-07

@@ -8,7 +8,7 @@ tags:
 description:
 created: 2025-12-24
 modified: 2025-12-25
-holiday: 12/25
+holiday: christmas
 ---
 I was scrolling through Instagram, and I saw that a friend had reposted the following [tweet](https://x.com/CarlosHappyNPO/status/2003535714294894918) to his story: 
 

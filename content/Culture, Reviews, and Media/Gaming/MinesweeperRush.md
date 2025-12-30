@@ -1,5 +1,5 @@
 ---
-title:
+title: Minesweeper Rush
 draft: false
 tags:
   - games/video

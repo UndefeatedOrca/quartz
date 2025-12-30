@@ -3,7 +3,7 @@ title: 20 - Visit Home
 created: 2024-10-20T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/band
+  - poem/music/band
 ---
 
 A bit of driving in the week

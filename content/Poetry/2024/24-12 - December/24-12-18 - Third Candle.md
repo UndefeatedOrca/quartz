@@ -5,6 +5,7 @@ tags:
   - poem/ballad
   - poem/church/calendar
   - poem/saga/candles
+holiday: advent3
 ---
 
 We sing our songs of praise each week

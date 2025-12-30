@@ -5,6 +5,8 @@ tags:
   - poem/ballad
   - poem/church
   - poem/music
+  - holiday/christmas
+holiday: 12/25
 ---
 
 The Christmas melodies ring out

@@ -4,6 +4,7 @@ created: 2025-02-13T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school
+  - poem/food
 ---
 
 With campus closed and travel too

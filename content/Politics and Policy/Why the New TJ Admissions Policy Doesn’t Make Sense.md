@@ -2,9 +2,9 @@
 title:
 draft: false
 tags:
-  - published/ValorDictus
+  - polished/ValorDictus
   - politics/education
-  - prose/favorites
+  - favorites/prose
 description:
 created: 2022-02-17
 modified:

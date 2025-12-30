@@ -5,7 +5,7 @@ tags:
   - poem/ballad
   - poem/friends
   - poem/school
-  - poem/favorites
+  - favorites/poem
 ---
 
 The week begins anew today

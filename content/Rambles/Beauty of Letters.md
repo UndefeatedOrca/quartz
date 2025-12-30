@@ -2,7 +2,7 @@
 title:
 draft: false
 tags:
-  - prose/favorites
+  - favorites/prose
   - ramble
 description:
 created: 2025-06-18

@@ -4,8 +4,8 @@ created: 2025-02-20T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school
-  - poem/nature/seasons
-  - poem/nature/snow
+  - nature/seasons
+  - nature/snow
 ---
 
 The snow-capped peaks of distant lands

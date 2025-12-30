@@ -3,7 +3,7 @@ title: 7 - Creeping Shadows
 created: 2025-09-07T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/nature/sky
+  - nature/sky
 ---
 
 The rays of sun still flood the sky

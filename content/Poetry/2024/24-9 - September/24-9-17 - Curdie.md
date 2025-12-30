@@ -4,6 +4,7 @@ created: 2024-09-17T00:00:00.000Z
 tags:
   - poem/books
   - poem/debate
+  - author/MacDonald
 ---
 
 George MacDonald wrote a book

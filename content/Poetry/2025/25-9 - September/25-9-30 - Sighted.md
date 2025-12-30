@@ -4,7 +4,7 @@ created: 2025-09-30T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/woman
-  - poem/nature/weather
+  - nature/weather
 ---
 
 The clouds were blotting out the sun

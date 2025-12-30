@@ -2,7 +2,7 @@
 title: The Substitute in a Tie
 draft: false
 tags:
-  - substitute
+  - story/work/substitute
   - story/work
   - ramble
 description:

@@ -4,7 +4,7 @@ draft: false
 tags:
   - ramble
   - games/video
-  - prose/favorites
+  - favorites/prose
   - fiction/shortstory
 description:
 created: 2025-05-28

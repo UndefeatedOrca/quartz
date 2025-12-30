@@ -30,4 +30,4 @@ And merged into my chair
 
 ---
 
-That last stanza was inspired by this piece: [the bed that kept november - Laur Brown](https://laurbrown1.substack.com/p/the-bed-that-kept-november)
+That last stanza was inspired by this piece: [the bed that kept november - Laur Brown](https://laurbrown1.substack.com/p/the-bed-that-kept-november) and in writing it, I was inspired to write [[NovembersEscape]]

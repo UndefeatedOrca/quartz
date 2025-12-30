@@ -3,7 +3,7 @@ title: 23 - If I Had a Pet
 created: 2025-05-23T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/nature/animal
+  - nature/animal
 ---
 
 When people ask if I've a pet

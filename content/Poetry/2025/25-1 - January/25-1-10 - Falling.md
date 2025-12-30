@@ -2,7 +2,7 @@
 title: 10 - Falling
 created: 2025-01-10T00:00:00.000Z
 tags:
-  - poem/nature/snow
+  - nature/snow
 ---
 
 Drifting through the air

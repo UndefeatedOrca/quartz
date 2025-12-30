@@ -4,6 +4,7 @@ created: 2025-07-14T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/CRA
+  - poem/food
 ---
 
 I built a three chairs at work today

@@ -5,7 +5,7 @@ tags:
   - poem/ballad
   - poem/church
   - poem/debate
-  - poem/favorites
+  - favorites/poem
 ---
 
 The time has come and gone today

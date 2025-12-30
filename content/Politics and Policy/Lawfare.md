@@ -1,10 +1,10 @@
 ---
-title:
+title: Lawfare at 10,000 Feet
 draft: false
 tags:
-  - published/CRA
+  - polished/CRA
   - politics
-  - prose/favorites
+  - favorites/prose
 description: When the Left weaponizes government to target free speech, free association, and freedom itself, the process is the punishment.
 created: 2024-08-09
 modified:

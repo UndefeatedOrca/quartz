@@ -3,7 +3,7 @@ title: 12 - Cast In Ice
 created: 2025-02-12T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/nature/snow
+  - nature/snow
 ---
 
 A tree encased in glassy sheen

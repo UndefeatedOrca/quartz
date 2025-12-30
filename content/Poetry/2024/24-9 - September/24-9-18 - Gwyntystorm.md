@@ -4,6 +4,7 @@ created: 2024-09-18T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/books
+  - author/MacDonald
 ---
 
 Gwyntystorm was a city

@@ -4,6 +4,7 @@ created: 2024-12-25T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/church/calendar
+holiday: christmas
 ---
 
 On Christmas day the wait is done

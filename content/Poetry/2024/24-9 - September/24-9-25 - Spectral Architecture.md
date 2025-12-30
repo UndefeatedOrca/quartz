@@ -4,7 +4,7 @@ created: 2024-09-25T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school
-  - poem/nature/fog
+  - nature/fog
 ---
 
 A tower shrouded in the fog

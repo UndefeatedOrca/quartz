@@ -2,7 +2,7 @@
 title:
 draft: false
 tags:
-  - published/ROEH
+  - polished/ROEH
   - politics/culture/trans
 description: Experimental drugs, poor evidence, and unexplored side effects pervade in the treatment of transgender identifying youth
 created: 2022-07-20

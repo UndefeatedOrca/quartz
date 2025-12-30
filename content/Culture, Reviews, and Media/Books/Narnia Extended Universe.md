@@ -3,7 +3,7 @@ title: "A Proposal: The Narnia Extended Universe"
 draft: false
 tags:
   - author/CSLewis
-  - fanfiction
+  - fiction/fanfiction
 description:
 created: 2025-08-14
 modified:

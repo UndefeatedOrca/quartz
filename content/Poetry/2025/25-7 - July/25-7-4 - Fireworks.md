@@ -3,6 +3,8 @@ title: 4 - Fireworks
 created: 2025-07-04T00:00:00.000Z
 tags:
   - poem/ballad
+  - holiday/july4
+holiday: 07/04
 ---
 
 Explosions break out overhead

@@ -3,7 +3,7 @@ title: 29 - Lightning
 created: 2024-08-29T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/nature/weather
+  - nature/weather
 ---
 
 An arcing bolt shoots through the sky

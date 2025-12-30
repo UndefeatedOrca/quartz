@@ -2,7 +2,7 @@
 title: "The People We Know How to Be: My Prospective Graduation Speech"
 draft: false
 tags:
-  - published/ValorDictus
+  - polished/ValorDictus
   - ramble
 description:
 created: 2022-05-23

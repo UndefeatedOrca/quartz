@@ -4,6 +4,7 @@ created: 2024-12-08T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school/theater
+  - reviews/plays
 ---
 
 What is the burden man must bear

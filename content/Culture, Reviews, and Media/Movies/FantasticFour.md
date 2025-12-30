@@ -1,5 +1,5 @@
 ---
-title:
+title: Fantastic Four's Power Failure
 draft: false
 tags:
   - genre/superhero

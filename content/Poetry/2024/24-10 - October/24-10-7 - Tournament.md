@@ -3,7 +3,7 @@ title: 7 - Tournament
 created: 2024-10-07T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/favorites
+  - favorites/poem
 ---
 
 A noble knight concealed in plate

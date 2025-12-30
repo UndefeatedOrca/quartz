@@ -4,7 +4,7 @@ created: 2024-11-09T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate
-  - poem/nature
+  - nature
 ---
 
 The sun is bright, the air is fresh

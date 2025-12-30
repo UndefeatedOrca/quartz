@@ -3,7 +3,7 @@ title: 1 - November
 created: 2024-11-01T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/nature/seasons
+  - nature/seasons
 ---
 
 We now begin another month

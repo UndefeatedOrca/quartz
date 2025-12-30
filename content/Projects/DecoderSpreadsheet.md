@@ -1,5 +1,5 @@
 ---
-title:
+title: Decoder Spreadsheet
 draft: false
 tags:
   - tech/excel

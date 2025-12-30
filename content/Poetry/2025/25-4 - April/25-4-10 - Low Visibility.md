@@ -3,7 +3,7 @@ title: 10 - Low Visibility
 created: 2025-04-10T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/nature/fog
+  - nature/fog
 ---
 
 A blanket falls down on the earth

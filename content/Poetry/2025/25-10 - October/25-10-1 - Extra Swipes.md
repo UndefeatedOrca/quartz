@@ -4,6 +4,7 @@ created: 2025-10-01T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school
+  - poem/food
 ---
 
 I eat enough to live and thrive

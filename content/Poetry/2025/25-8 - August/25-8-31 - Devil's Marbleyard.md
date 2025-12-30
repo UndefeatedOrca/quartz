@@ -4,7 +4,7 @@ created: 2025-08-31T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends
-  - poem/nature
+  - nature
 ---
 
 The slope awaits the climbers step

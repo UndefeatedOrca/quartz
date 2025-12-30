@@ -4,7 +4,7 @@ created: 2024-06-15T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate
-  - poem/favorites
+  - favorites/poem
 ---
 
 A policy debate is fast

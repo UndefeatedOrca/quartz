@@ -3,7 +3,7 @@ title: 7 - Solar Vignettes
 created: 2024-08-07T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/nature/sky
+  - nature/sky
 ---
 
 **Stage**

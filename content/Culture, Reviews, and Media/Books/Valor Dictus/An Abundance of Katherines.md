@@ -2,7 +2,7 @@
 title:
 draft: false
 tags:
-  - published/ValorDictus
+  - polished/ValorDictus
   - reviews/books
   - genre/romance
 description:

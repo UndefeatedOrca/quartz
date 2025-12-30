@@ -1,5 +1,5 @@
 ---
-title:
+title: Halo 4 Word Vomit
 draft: false
 tags:
   - snippet/gaming

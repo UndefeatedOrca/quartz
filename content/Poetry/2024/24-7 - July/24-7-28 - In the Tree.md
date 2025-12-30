@@ -3,7 +3,7 @@ title: 28 - In the Tree
 created: 2024-07-28T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/nature/animal
+  - nature/animal
 ---
 
 I heard a rustle walking by

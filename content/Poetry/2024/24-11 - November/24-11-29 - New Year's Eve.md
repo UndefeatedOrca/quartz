@@ -4,6 +4,7 @@ created: 2024-11-29T00:00:00.000Z
 tags:
   - poem/church/calendar
   - poem/ballad
+holiday: advent1
 ---
 
 The New Year starts tomorrow with

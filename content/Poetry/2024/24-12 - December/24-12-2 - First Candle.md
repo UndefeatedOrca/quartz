@@ -5,6 +5,7 @@ tags:
   - poem/ballad
   - poem/church/calendar
   - poem/saga/candles
+holiday: advent1
 ---
 
 It's virtue when it makes no sense

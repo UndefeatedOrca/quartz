@@ -115,6 +115,10 @@ function calculateMovingHolidays(year: number): Map<string, Date> {
   const trinitySunday = new Date(easter)
   trinitySunday.setDate(easter.getDate() + 56)
   holidays.set("trinity-sunday", trinitySunday)
+
+  const palmSunday = new Date(easter)
+  palmSunday.setDate(easter.getDate() - 7)
+  holidays.set("palm-sunday", palmSunday)
   
   // Advent Sundays (1-4, the four Sundays of Advent)
   holidays.set("advent1", calculateAdvent(year, 0))
@@ -147,10 +151,12 @@ function calculateMovingHolidays(year: number): Map<string, Date> {
   holidays.set("pearl-harbor-day", new Date(year, 11, 7))
   
   // Fixed date holidays (Religious)
-  holidays.set("halloween", new Date(year, 9, 31))
-  holidays.set("all-saints-day", new Date(year, 10, 1))
-  holidays.set("all-souls-day", new Date(year, 10, 2))
-  holidays.set("christmas", new Date(year, 11, 25))
+  holidays.set("epiphany", new Date(year, 0, 6)) // January 6
+  holidays.set("halloween", new Date(year, 9, 31)) // October 31
+  holidays.set("all-saints-day", new Date(year, 10, 1)) // November 1
+  holidays.set("all-souls-day", new Date(year, 10, 2)) // November 2
+  holidays.set("christmas-eve", new Date(year, 11, 24)) // December 24
+  holidays.set("christmas", new Date(year, 11, 25)) // December 25
   
   // Fixed date holidays (Other popular)
   holidays.set("groundhog-day", new Date(year, 1, 2))

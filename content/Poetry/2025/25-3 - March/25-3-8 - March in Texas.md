@@ -3,7 +3,7 @@ title: 8 - March in Texas
 created: 2025-03-08T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/nature/seasons
+  - nature/seasons
 ---
 
 I think I might move from my home

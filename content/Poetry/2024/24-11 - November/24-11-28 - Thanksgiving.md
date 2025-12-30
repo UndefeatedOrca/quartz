@@ -6,6 +6,7 @@ tags:
   - poem/church
   - poem/family
   - poem/friends
+holiday: thanksgiving
 ---
 
 I'm thankful for this day we have

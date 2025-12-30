@@ -4,7 +4,7 @@ created: 2025-07-09T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/commute
-  - poem/nature/weather
+  - nature/weather
 ---
 
 The rained poured out in heavy sheets

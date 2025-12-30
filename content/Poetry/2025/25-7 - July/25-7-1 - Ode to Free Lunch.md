@@ -4,6 +4,7 @@ created: 2025-07-01T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/CRA
+  - poem/food
 ---
 
 With every day, a different meal

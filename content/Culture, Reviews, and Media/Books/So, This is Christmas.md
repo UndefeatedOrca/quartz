@@ -3,7 +3,7 @@ title:
 draft: false
 tags:
   - reviews/books
-  - published/ROEH
+  - polished/ROEH
   - genre/romance
   - holiday/christmas
 description:

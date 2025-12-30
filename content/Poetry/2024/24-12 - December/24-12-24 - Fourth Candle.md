@@ -5,6 +5,7 @@ tags:
   - poem/ballad
   - poem/church/calendar
   - poem/saga/candles
+holiday: advent4
 ---
 
 To full describe this final word

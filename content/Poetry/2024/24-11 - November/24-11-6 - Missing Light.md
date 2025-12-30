@@ -4,7 +4,7 @@ created: 2024-11-06T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/school/AIClub
-  - poem/nature/sky
+  - nature/sky
 ---
 
 I made it to AI club

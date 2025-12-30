@@ -4,7 +4,7 @@ created: 2025-11-13T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/friends
-  - poem/nature
+  - nature
 ---
 
 I got some flowers this fine day

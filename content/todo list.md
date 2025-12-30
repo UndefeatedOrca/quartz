@@ -4,7 +4,7 @@ draft: false
 tags:
 description:
 created: 2025-12-22
-modified: 2025-12-23
+modified: 2025-12-28
 ---
 
 This is the list of ongoing or yet to be completed tasks on the website. I'm a little worried it's going to get longer before it gets shorter.
@@ -25,24 +25,41 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [x] Copy over writing from Valor Dictus
 - [x] See if I can change how social media previews handle line breaks
 	- gave up on this lol
-- [ ] Update [[Who Am I]]
-- [x] Write [[The Design of this Site]]
-- [ ] Write [[Favorite Pieces]]
+- [x] Update [[WhoAmI]]
+	- [x] Figure out how much should be going on the homepage
+- [x] Write [[Design]]
 - [ ] Add cool little links to my socials in the corner
 	- this probably just means editing the footer
-- [ ] Add collapsible tangent blocks and/or figure out how to use them and other components
+- [x] Add collapsible tangent blocks and/or figure out how to use them and other components
+	- [ ] Configure a custom callout for tangents using [this info](https://quartz.jzhao.xyz/features/callouts)
 - [ ] Customize color scheme
 - [x] Figure out analytics
-- [ ] Tag #poem/food
-- [ ] Tag #poem/music
+- [x] Tag #poem/food
+- [x] Tag #poem/music
 - [ ] Add random note button
-	- I wonder if I could fit it in with the reader mode and the night mode toggle swithc and just shrink the search bar a bit
+	- I wonder if I could fit it in with the reader mode and the night mode toggle switch and just shrink the search bar a bit
+	- The icon should be the face of a six sided die, and pressing it should roll the die along with going to a random note
 - [ ] Go steal a bunch of other people's site design ideas
-- [ ] Tag #author/MacDonald
+	- [ ] [Turntrout](https://turntrout.com/design)
+		- [ ] Spoiler text
+		- [ ] favicons
+		- [ ] dropcaps
+	- [ ] [Eilleeenz]((https://quartz.eilleeenz.com/Quartz-Snippets)
+		- [ ] twitter embeds
+		- [ ] also has spoilers - this feels like it should maybe be stock behavior
+		- [ ] also has favicons, several option
+		- [ ] random page
+		- [ ] underline external links
+		- [ ] divider right after page content
+		- [ ] custom callout formatting and blocks
+- [x] Tag #author/MacDonald
 - [x] Implement vibe-coded holiday calendar plugin
 - [x] Update Claude's convert-frontmatter script to handle existing frontmatter
-- [ ] Add holidays to frontmatter of relevant notes
+- [x] Add holidays to frontmatter of relevant notes
 - [ ] Figure out what's going on with the github commits that have popped up
-- [ ] Fix tag hierarchy
+- [x] Fix tag hierarchy
 - [x] Update graph settings
-- [ ] Consider adding comments section
+- [x] Consider adding comments section
+	- no
+- [ ] Set up fonts
+	- [ ] Dropcaps? - ballet?

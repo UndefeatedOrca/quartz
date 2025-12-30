@@ -4,7 +4,7 @@ created: 2024-10-29T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/poems
-  - poem/favorites
+  - favorites/poem
 ---
 
 I'm not sure why the people like

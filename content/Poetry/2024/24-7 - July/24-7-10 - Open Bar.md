@@ -3,6 +3,7 @@ title: 10 - Open Bar
 created: 2024-07-10T00:00:00.000Z
 tags:
   - poem/ballad
+  - poem/food
 ---
 
 While NatCon was a real good time

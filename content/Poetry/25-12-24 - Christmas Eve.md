@@ -1,9 +1,11 @@
 ---
 title: 24 - Christmas Eve
-created: '2025-12-24'
+created: 2025-12-24
 tags:
   - poem/ballad
   - poem/church/calendar
+  - holiday/christmas
+holiday: 12/24
 ---
 The bells have run, the people sung
 They're ready for the day

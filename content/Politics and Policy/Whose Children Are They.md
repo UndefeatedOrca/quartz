@@ -2,7 +2,7 @@
 title: Whose Children Are They?
 draft: false
 tags:
-  - published/ValorDictus
+  - polished/ValorDictus
   - politics/culture/trans
 description:
 created: 2022-05-10

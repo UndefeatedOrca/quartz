@@ -2,7 +2,8 @@
 title: November's Escape
 draft: false
 tags:
-  - fanfiction/lb
+  - fiction/fanfiction/lb
+  - genre/horror
 description:
 created: 2025-12-27
 modified:
@@ -56,21 +57,21 @@ To her own ears her protestations rang hollow, but still, they rang, didn't they
 
 At seven fifty-eight, the vibrations started. It was early. She was never early. Why was she calling?
 
-The vibrations continued, yet they weren't the rhythmic beat of the phones components. 
+The vibrations continued, yet they weren't the rhythmic beat of the phone's components. 
 
 Something was wrong.
 
-The shaking grew stronger. The creaking of the beams and thumping of a tree against the window finally broke November into awareness. Something different was going on, something unheard of.
+The shaking grew stronger. The creaking of the beams and thumping of a tree against the window finally broke into November's awareness. Something different was going on, something unheard of.
 
-It was an earthquake, and as the bed she had laid in for so long started moving for the first time since it was placed in the room, she felt herself sinking deeper than she had ever gone before, sifted into depths she hadn't even know where there.
+It was an earthquake, and as the bed she had laid in for so long started moving for the first time since it was placed in the room, she felt herself sinking deeper than she had ever gone before, sifted into depths she hadn't even know were there.
 
-As she fell, she felt herself struggle. The depths called out, "comfort, rest, liberation from the cares of the world" and her very soul cried back "I have life left to live." Her hands moved with more determination than she had had since that fateful day after the snow.
+As she fell, she felt herself struggle. The depths called out, "comfort, rest, liberation from the cares of the world" and her very soul cried back, "I have life left to live." Her hands moved with more determination than she had had since that fateful day after the snow.
 
 It wasn't enough. She kept falling.
 
 She felt her strength flicker, then fail, and as the quake mustered final shiver, she felt the darkness close in.
 
-But then, in the instant of defeat, when the last fire of self had been kindled and been found wanting, a buzz, not the arrhythmia of tectonic impact, but the calculated pulse of motors. A call. The same call which had been made, week after week, without fail, without response. It was there again, and in that moment November realized two things. The first was that she was not alone, and her strength redoubled. The second was that in her descent, while she could never again breach the top of her mattress, her way out was through.
+But then, in the instant of defeat, when the last fire of self had been kindled and been found wanting, a buzz, not the arrhythmia of tectonic impact, but the calculated pulse of motors. A call. The same call which had been made, week after week, without fail, without response. It was there again, and in that moment November realized two things. The first was that she was not alone. The second was that in her descent, while she could never again breach the top of her mattress, the way out was through.
 
 And with a muffled cry, she heaved. The vibration of the phone carrying her through the edge of the bed and onto the floor below. 
 

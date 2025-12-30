@@ -8,6 +8,7 @@ tags:
 description:
 created: 2025-05-19
 modified:
+holiday: 04/01
 ---
 I finally finished learning the rest of morse code today, just in time to learn that you no longer need to learn it to get an amateur radio license. I’m a bit upset by this news, not so much because I’m upset that I now know morse, but because I was told that you needed to know it to get one back when I was a Boy Scout earning my radio merit badge which led to my never getting one (as of yet).
 

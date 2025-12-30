@@ -3,7 +3,7 @@ title:
 draft: false
 tags:
   - politics
-  - published/ValorDictus
+  - polished/ValorDictus
 description:
 created: 2022-02-03
 modified:

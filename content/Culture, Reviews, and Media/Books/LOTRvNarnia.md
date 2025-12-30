@@ -1,13 +1,13 @@
 ---
-title:
+title: Lord of the Rings is Incompatible with Narnia
 draft: false
 tags:
   - author/CSLewis
   - author/Tolkien
-  - books/narnia
+  - books/Narnia
   - books/LOTR
   - ramble
-  - prose/favorites
+  - favorites/prose
 description:
 created: 2025-08-14
 modified:

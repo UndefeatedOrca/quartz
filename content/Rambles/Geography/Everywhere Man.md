@@ -3,7 +3,7 @@ title:
 draft: false
 tags:
   - ramble
-  - prose/favorites
+  - favorites/prose
   - geography
   - music
 description:

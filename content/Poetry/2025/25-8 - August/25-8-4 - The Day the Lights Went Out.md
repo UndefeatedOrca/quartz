@@ -3,7 +3,7 @@ title: 4 - The Day the Lights Went Out
 created: 2025-08-04T00:00:00.000Z
 tags:
   - poem/ballad
-  - substitute
+  - story/work/substitute
 ---
 
 A range of topics filled my days

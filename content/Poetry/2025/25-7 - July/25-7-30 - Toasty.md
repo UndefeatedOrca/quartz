@@ -3,7 +3,7 @@ title: 30 - Toasty
 created: 2025-07-30T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/nature/weather
+  - nature/weather
 ---
 
 The summer sun bears down on us

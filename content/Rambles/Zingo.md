@@ -2,7 +2,7 @@
 title:
 draft: false
 tags:
-  - published/ValorDictus
+  - polished/ValorDictus
   - ramble
 description: Cowritten with Sarah Maze
 created: 2021-10-20

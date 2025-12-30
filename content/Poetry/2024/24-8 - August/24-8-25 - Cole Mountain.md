@@ -3,7 +3,7 @@ title: 25 - Cole Mountain
 created: 2024-08-25T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/nature
+  - nature
 ---
 
 Up and up and up we go

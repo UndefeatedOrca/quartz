@@ -5,6 +5,7 @@ tags:
   - poem/ballad
   - poem/school/theater
   - poem/books
+  - reviews/plays
 ---
 
 The Musketeers go off and fight

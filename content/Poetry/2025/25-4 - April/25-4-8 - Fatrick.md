@@ -4,7 +4,7 @@ created: 2025-04-08T00:00:00.000Z
 tags:
   - poem/ballad
   - poem/debate
-  - poem/favorites
+  - favorites/poem
 ---
 
 If I'm the evil twin then who

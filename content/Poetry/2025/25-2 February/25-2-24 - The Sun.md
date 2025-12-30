@@ -3,7 +3,7 @@ title: 24 - The Sun
 created: 2025-02-24T00:00:00.000Z
 tags:
   - poem/limerick
-  - poem/nature/seasons
+  - nature/seasons
 ---
 
 There once was a thing called the sun

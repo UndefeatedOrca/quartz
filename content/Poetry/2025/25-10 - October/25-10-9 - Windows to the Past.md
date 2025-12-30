@@ -3,7 +3,7 @@ title: 9 - Windows to the Past
 created: 2025-10-09T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/favorites
+  - favorites/poem
 ---
 
 There's so much nonsense in my room

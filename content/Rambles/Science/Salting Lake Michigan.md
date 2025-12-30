@@ -4,7 +4,7 @@ draft: false
 tags:
   - science
   - ramble
-  - prose/favorites
+  - favorites/prose
 description:
 created: 2025-05-17
 modified: 2025-12-25

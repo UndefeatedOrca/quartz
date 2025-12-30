@@ -1,9 +1,9 @@
 ---
-title:
+title: Guardian Farm Madness
 draft: false
 tags:
-  - games/video
   - story/friends
+  - games/video/minecraft
 description:
 created: 2025-12-20
 modified:

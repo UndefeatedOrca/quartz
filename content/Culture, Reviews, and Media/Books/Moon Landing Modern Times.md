@@ -2,7 +2,7 @@
 title:
 draft: false
 tags:
-  - history
+  - facts/history
   - books
 description:
 created: 2025-06-15

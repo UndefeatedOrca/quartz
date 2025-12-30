@@ -4,7 +4,7 @@ draft: false
 tags:
   - story/friends
   - ramble
-  - prose/favorites
+  - favorites/prose
 description:
 created: 2025-10-09
 modified:

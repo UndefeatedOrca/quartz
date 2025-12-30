@@ -2,7 +2,7 @@
 title: Substack Origin Story
 draft: false
 tags:
-  - published/ROEH
+  - polished/ROEH
   - politics/culture/trans
   - rant
 description: How editorial censorship, my sheer curmudgeonosity, and bold-faced lies told to my face have led to the creation of my Substack.

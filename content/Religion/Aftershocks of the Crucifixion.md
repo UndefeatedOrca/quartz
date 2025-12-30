@@ -6,7 +6,7 @@ tags:
 description:
 created: 2025-04-19
 modified:
-holiday: Easter
+holiday: good-friday
 ---
 Although today’s poem is short, I do want to take a moment to reflect on the account of the aftermath of Christ's crucifixion that’s in Matthew, specifically the literal and figurative aftershocks. Matthew 27:51-54 reads as follows:
 

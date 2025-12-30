@@ -3,7 +3,7 @@ title: 4 - Short Walk
 created: 2025-10-04T00:00:00.000Z
 tags:
   - poem/ballad
-  - poem/nature
+  - nature
   - poem/friends
 ---
 
