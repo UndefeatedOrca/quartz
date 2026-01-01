@@ -6,9 +6,10 @@ description:
 created: 2025-12-22
 modified: 2025-12-29
 ---
+# Introduction
 Howdy, I'm Patrick!
 
-I'm an undergraduate student at Liberty University. I'm trying my best to make it through the world.  I publish a poem a day both here and on my Substack, [Patrick's Daily Poem](https://patricksdailypoem.substack.com/) and write about a wide variety of topics, including [fiction](deercaught), [tech](HolidayPlugin), [collegiate debate](NGA), [books](LOTRvNarnia), and [politics](MissingUACs). This page exists so you can [get to know me](https://youtu.be/-vGYkeDhWzU?si=5AIU_DOlnNbbn2uP)[^3] a little.
+I'm an undergraduate student at Liberty University just trying my best to make it through the world. I publish a poem a day both here and on my Substack, [Patrick's Daily Poem](https://patricksdailypoem.substack.com/) and write about a wide variety of topics, including [fiction](deercaught), [tech](HolidayPlugin), [collegiate debate](NGA), [books](LOTRvNarnia), and [politics](MissingUACs). This page exists so you can [get to know me](https://youtu.be/-vGYkeDhWzU?si=5AIU_DOlnNbbn2uP)[^3] a little.
 
 If you want to get in touch, [send me an email](mailto:patrick.j.foos@gmail.com). Alternative methods like LinkedIn, Substack, or Instagram might work as well, but do you really want to risk it?
 # The Boring Stuff
@@ -17,7 +18,7 @@ If you want to get in touch, [send me an email](mailto:patrick.j.foos@gmail.com)
 - [Fairfax County Public Schools](https://www.fcps.edu/) - Substitute teacher for the 2022-23 school year. I have a few stories about that tagged with #story/work/substitute .
 - [The Heritage Foundation](https://www.heritage.org/) - I was a member of the spring 2023 cohort of the [Young Leaders Program](https://www.heritage.org/young-leaders-program) and worked with the [Project 2025](https://en.wikipedia.org/wiki/Project_2025) until my term ended on launch day.
 - [The Public Interest Legal Foundation](https://publicinterestlegal.org/) (PILF)[^1] - Intern summer 2023. Stories from that time are tagged with #story/work/PILF .
-- [The Center for Renewing America](https://americarenewing.com/) - Intern summer 2024 and summer 2025. While there I wrote two policy papers, [[Lawfare]] and [[MissingUACs]].
+- [The Center for Renewing America](https://americarenewing.com/) - Intern summer 2024 and summer 2025. While there I wrote two policy papers, [Lawfare at 10,000 Feet](Lawfare) and [The Shameful Scandal of Biden's Missing Migrant Children](MissingUACs).
 ## Education
 - Graduated [Robinson Secondary School](https://robinsonss.fcps.edu/) in 2022
 - Graduated from [Northern Virginia Community College](https://www.nvcc.edu/) in 2023 with an Associate's of Arts in Social Science.
@@ -40,7 +41,7 @@ I read a variety of [authors](tags/author) across a range of [genres](tags/genre
 ## [[Writing]]
 I dabble, see this site.
 ## Techy Stuff
-Aside from the grass touching activities listed above, I've worked on a few projects of interest including my adventures [designing this site](Design), [adventures in self-hosting](projects/self-hosting/), a [twitter bot](https://x.com/GKCQuote), various [excel](DecoderSpreadsheet) [adventures](CommentGenerator), coding (though mostly with [[Scratch]]), experimentation with [Gephi](TheGraph), a poke at using [Scribus](https://en.wikipedia.org/wiki/Scribus) to create more beautiful editions of public domain books, dabbling with Linux, [Audacity](https://www.audacityteam.org/), some video editing with [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), a bit of laser engraving, playing with [NFC tags](https://en.wikipedia.org/wiki/Near-field_communication), geospatial analysis, and moderate understandings of [GIMP](https://www.gimp.org/), Photoshop, and Inkscape.
+Aside from the grass touching activities listed above, I've worked on a few projects of interest including my adventures [designing this site](Design), [adventures in self-hosting]([[projects/self-hosting/]]), a [twitter bot](https://x.com/GKCQuote), various [excel](DecoderSpreadsheet) [adventures](CommentGenerator), coding (though mostly with [[Scratch]]), experimentation with [Gephi](TheGraph), a poke at using [Scribus](https://en.wikipedia.org/wiki/Scribus) to create more beautiful editions of public domain books, dabbling with Linux, [Audacity](https://www.audacityteam.org/), some video editing with [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), a bit of laser engraving, playing with [NFC tags](https://en.wikipedia.org/wiki/Near-field_communication), geospatial analysis, and moderate understandings of [GIMP](https://www.gimp.org/), Photoshop, and Inkscape.
 ## Debate
 While I no longer compete, I was on the collegiate debate scene for two years, and those two years were sufficient to install a deep hatred and deep love of the game without rules. While I'm retired, once in a moment an idea hits me and it compels me to write a file, or a block, or just flag it for when inevitably someone with sanity decides that the whole of collegiate deserves to be defunded and needs a justification for it.
 ## Gaming

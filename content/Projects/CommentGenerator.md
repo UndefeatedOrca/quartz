@@ -5,7 +5,7 @@ tags:
   - project
   - politics
   - favorites/prose
-description:
+description: How one smart guy with a moderate amount of AI credits could significantly reduce the effectiveness of the federal government, and what to do about it
 created: 2025-12-29
 modified:
 holiday:

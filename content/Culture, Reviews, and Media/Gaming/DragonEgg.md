@@ -2,9 +2,9 @@
 title: How to Get the Dragon Egg Before Your Friends
 draft: false
 tags:
-  - games/video
   - guide
   - polished
+  - games/video/minecraft
 description:
 created: 2025-12-25
 modified:

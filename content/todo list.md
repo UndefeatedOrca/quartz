@@ -28,7 +28,7 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [x] Update [[WhoAmI]]
 	- [x] Figure out how much should be going on the homepage
 - [x] Write [[Design]]
-- [ ] Add cool little links to my socials in the corner
+- [x] Add cool little links to my socials in the corner
 	- this probably just means editing the footer
 - [x] Add collapsible tangent blocks and/or figure out how to use them and other components
 	- [ ] Configure a custom callout for tangents using [this info](https://quartz.jzhao.xyz/features/callouts)
@@ -50,8 +50,8 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 		- [ ] also has favicons, several option
 		- [ ] random page
 		- [ ] underline external links
-		- [ ] divider right after page content
 		- [ ] custom callout formatting and blocks
+- [ ] Custom aesthetic divider with randomized quote right after page content 
 - [x] Tag #author/MacDonald
 - [x] Implement vibe-coded holiday calendar plugin
 - [x] Update Claude's convert-frontmatter script to handle existing frontmatter
@@ -62,4 +62,3 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [x] Consider adding comments section
 	- no
 - [ ] Set up fonts
-	- [ ] Dropcaps? - ballet?
