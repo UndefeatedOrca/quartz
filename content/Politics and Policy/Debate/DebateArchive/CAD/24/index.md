@@ -9,6 +9,6 @@ modified:
 holiday:
 ---
 
-| Link | Title | Author |
-| ---- | ----- | ------ |
-|      |       |        |
+| Link                                 | Title     | Author                                                                                       |
+| ------------------------------------ | --------- | -------------------------------------------------------------------------------------- |
+| [link](CAD24ForumGaming2003.pdf)<br> | Brian McGee, Alfred Snider, David Frank, Maxwell Schnurer, Ede Warner Jr., Steve Woods r  r  r  r  r  r  |

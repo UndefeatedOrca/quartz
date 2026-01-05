@@ -1,5 +1,5 @@
 ---
-title:
+title: Beeline Reader
 draft: false
 tags:
   - tech/vibecoding

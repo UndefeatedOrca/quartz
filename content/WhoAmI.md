@@ -9,7 +9,7 @@ modified: 2025-12-29
 # Introduction
 Howdy, I'm Patrick!
 
-I'm an undergraduate student at Liberty University just trying my best to make it through the world. I publish a poem a day both here and on my Substack, [Patrick's Daily Poem](https://patricksdailypoem.substack.com/) and write about a wide variety of topics, including [fiction](deercaught), [tech](HolidayPlugin), [collegiate debate](NGA), [books](LOTRvNarnia), and [politics](MissingUACs). This page exists so you can [get to know me](https://youtu.be/-vGYkeDhWzU?si=5AIU_DOlnNbbn2uP)[^3] a little.
+I'm an undergraduate student at Liberty University just trying my best to make it through the world. I publish a poem a day both here and on my Substack, [Patrick's Daily Poem](https://patricksdailypoem.substack.com/) and write about a wide variety of topics, including [fiction](deercaught), [tech](HolidayPlugin), [collegiate debate](NGA.md), [books](LOTRvNarnia), and [politics](MissingUACs.md). This page exists so you can [get to know me](https://youtu.be/-vGYkeDhWzU?si=5AIU_DOlnNbbn2uP)[^3] a little.
 
 If you want to get in touch, [send me an email](mailto:patrick.j.foos@gmail.com). Alternative methods like LinkedIn, Substack, or Instagram might work as well, but do you really want to risk it?
 # The Boring Stuff
@@ -18,7 +18,7 @@ If you want to get in touch, [send me an email](mailto:patrick.j.foos@gmail.com)
 - [Fairfax County Public Schools](https://www.fcps.edu/) - Substitute teacher for the 2022-23 school year. I have a few stories about that tagged with #story/work/substitute .
 - [The Heritage Foundation](https://www.heritage.org/) - I was a member of the spring 2023 cohort of the [Young Leaders Program](https://www.heritage.org/young-leaders-program) and worked with the [Project 2025](https://en.wikipedia.org/wiki/Project_2025) until my term ended on launch day.
 - [The Public Interest Legal Foundation](https://publicinterestlegal.org/) (PILF)[^1] - Intern summer 2023. Stories from that time are tagged with #story/work/PILF .
-- [The Center for Renewing America](https://americarenewing.com/) - Intern summer 2024 and summer 2025. While there I wrote two policy papers, [Lawfare at 10,000 Feet](Lawfare) and [The Shameful Scandal of Biden's Missing Migrant Children](MissingUACs).
+- [The Center for Renewing America](https://americarenewing.com/) - Intern summer 2024 and summer 2025. While there I wrote two policy papers, [Lawfare at 10,000 Feet](Lawfare.md) and [The Shameful Scandal of Biden's Missing Migrant Children](MissingUACs.md).
 ## Education
 - Graduated [Robinson Secondary School](https://robinsonss.fcps.edu/) in 2022
 - Graduated from [Northern Virginia Community College](https://www.nvcc.edu/) in 2023 with an Associate's of Arts in Social Science.
