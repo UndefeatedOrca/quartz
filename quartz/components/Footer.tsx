@@ -15,6 +15,8 @@ export default ((opts?: Options) => {
         <p>
           Created with love using{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+          <br />
+          debate delenda est
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (

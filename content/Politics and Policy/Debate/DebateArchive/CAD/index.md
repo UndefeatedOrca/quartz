@@ -8,54 +8,63 @@ created:
 modified:
 holiday:
 ---
-While Contemporary Argumentation and Debate has an exclusive agreement with EBSCO for access to volumes published after 2000 (and there's no way that's for any good reason because the collective readership of these journals is approximately 15 people), volumes published before that are still publicly available to be dug up from the internet archive.
+While Contemporary Argumentation and Debate no longer has a website, I aim to fix this and actualize [what the journal itself once said](https://web.archive.org/web/20180709023000/http://www.cedadebate.org/CAD/index.php/CAD/about/editorialPolicies):
 
-I went ahead and did the digging, and below is the compiled archive of Contemporary Argumentation and Debate (with just a few missing/broken files).
+> [!quote] This journal provides immediate open access to its content on the principle that making research freely available to the public supports a greater global exchange of knowledge.
+
+The following is the compiled index of every file that I've found.
+
 # Volume 1
-![[Politics and Policy/Debate/DebateArchive/CAD/1/index|index]]
+![[CAD1|CAD1]]
 # Volume 2
-![[Politics and Policy/Debate/DebateArchive/CAD/2/index|index]]
+![[CAD2|CAD2]]
 # Volume 3
-![[Politics and Policy/Debate/DebateArchive/CAD/3/index|index]]
+![[CAD3|CAD3]]
 # Volume 4
-![[Politics and Policy/Debate/DebateArchive/CAD/4/index|index]]
+![[CAD4|CAD4]]
 # Volume 5
-![[Politics and Policy/Debate/DebateArchive/CAD/5/index|index]]
+![[CAD5|CAD5]]
 # Volume 6
-![[Politics and Policy/Debate/DebateArchive/CAD/6/index|index]]
+![[CAD6|CAD6]]
 # Volume 7
-![[Politics and Policy/Debate/DebateArchive/CAD/7/index|index]]
+![[CAD7|CAD7]]
 # Volume 8
-![[Politics and Policy/Debate/DebateArchive/CAD/8/index|index]]
+![[CAD8|CAD8]]
 # Volume 9
-![[Politics and Policy/Debate/DebateArchive/CAD/9/index|index]]
+![[CAD9|CAD9]]
 # Volume 10
-![[Politics and Policy/Debate/DebateArchive/CAD/10/index|index]]
+![[CAD10|CAD10]]
 # Volume 11
-![[Politics and Policy/Debate/DebateArchive/CAD/11/index|index]]
+![[CAD11|CAD11]]
 # Volume 12
-![[Politics and Policy/Debate/DebateArchive/CAD/12/index|index]]
+![[CAD12|CAD12]]
 # Volume 13
-![[Politics and Policy/Debate/DebateArchive/CAD/13/index|index]]
+![[CAD13|CAD13]]
 # Volume 14
-![[Politics and Policy/Debate/DebateArchive/CAD/14/index|index]]
+![[CAD14|CAD14]]
 # Volume 15
-![[Politics and Policy/Debate/DebateArchive/CAD/15/index|index]]
+![[CAD15|CAD15]]
 # Volume 16
-![[Politics and Policy/Debate/DebateArchive/CAD/16/index|index]]
+![[CAD16|CAD16]]
 # Volume 17
-![[Politics and Policy/Debate/DebateArchive/CAD/17/index|index]]
+![[CAD17|CAD17]]
 # Volume 18
-![[Politics and Policy/Debate/DebateArchive/CAD/18/index|index]]
+![[CAD18|CAD18]]
 # Volume 19
-![[Politics and Policy/Debate/DebateArchive/CAD/19/index|index]]
+![[CAD19|CAD19]]
 # Volume 20
-![[Politics and Policy/Debate/DebateArchive/CAD/20/index|index]]
+![[CAD20|CAD20]]
 # Volume 21
-![[Politics and Policy/Debate/DebateArchive/CAD/21/index|index]]
+![[CAD21|CAD21]]
 # Volume 24
-![[Politics and Policy/Debate/DebateArchive/CAD/24/index|index]]
+![[CAD24|CAD24]]
+# Volume 31
+![[CAD31|CAD31]]
+# Volume 32
+![[CAD32|CAD32]]
+# Volume 33
+![[CAD33|CAD33]]
 # Volume 36
-![[Politics and Policy/Debate/DebateArchive/CAD/36/index|index]]
+![[CAD36|CAD36]]
 # Volume 38
-![[Politics and Policy/Debate/DebateArchive/CAD/38/index|index]]
+![[CAD38|CAD38]]
