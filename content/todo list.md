@@ -44,7 +44,7 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 		- [ ] Spoiler text
 		- [ ] favicons
 		- [ ] dropcaps
-	- [ ] [Eilleeenz]((https://quartz.eilleeenz.com/Quartz-Snippets)
+	- [ ] [Eilleeenz](https://quartz.eilleeenz.com/Quartz-Snippets)
 		- [ ] twitter embeds
 		- [ ] also has spoilers - this feels like it should maybe be stock behavior
 		- [ ] also has favicons, several option
@@ -62,3 +62,4 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [x] Consider adding comments section
 	- no
 - [ ] Set up fonts
+- [ ] Consider moving the debate archive ([[Politics and Policy/Debate/DebateArchive/index|index]]) to a separate site 
