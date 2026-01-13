@@ -162,40 +162,53 @@ body.lightbox-open {
             contentType: "inline",
             script: `
               // Lightbox functionality
-              function initLightbox() {
-                // Remove existing modal if it exists
-                const existingModal = document.querySelector('.lightbox-modal');
-                if (existingModal) {
-                  existingModal.remove();
+              (function() {
+                let modal = null;
+                let modalImg = null;
+                let closeBtn = null;
+                let isInitialized = false;
+                let clickHandler = null;
+                let keyHandler = null;
+
+                function createModal() {
+                  // Remove existing modal if it exists
+                  const existingModal = document.querySelector('.lightbox-modal');
+                  if (existingModal) {
+                    existingModal.remove();
+                  }
+
+                  // Create modal elements
+                  modal = document.createElement('div');
+                  modal.className = 'lightbox-modal';
+                  
+                  closeBtn = document.createElement('button');
+                  closeBtn.className = 'lightbox-close';
+                  closeBtn.innerHTML = '×';
+                  closeBtn.setAttribute('aria-label', 'Close lightbox');
+                  
+                  modalImg = document.createElement('img');
+                  modalImg.style.display = 'none';
+                  
+                  modal.appendChild(closeBtn);
+                  modal.appendChild(modalImg);
+                  document.body.appendChild(modal);
+
+                  return { modal, modalImg, closeBtn };
                 }
 
-                // Create modal elements
-                const modal = document.createElement('div');
-                modal.className = 'lightbox-modal';
-                
-                const closeBtn = document.createElement('button');
-                closeBtn.className = 'lightbox-close';
-                closeBtn.innerHTML = '×';
-                closeBtn.setAttribute('aria-label', 'Close lightbox');
-                
-                const img = document.createElement('img');
-                img.style.display = 'none';
-                
-                modal.appendChild(closeBtn);
-                modal.appendChild(img);
-                document.body.appendChild(modal);                // Function to open lightbox
+                // Function to open lightbox
                 function openLightbox(imageSrc, imageAlt, originalImg) {
-                  img.src = imageSrc;
-                  img.alt = imageAlt || '';
-                  img.style.display = 'block';
+                  if (!modal || !modalImg) return;
+
+                  modalImg.src = imageSrc;
+                  modalImg.alt = imageAlt || '';
+                  modalImg.style.display = 'block';
                   modal.classList.add('active');
                   document.body.classList.add('lightbox-open');
                   
                   // Preload the image and set appropriate size
                   const preloadImg = new Image();
                   preloadImg.onload = () => {
-                    img.src = imageSrc;
-                    
                     // Get original image size on page
                     const originalRect = originalImg ? originalImg.getBoundingClientRect() : null;
                     const originalDisplayWidth = originalRect ? originalRect.width : 0;
@@ -208,7 +221,7 @@ body.lightbox-open {
                     const imageHeight = preloadImg.naturalHeight;
                     
                     // Calculate appropriate display size
-                    let targetWidth, targetHeight;
+                    let targetWidth;
                     
                     // Ensure lightbox image is at least 1.5x the size it appears on page
                     const minDisplayWidth = Math.max(
@@ -223,78 +236,113 @@ body.lightbox-open {
                     // Calculate scale to meet minimum size requirements
                     const scaleForWidth = minDisplayWidth / imageWidth;
                     const scaleForHeight = minDisplayHeight / imageHeight;
-                    const minScale = Math.max(scaleForWidth, scaleForHeight, 1); // At least 1x (never smaller than original)
+                    const minScale = Math.max(scaleForWidth, scaleForHeight, 1);
                     
                     // Limit maximum scale to prevent pixelation
                     const maxScale = Math.min(3, viewportWidth * 0.9 / imageWidth, viewportHeight * 0.9 / imageHeight);
                     const finalScale = Math.min(minScale, maxScale);
                     
                     targetWidth = Math.min(imageWidth * finalScale, viewportWidth * 0.9);
-                    targetHeight = Math.min(imageHeight * finalScale, viewportHeight * 0.9);
-                      img.style.width = targetWidth + 'px';
-                    img.style.height = 'auto';
+                    
+                    modalImg.style.width = targetWidth + 'px';
+                    modalImg.style.height = 'auto';
                   };
                   preloadImg.src = imageSrc;
                 }
 
                 // Function to close lightbox
                 function closeLightbox() {
+                  if (!modal || !modalImg) return;
+                  
                   modal.classList.remove('active');
                   document.body.classList.remove('lightbox-open');
                   setTimeout(() => {
-                    img.style.display = 'none';
-                    img.src = '';
+                    modalImg.style.display = 'none';
+                    modalImg.src = '';
                   }, 300);
                 }
 
-                // Event listeners
-                closeBtn.addEventListener('click', closeLightbox);
-                
-                modal.addEventListener('click', (e) => {
-                  if (e.target === modal) {
-                    closeLightbox();
+                function initLightbox() {
+                  // Prevent multiple initializations
+                  if (isInitialized) {
+                    return;
                   }
-                });
 
-                // Keyboard support
-                document.addEventListener('keydown', (e) => {
-                  if (e.key === 'Escape' && modal.classList.contains('active')) {
-                    closeLightbox();
-                  }
-                });                // Add click handlers to all lightbox images
-                const lightboxWrappers = document.querySelectorAll('.lightbox-wrapper');
-                lightboxWrappers.forEach(wrapper => {
-                  wrapper.addEventListener('click', (e) => {
-                    e.preventDefault();
-                    const img = wrapper.querySelector('.lightbox-image');
-                    if (img) {
-                      const src = img.getAttribute('data-src') || img.src;
-                      const alt = img.getAttribute('data-alt') || img.alt;
-                      openLightbox(src, alt, img);
+                  // Create modal
+                  const elements = createModal();
+                  modal = elements.modal;
+                  modalImg = elements.modalImg;
+                  closeBtn = elements.closeBtn;
+
+                  // Close button event
+                  closeBtn.addEventListener('click', closeLightbox);
+                  
+                  // Click outside to close
+                  modal.addEventListener('click', (e) => {
+                    if (e.target === modal) {
+                      closeLightbox();
                     }
                   });
-                });
 
-                // Clean up function
-                if (window.addCleanup) {
-                  window.addCleanup(() => {
-                    if (modal && modal.parentNode) {
-                      modal.parentNode.removeChild(modal);
+                  // Keyboard support (Escape key)
+                  keyHandler = (e) => {
+                    if (e.key === 'Escape' && modal && modal.classList.contains('active')) {
+                      closeLightbox();
                     }
-                    document.body.classList.remove('lightbox-open');
-                  });
+                  };
+                  document.addEventListener('keydown', keyHandler);
+
+                  // Event delegation for image clicks
+                  clickHandler = (e) => {
+                    const wrapper = e.target.closest('.lightbox-wrapper');
+                    if (wrapper) {
+                      e.preventDefault();
+                      const img = wrapper.querySelector('.lightbox-image');
+                      if (img) {
+                        const src = img.getAttribute('data-src') || img.src;
+                        const alt = img.getAttribute('data-alt') || img.alt;
+                        openLightbox(src, alt, img);
+                      }
+                    }
+                  };
+                  document.addEventListener('click', clickHandler);
+
+                  isInitialized = true;
+
+                  // Clean up function
+                  if (window.addCleanup) {
+                    window.addCleanup(() => {
+                      if (modal && modal.parentNode) {
+                        modal.parentNode.removeChild(modal);
+                      }
+                      document.body.classList.remove('lightbox-open');
+                      
+                      // Remove event listeners
+                      if (clickHandler) {
+                        document.removeEventListener('click', clickHandler);
+                      }
+                      if (keyHandler) {
+                        document.removeEventListener('keydown', keyHandler);
+                      }
+                      
+                      isInitialized = false;
+                      modal = null;
+                      modalImg = null;
+                      closeBtn = null;
+                    });
+                  }
                 }
-              }
 
-              // Initialize on page load and navigation
-              document.addEventListener('nav', initLightbox);
-              
-              // Initialize immediately if DOM is already ready
-              if (document.readyState === 'loading') {
-                document.addEventListener('DOMContentLoaded', initLightbox);
-              } else {
-                initLightbox();
-              }
+                // Initialize on page load and navigation
+                document.addEventListener('nav', initLightbox);
+                
+                // Initialize immediately if DOM is already ready
+                if (document.readyState === 'loading') {
+                  document.addEventListener('DOMContentLoaded', initLightbox);
+                } else {
+                  initLightbox();
+                }
+              })();
             `,
           },
         ],
