@@ -1,5 +1,5 @@
 ---
-title: Guess Who - Gameshow Style
+title: Monty Hall Plays Guess Who (badly)
 draft: false
 tags:
   - ramble
@@ -10,7 +10,9 @@ modified:
 holiday:
 ---
 # Disclaimer
-Now that it is not past midnight, and although I may still be feverish, I will not that there is a substantial mathematical flaw to this post, and that the conclusions drawn are incorrect
+Now that it is not past midnight, and although I may still be feverish, I will note that there is a substantial mathematical flaw to this post, and that the conclusions drawn are incorrect.
+
+Specifically, step four argues that because there's an equal chance of guessing half the alternate region as there is guessing the originally guessed region that chance is 50%. In fact, best case scenario, that chance is 1/3 because of the other half of the alternate region.
 # OG intro
 As I lay on the couch, feeling somewhat ill, I scrolled through my YouTube feed and found [this video](https://youtu.be/_3RNB8eOSx0?si=XaYNiNW6siZfn5kw). I haven't finished it yet, but it got me thinking:
 

@@ -51,7 +51,8 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 		- [ ] random page
 		- [ ] underline external links
 		- [ ] custom callout formatting and blocks
-- [ ] Custom aesthetic divider with randomized quote right after page content 
+	- In some instances, it might make more sense to vibecode the features??
+- [ ] Custom aesthetic divider (with randomized quote right after page content?)
 - [x] Tag #author/MacDonald
 - [x] Implement vibe-coded holiday calendar plugin
 - [x] Update Claude's convert-frontmatter script to handle existing frontmatter
