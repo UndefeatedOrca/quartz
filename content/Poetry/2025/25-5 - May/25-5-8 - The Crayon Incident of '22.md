@@ -63,5 +63,6 @@ The house was full of smoke
 My crayons were left unusable
 But nothing else had broke 
 ¯\\_(ツ)_/¯
+
 ---
 Second things second, yes, this did actually happen and yes, silicon does undergo interesting chemical transformation and become much easier to tear after subjecting it to incredible heat. The wax in the crayons melted holes through the silicon muffin molds and meant that the crayons, when removed from the tin, literally had the molds embedded inside of them.
