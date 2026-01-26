@@ -7,9 +7,15 @@ tags:
   - unfinished
 description:
 created: 2025-11-22
-modified:
+modified: 2026-01-26
 ---
+Extension: [[ClaudlineReaderv3.crx]]
 
+This extension replicates the functionality of the Beeline Reader Chrome extension with the added benefit of being free.
+
+todo:
+- [ ] Upload actual code for extension
+- [ ] Update extension to have a toggle to use an accessible font as well
 # Original Post on the Copilot/Chat GPT Verison
 Today I attempted to have copilot write a chrome extension with the same functionality as [BeeLine Reader](https://www.beelinereader.com/). It kind of worked. It kind of didn’t. I’m still pretty sure that the pieces don’t fit together like they should, but it can turn my Project Gutenberg tabs (the only site the extension seems to work with) into insane memory hogs, so the whole project was sort of a wash.
 
