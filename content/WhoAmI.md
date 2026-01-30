@@ -9,7 +9,7 @@ modified: 2025-12-29
 # Introduction
 Howdy, I'm Patrick!
 
-I'm an undergraduate student at Liberty University just trying my best to make it through the world. I publish a poem a day both here and on my Substack, [Patrick's Daily Poem](https://patricksdailypoem.substack.com/) and write about a wide variety of topics, including [fiction](deercaught), [tech](HolidayPlugin), [collegiate debate](NGA.md), [books](LOTRvNarnia), and [politics](MissingUACs.md). This page exists so you can [get to know me](https://youtu.be/-vGYkeDhWzU?si=5AIU_DOlnNbbn2uP)[^3] a little.
+I'm an undergraduate student at Liberty University just trying my best to make it through the world. I publish a poem a day both here and on my Substack, [Patrick's Daily Poem](https://patricksdailypoem.substack.com/) and write about a wide variety of topics, including [fiction](deercaught), [tech](holidayplugin.md), [collegiate debate](NGA.md), [books](LOTRvNarnia), and [politics](MissingUACs.md). This page exists so you can [get to know me](https://youtu.be/-vGYkeDhWzU?si=5AIU_DOlnNbbn2uP)[^3] a little.
 
 If you want to get in touch, [send me an email](mailto:patrick.j.foos@gmail.com). Alternative methods like LinkedIn, Substack, or Instagram might work as well, but do you really want to risk it?
 # The Boring Stuff
