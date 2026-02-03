@@ -11,10 +11,11 @@ modified: 2026-01-26
 ---
 Extension: [[ClaudlineReaderv3.crx]]
 
-This extension replicates the functionality of the Beeline Reader Chrome extension with the added benefit of being free. If the .crx file above doesn't work, you can also load the 
+This extension replicates the functionality of the Beeline Reader Chrome extension with the added benefit of being free. If the .crx file above doesn't work, you can also load the code files and icons below into a folder.
 
 todo:
-- [ ] Upload actual code for extension
+- [x] Upload actual code for extension
+- [ ] Just upload a zip file and remove the code lol
 - [ ] Update extension to have a toggle to use an accessible font as well
 # Content
 ## Code

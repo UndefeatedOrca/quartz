@@ -9,14 +9,15 @@ created: 2026-01-26
 modified:
 holiday:
 ---
-The online textbooks that my School of Business uses are really annoying because they don't let you copy-paste. I realized that this was a fixable problem. Behold: The textbook copy-inator!
+The online textbooks that my School of Business uses are really annoying because they don't let you copy-paste. I realized that this was a fixable problem. Behold: [The textbook copy-inator](TextbookCopy.crx)!
 ![[Pasted image 20260130082434.png]]
 
 This extension suppresses whatever nonsense they have to prevent you from copying quotes into essays and the annotation box as well. To turn it on for a page just click the icon extension when you want to use it and it'll strip the problematic elements.
 
 It's a bit touchy, but it works!
-# Code
-## background.js
+# Content
+## Code
+### background.js
 
 ```js
 chrome.action.onClicked.addListener((tab) => {
@@ -483,7 +484,7 @@ function enableCopy() {
 
 }
 ```
-## manifest.json
+### manifest.json
 ```json
 {
 
@@ -521,10 +522,10 @@ function enableCopy() {
 
 }
 ```
-# icons
-## icon16.png
+## icons
+### icon16.png
 ![[Pasted image 20260130083403.png]]
-## icon48.png
+### icon48.png
 ![[Pasted image 20260130083410.png]]
-## icon128.png
+### icon128.png
 ![[Pasted image 20260130083414.png]]

@@ -1,5 +1,5 @@
 ---
-title:
+title: Decimalization
 draft: false
 tags:
   - facts/history

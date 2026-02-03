@@ -1,5 +1,5 @@
 ---
-title:
+title: Zingo
 draft: false
 tags:
   - polished/ValorDictus

@@ -1,5 +1,5 @@
 ---
-title:
+title: Absolutization
 draft: false
 tags:
   - politics/criticaltheory

@@ -13,7 +13,7 @@ modified:
 
 Pretty cool, huh (alt-graph key and also shift key functions)
 
-While you’ve heard about the [alt-graph key](EnglishInternationalKeyboardLayout.md) alt-graph key, did you know that the alt key can also be used for special characters? Holding alt and then typing a number or series of numbers will create even more special characters.
+While you’ve heard about the [alt-graph key](intlkeyboard.md) alt-graph key, did you know that the alt key can also be used for special characters? Holding alt and then typing a number or series of numbers will create even more special characters.
 
 For example, card suits can be typed with alt and 3, 4, 5, and 6 respectively (♥, ♦, ♣, ♠).
 

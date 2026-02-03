@@ -1,5 +1,5 @@
 ---
-title:
+title: Masks
 draft: false
 tags:
   - ramble

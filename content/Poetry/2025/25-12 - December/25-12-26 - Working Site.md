@@ -15,14 +15,14 @@ Its functioning is sound
 And all the things I've written up
 Can now, on it, be found
 
-From comments on [[Kentucky Bend]]
-To [[Book Club]] planning docs
+From comments on [[kentuckybend]]
+To [[bookclub]] planning docs
 The only thing I haven't found
 Is one discussing socks
 
-The origin of [[Silhouette]]
-[[State Capitol Reviews]]
-Or how I used to tie [[Slipknots]]
+The origin of [[silhouette]]
+[[statecapitolreview]]
+Or how I used to tie [[slipknots]]
 Into my third-grade shoes
 
 And if that's not enough for you

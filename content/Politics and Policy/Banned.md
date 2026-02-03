@@ -1,5 +1,5 @@
 ---
-title:
+title: Banned
 draft: false
 tags:
   - polished/ValorDictus

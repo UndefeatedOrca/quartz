@@ -1,5 +1,5 @@
 ---
-title:
+title: Slipknots
 draft: false
 tags:
   - ramble

@@ -33,7 +33,7 @@ I opted to use PostHog analytics for the site, for three reasons:
 
 I, technical imbecile that I am, have no idea what most of the stuff on my dashboard does in any way. What I do know is that implementing it was more difficult than I would have liked. As I learn how the dashboard works, I'll update this section.
 
-To learn how to implement cookie free PostHog analytics for your Quartz installation, go here: [How to Set Up Cookie Free PostHog Analytics](NoCookiePostHog.md)
+To learn how to implement cookie free PostHog analytics for your Quartz installation, go here: [How to Set Up Cookie Free PostHog Analytics](nocookieposthog.md)
 # Clickable Images
 After installing the lightbox image plugin from here: [vazome/quartz-clickable-images-zoom-plugin: Enabled Lightbox zoom for Quartz built websites](https://github.com/vazome/quartz-clickable-images-zoom-plugin), I discovered that it didn't work, so I threw the code into Claude and it spit out something that functions. Whether the initial break was a matter of user error or a problem with the code remains a mystery.
 

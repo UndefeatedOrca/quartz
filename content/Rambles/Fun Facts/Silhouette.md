@@ -1,5 +1,5 @@
 ---
-title:
+title: Silhouette
 draft: false
 tags:
   - favorites/prose
