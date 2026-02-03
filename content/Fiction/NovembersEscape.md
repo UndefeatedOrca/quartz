@@ -12,7 +12,7 @@ holiday:
 Before you read this note, read the short story that it ends: [the bed that kept november](https://laurbrown1.substack.com/p/the-bed-that-kept-november)
 
 
-<iframe src="https://laurbrown1.substack.com/p/the-bed-that-kept-november"></iframe>
+<iframe src="https://laurbrown1.substack.com/p/the-bed-that-kept-november" style="width: 100%; height: 300px;"></iframe>
 
 
 ---

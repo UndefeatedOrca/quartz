@@ -10,7 +10,7 @@ modified:
 ---
 The following is a continuation of [Deer Throwing](https://laurbrown1.substack.com/p/deer-throwing) by Lauren Brown. Read it first, it's under a thousand words and otherwise this won't make any sense.
 
-<iframe src="https://laurbrown1.substack.com/p/deer-throwing"></iframe>
+<iframe src="https://laurbrown1.substack.com/p/deer-throwing" style="width: 100%; height: 300px;"></iframe>
 
 ---
 
