@@ -1,5 +1,5 @@
 ---
-title:
+title: Embassy Row
 draft: false
 tags:
   - reviews/books

@@ -1,5 +1,5 @@
 ---
-title:
+title: Please Don't Tell My Parents
 draft: false
 tags:
   - reviews/books

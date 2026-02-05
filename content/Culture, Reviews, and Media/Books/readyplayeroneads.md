@@ -1,5 +1,5 @@
 ---
-title:
+title: Ready Player One and Advertisement Proliferation
 draft: false
 tags:
   - ramble

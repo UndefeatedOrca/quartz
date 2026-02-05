@@ -1,5 +1,5 @@
 ---
-title:
+title: Pride and Prejudice
 draft: false
 tags:
   - polished/ValorDictus

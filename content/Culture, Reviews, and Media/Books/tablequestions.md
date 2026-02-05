@@ -1,5 +1,5 @@
 ---
-title:
+title: Table Questions
 draft: false
 tags:
   - ramble

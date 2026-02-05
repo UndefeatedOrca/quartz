@@ -1,5 +1,5 @@
 ---
-title:
+title: The Good for Nothings
 draft: false
 tags:
   - polished/ValorDictus

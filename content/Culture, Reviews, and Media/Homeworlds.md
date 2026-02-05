@@ -1,5 +1,5 @@
 ---
-title:
+title: Homeworlds
 draft: false
 tags:
   - games/video
@@ -9,7 +9,7 @@ description:
 created: 2025-12-15
 modified:
 ---
-I finished Halo 4 tonight. Fun game, not sure I approve of every choice, but one line right at the end got me thinking.
+I finished [Halo 4](halo4) tonight. Fun game, not sure I approve of every choice, but one line right at the end got me thinking.
 
 While looking out over Earth from the deck of a space station, one of the characters talks about how, although he wasn’t born or raised there, he always saw Earth as his home, and visits are emotionally impactful. Two thoughts on that:
 

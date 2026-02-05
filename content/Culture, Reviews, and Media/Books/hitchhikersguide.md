@@ -1,5 +1,5 @@
 ---
-title:
+title: Hitchhiker's Guide
 draft: false
 tags:
   - reviews/books

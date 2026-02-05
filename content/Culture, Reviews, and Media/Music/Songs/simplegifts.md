@@ -1,5 +1,5 @@
 ---
-title:
+title: Simple Gifts
 draft: false
 tags:
   - music

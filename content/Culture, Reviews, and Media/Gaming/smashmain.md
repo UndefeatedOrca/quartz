@@ -1,5 +1,5 @@
 ---
-title:
+title: Super Smash Bros. Main
 draft: false
 tags:
   - games/video

@@ -1,5 +1,5 @@
 ---
-title:
+title: The Only Direction I Know for Real
 draft: false
 tags:
   - ramble

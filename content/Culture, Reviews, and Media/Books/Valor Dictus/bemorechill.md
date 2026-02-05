@@ -1,5 +1,5 @@
 ---
-title:
+title: Be More Chill
 draft: false
 tags:
   - polished/ValorDictus

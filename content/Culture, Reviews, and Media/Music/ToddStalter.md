@@ -17,3 +17,7 @@ There’s half an explanation for this somewhere in my head.
 ---
 
 [Todd goes crazy low-key](https://www.alfred.com/authors/todd-stalter/)
+
+---
+
+![[25-10-13 - Todd]]

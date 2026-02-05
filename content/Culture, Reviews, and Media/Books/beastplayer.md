@@ -1,5 +1,5 @@
 ---
-title:
+title: The Beast Player
 draft: false
 tags:
   - reviews/books

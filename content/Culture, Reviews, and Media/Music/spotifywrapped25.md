@@ -1,5 +1,5 @@
 ---
-title:
+title: Spotify Wrapped 2025
 draft: false
 tags:
   - snippet/music

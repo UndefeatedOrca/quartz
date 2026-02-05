@@ -1,5 +1,5 @@
 ---
-title:
+title: Stormlight Five - Wind and Truth
 draft: false
 tags:
   - reviews/books

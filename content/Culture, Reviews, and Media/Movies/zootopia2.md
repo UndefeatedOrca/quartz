@@ -1,5 +1,5 @@
 ---
-title:
+title: Zootopia 2
 draft: false
 tags:
   - reviews/movie

@@ -1,5 +1,5 @@
 ---
-title:
+title: Two Player Silksong
 draft: false
 tags:
   - games/video

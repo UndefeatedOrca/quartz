@@ -9,7 +9,7 @@ modified: 2025-12-29
 # Introduction
 Howdy, I'm Patrick!
 
-I'm an undergraduate student at Liberty University just trying my best to make it through the world. I publish a poem a day both here and on my Substack, [Patrick's Daily Poem](https://patricksdailypoem.substack.com/) and write about a wide variety of topics, including [fiction](deercaught.md), [tech](holidayplugin.md), [collegiate debate](ngacounterplan.md), [books](LOTRvNarnia), and [politics](missingmigrants.md). This page exists so you can [get to know me](https://youtu.be/-vGYkeDhWzU?si=5AIU_DOlnNbbn2uP)[^3] a little.
+I'm an undergraduate student at Liberty University just trying my best to make it through the world. I publish a poem a day both here and on my Substack, [Patrick's Daily Poem](https://patricksdailypoem.substack.com/) and write about a wide variety of topics, including [fiction](deercaught.md), [tech](holidayplugin.md), [collegiate debate](ngacounterplan.md), [books](lotrvnarnia.md), and [politics](missingmigrants.md). This page exists so you can [get to know me](https://youtu.be/-vGYkeDhWzU?si=5AIU_DOlnNbbn2uP)[^3] a little.
 
 If you want to get in touch, [send me an email](mailto:patrick.j.foos@gmail.com). Alternative methods like LinkedIn, Substack, or Instagram might work as well, but do you really want to risk it?
 # The Boring Stuff
@@ -31,7 +31,7 @@ While my public school education did everything it could to instill a deep hatre
 
 I prefer the traditional English [ballad](tags/poem/ballad), but have been known to branch out into [sonnets](tags/poem/sonnet), [limericks](tags/poem/limerick), [haikus](tags/poem/haiku), and extraneous free verse . If you'd like a poem for yourself, feel free to ask. I'm behind on [commissions](25-6-12-Commissions), but the queue is incredibly short, and I'm not known for following a strict order of completion.
 ## Music
-I've played the French Horn for over a decade and have some competency, though my range is certainly not what it could be with dedicated practice. I've played in a [variety of ensembles](MyMusic), including marching, high school, college, and community bands,
+I've played the French Horn for over a decade and have some competency, though my range is certainly not what it could be with dedicated practice. I've played in a [variety of ensembles](mymusic.md), including marching, high school, college, and community bands,
 
 I can play the French Horn, Mellophone, some basic Trumpet, and have a third grade proficiency with the Recorder. When I attempted to play the clarinet I made noises that the experienced clarinetists couldn't comprehend (in a bad way).
 
@@ -45,7 +45,7 @@ Aside from the grass touching activities listed above, I've worked on a few proj
 ## Debate
 While I no longer compete, I was on the collegiate debate scene for two years, and those two years were sufficient to install a deep hatred and deep love of the game without rules. While I'm retired, once in a moment an idea hits me and it compels me to write a file, or a block, or just flag it for when inevitably someone with sanity decides that the whole of collegiate deserves to be defunded and needs a justification for it.
 ## Gaming
-I play/have played a wide variety of games, though I've played a lot less post-high school. I've been known to play FPS, 4X, RTS, MMO, Puzzle, Factory, Metroidvania, Tower Defense, [KSP](everescue.md), [[MinesweeperRush]], and open-ended games like [Minecraft](tags/games/video/minecraft) and Terraria.
+I play/have played a wide variety of games, though I've played a lot less post-high school. I've been known to play FPS, 4X, RTS, MMO, Puzzle, Factory, Metroidvania, Tower Defense, [KSP](everescue.md), [[minesweeperrush]], and open-ended games like [Minecraft](tags/games/video/minecraft) and Terraria.
 ## Outdoor Recreation
 As a proud Eagle Scout and toucher of grass, I enjoy hiking, canoe/kayak/rowboating, and some camping. One of the highlights of my life was a raft trip down the Grand Canyon, and Boy Scouts was a wonderful experience. A sturdy hammock and a good book make for a lovely afternoon
 ## Amateur Radio

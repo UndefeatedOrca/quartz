@@ -1,5 +1,5 @@
 ---
-title:
+title: Silksong
 draft: false
 tags:
   - games/video
@@ -7,7 +7,7 @@ description:
 created:
 modified:
 ---
-See also and [[Two Player Silksong]] and [[25-11-12 - Skong]]
+See also and [[twoplayersilksong]] and [[25-11-12 - Skong]]
 # 9/6/25
 ![[25-9-3 - Silksong]]
 # 9/7/25
