@@ -9,7 +9,7 @@ created: 2026-01-26
 modified:
 holiday:
 ---
-The online textbooks that my School of Business uses are really annoying because they don't let you copy-paste. I realized that this was a fixable problem. Behold: [The textbook copy-inator](TextbookCopy.crx)!
+The online textbooks that my School of Business uses are really annoying because they don't let you copy-paste. I realized that this was a fixable problem. Behold: [The textbook copy-inator](textbookcopy.zip)!
 ![[Pasted image 20260130082434.png]]
 
 This extension suppresses whatever nonsense they have to prevent you from copying quotes into essays and the annotation box as well. To turn it on for a page just click the icon extension when you want to use it and it'll strip the problematic elements.

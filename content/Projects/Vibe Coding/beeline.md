@@ -9,7 +9,7 @@ description:
 created: 2025-11-22
 modified: 2026-01-26
 ---
-Extension: [[ClaudlineReaderv3.crx]]
+Extension: [[ClaudlineReaderv3.zip]]
 
 This extension replicates the functionality of the Beeline Reader Chrome extension with the added benefit of being free. If the .crx file above doesn't work, you can also load the code files and icons below into a folder.
 
