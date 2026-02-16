@@ -2,6 +2,8 @@
 title: 11 - Wait, Who's Speaking?
 draft: false
 tags:
+  - poem/ballad
+  - poem/school
 description:
 created: 2026-02-11
 modified:
