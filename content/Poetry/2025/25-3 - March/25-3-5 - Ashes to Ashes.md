@@ -7,7 +7,6 @@ tags:
   - favorites/poem
 holiday: ash-wednesday
 ---
-
 Ashes to ashes, dust to dust
 Without a righteous deed
 Ashes to ashes, dust to dust
@@ -42,5 +41,6 @@ Ashes to ashes, dust to dust
 In midst of all that strife
 Ashes to ashes, dust to dust
 He's raised back up to life
+
 ---
 I wanted to try something a bit unique today and took some inspiration from repetitions in the morning prayer canticle and the end of Psalm 103. It turned out alright. Originally, I thought I’d end this poem by breaking the pattern with the second-to-last line, but I ended up deciding that maintaining the same structure throughout was the better option. Welcome to Lent my friends.
