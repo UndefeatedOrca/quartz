@@ -17,7 +17,7 @@ What this means is that beyond showing public opinion on an issue, or providing 
 Here's the fun part: it would be really easy to create unique letters for thousands or millions of interested citizens. Here are some of my ideas of what could happen:
 # Creating the Comments
 ## Mail Merge
-The simplest option for mass comment generation is write the regulatory comment and then set fields in the comment were synonyms can be used. Include enough of these fields and you'll have technically distinct letters. All you need is Mail Merge.
+The simplest option for mass comment generation is write the regulatory comment and then set fields in the comment where synonyms can be used. Include enough of these fields and you'll have technically distinct letters. All you need is Mail Merge.
 
 This would allow you to use existing infrastructure and evade the most basic comment aggregating tools, though they might still be detected by current algorithms. To spice that up a bit, advocate mobilizers could encourage senders to write just one or two original lines which would again force all comments to be read while minimizing user effort. The alternative would be to have just one or two lines with extraordinarily complexity and wide variety of argumentation as well.
 
