@@ -49,7 +49,7 @@ I play/have played a wide variety of games, though I've played a lot less post-h
 ## Outdoor Recreation
 As a proud Eagle Scout and toucher of grass, I enjoy hiking, canoe/kayak/rowboating, and some camping. One of the highlights of my life was a raft trip down the Grand Canyon, and Boy Scouts was a wonderful experience. A sturdy hammock and a good book make for a lovely afternoon
 ## Amateur Radio
-While I did learn Morse code on a whim in the summer of 2025, I've yet to gain a license. That's my goal in the next month or so (hopeful license date, February 2026).
+While I did learn Morse code on a whim in the summer of 2025, I've yet to gain a license. That's my goal in the next month or so (hopeful license date, March 2026).
 
 [^1]: lol - PILF
 
