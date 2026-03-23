@@ -5,6 +5,7 @@ tags:
   - holiday/christmas
   - religion
   - rant
+  - response
 description:
 created: 2025-12-24
 modified: 2025-12-25
