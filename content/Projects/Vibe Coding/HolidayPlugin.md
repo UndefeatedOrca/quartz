@@ -11,6 +11,8 @@ created: 2025-12-27
 modified:
 holiday:
 ---
+todo
+- [ ] dynamic updates?? Right now, the calendar is based on when the site was last synced (could also just create a workflow to sync daily)
 # %%Summary%%
 This is a Quartz component I vibecoded with Claude that displays a notes based on date using a frontmatter element named "holiday" and either the date or one of a preset list of named holidays like Christmas or Easter. It only appears on the index page of the site and is set to display the next seven days worth of notes.
 
