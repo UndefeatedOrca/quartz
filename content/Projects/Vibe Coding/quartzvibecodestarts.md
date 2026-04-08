@@ -590,7 +590,7 @@ document.addEventListener("nav", () => {
 }
 ```
 # Beeline
-Pretty basic implementation of the beeline reader feature for the site -- colors are ugly, static, and not tied to the theme and the gradient mixing is super wonky (maybe it should use the accent color and fade it in to 50% and then back to 0%, needs checking). Even so, it broadly functions.
+Pretty basic implementation of the beeline reader feature for the site -- colors are ugly, static, and not tied to the theme, link handling is bizarre, and the gradient mixing is super wonky (maybe it should use the accent color and fade it in to 50% and then back to 0%, needs checking). Even so, it broadly functions.
 >[!info] Must be exported to index.ts and added to quartz.layout.ts
 ### quartz\components\BeelineReader.tsx
 ```tsx
