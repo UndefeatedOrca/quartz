@@ -29,3 +29,5 @@ The king takes his kingdom and reintroduces feudalism to a London free of patrio
 And yet.
 
 One boy, becomes one man, becomes the ruler of his home, and for some odd reason, he's a patriot for a neighborhood. He loves Notting Hill because it is uniquely his. He fights for Notting Hill, he repels the invasion of Notting Hill, and the result is differentiation. The people learn to love their particular things even as they realize that history has turned back.
+# Christianity as an antihistorical force
+![[Pasted image 20260412224642.png]]
