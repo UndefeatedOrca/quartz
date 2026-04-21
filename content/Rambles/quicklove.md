@@ -12,7 +12,7 @@ holiday:
 - Sylvia Jane Rawlings died on January 20, 2026
 - Harold Rawlings was newly married March 1, 2026[^1]
 
-Sylvia was in the ground for one month and three days before her former husband married a new woman. This new marriage should, apparently, be an inspiration to Liberty students.
+Sylvia had been dead thirty-nine days when her former husband married a new woman. This new marriage should be, in the words of Dondi Costin, an "inspiration" to Liberty students.
 # The details
 How did I come to this conclusion? Here's what I've got:
 
