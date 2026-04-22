@@ -21,7 +21,7 @@ holiday:
 	- [ ] Add support for non-word templates
 		- typst/latex?
 
-The following project is used to generate papers for a semester to eliminate time spent filling in templates. It runs a small python script that fills in fields from a json file into pre-generated templates. A registry file allows you to right click and generate the file, with selections for the class and inputs for paper title and due date. In the code blocks are installation instructions readme.md , papergen.py, the classes.json file, and the registry key.
+The following project is used to generate papers for a semester to eliminate time spent filling in templates. It runs a small python script that fills in fields from a json file into pre-generated templates. A registry file allows you to right click and generate the file, with selections for the class and inputs for paper title and due date. In the code blocks are installation instructions, papergen.py, the classes.json file, and the registry key.
 
 Templates:
 [APA](APA7.docx)
@@ -54,13 +54,13 @@ pip install python-docx
 
 #### 2. Create the PaperGen folder
 
-Create this folder (it likely already exists if you ran pip):
+Create this folder:
 
 ```
 %APPDATA%\PaperGen\
 ```
 
-Tip: paste `%APPDATA%\PaperGen` directly into File Explorer's address bar.
+Tip: paste `%APPDATA%` directly into File Explorer's address bar.
 
 #### 3. Copy files into place
 
