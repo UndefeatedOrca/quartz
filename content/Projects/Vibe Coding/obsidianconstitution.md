@@ -16,7 +16,7 @@ holiday:
 >This might be better as referencing a json file rather than hardcoding text
 >This also struggles to capture line breaks (maybe json file would help with this)
 
-Inspired by the obsidian bible reference plugin, I vibecoded this plugin which is for the United States Constitution. Syntax is \==a[article#]s[section#]c[clause name/#] or \==[clause name] or use the sidebar button on the left.
+Inspired by the obsidian bible reference plugin, I vibecoded this plugin which is for the United States Constitution. Syntax is \=\=a[article#]s[section#]c[clause name/#] or \=\=[clause name] or use the sidebar button on the left.
 
 To install: 
 1. Create a folder: your vault\\.obsidian\plugins\obsidian-constitution-reference

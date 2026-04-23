@@ -2,7 +2,6 @@
 
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { resolveRelative } from "../util/path"
-import { QuartzPluginData } from "../plugins/vfile"
 
 interface HolidayCalendarOptions {
   showUpcomingDays?: number // How many days ahead to show
@@ -167,154 +166,239 @@ function calculateMovingHolidays(year: number): Map<string, Date> {
   return holidays
 }
 
+// Serialize holiday note data for client-side use
+interface SerializedNote {
+  slug: string
+  title: string
+  href: string
+}
+
+interface SerializedHolidayEntry {
+  /** MM/DD */
+  dateKey: string
+  /** ISO date string for the year the entry was calculated for */
+  isoDate: string
+  notes: SerializedNote[]
+  holidayNames: string[]
+}
+
 export default ((opts?: Partial<HolidayCalendarOptions>) => {
   const options: HolidayCalendarOptions = { ...defaultOptions, ...opts }
 
   const HolidayCalendar: QuartzComponent = (props: QuartzComponentProps) => {
     const { allFiles, fileData } = props
 
-    // Get current year and calculate all moving holidays
-    const today = new Date()
-    const currentYear = today.getFullYear()
-    const movingHolidays = calculateMovingHolidays(currentYear)
-    
-    // Create a map of dates to holiday names for reverse lookup
-    const dateToHolidays = new Map<string, string[]>()
-    movingHolidays.forEach((date, holidayName) => {
-      const dateKey = `${String(date.getMonth() + 1).padStart(2, "0")}/${String(date.getDate()).padStart(2, "0")}`
-      if (!dateToHolidays.has(dateKey)) {
-        dateToHolidays.set(dateKey, [])
+    // We need to cover this year AND next year so that a page loaded in
+    // late December can still show entries that fall in early January.
+    const buildYear = new Date().getFullYear()
+    const years = [buildYear, buildYear + 1]
+
+    // Build a combined MM/DD → Date map across both years so we can resolve
+    // moving-holiday *names* (e.g. "easter") to their actual calendar dates.
+    // When the same MM/DD appears in both years we keep both; the client will
+    // pick whichever one is currently relevant.
+    const movingHolidaysByYear: Map<number, Map<string, Date>> = new Map()
+    years.forEach((y) => movingHolidaysByYear.set(y, calculateMovingHolidays(y)))
+
+    // Helper: convert a Date → "MM/DD"
+    const toDateKey = (d: Date) =>
+      `${String(d.getMonth() + 1).padStart(2, "0")}/${String(d.getDate()).padStart(2, "0")}`
+
+    // ── Build a complete entry map: dateKey → { notes[], holidayNames[], isoDate } ──
+    // We compute one entry per (dateKey × year) pair so the client can always
+    // resolve the correct year from "today".
+    const entryMap = new Map<
+      string, // "MM/DD|YYYY"
+      { dateKey: string; isoDate: string; notes: SerializedNote[]; holidayNames: string[] }
+    >()
+
+    const getOrCreate = (dateKey: string, year: number, date: Date) => {
+      const key = `${dateKey}|${year}`
+      if (!entryMap.has(key)) {
+        entryMap.set(key, {
+          dateKey,
+          isoDate: date.toISOString(),
+          notes: [],
+          holidayNames: [],
+        })
       }
-      dateToHolidays.get(dateKey)!.push(holidayName)
+      return entryMap.get(key)!
+    }
+
+    // Populate holidayNames from the moving-holiday maps
+    years.forEach((year) => {
+      const map = movingHolidaysByYear.get(year)!
+      map.forEach((date, name) => {
+        const dk = toDateKey(date)
+        const entry = getOrCreate(dk, year, date)
+        if (!entry.holidayNames.includes(name)) entry.holidayNames.push(name)
+      })
     })
 
-    // Get all files with holiday frontmatter
+    // Populate notes from file frontmatter
     const holidayPattern = /^(\d{2})\/(\d{2})$/
-    const holidayNotes: Map<string, QuartzPluginData[]> = new Map()
-
     allFiles.forEach((file) => {
       const holiday = file.frontmatter?.holiday
       if (!holiday) return
 
-      // Handle both single date strings and arrays of dates
       const dates = Array.isArray(holiday) ? holiday : [holiday]
-      
+
       dates.forEach((dateStr: string) => {
-        // Check if it's a fixed date (MM/DD format)
         const fixedMatch = String(dateStr).match(holidayPattern)
+
         if (fixedMatch) {
+          // Fixed date (MM/DD) — applies to every year
           const [, month, day] = fixedMatch
-          const dateKey = `${month}/${day}`
-          if (!holidayNotes.has(dateKey)) {
-            holidayNotes.set(dateKey, [])
-          }
-          holidayNotes.get(dateKey)!.push(file)
-        } 
-        // Check if it's a moving holiday name
-        else if (movingHolidays.has(String(dateStr).toLowerCase())) {
-          const holidayDate = movingHolidays.get(String(dateStr).toLowerCase())!
-          const dateKey = `${String(holidayDate.getMonth() + 1).padStart(2, "0")}/${String(holidayDate.getDate()).padStart(2, "0")}`
-          if (!holidayNotes.has(dateKey)) {
-            holidayNotes.set(dateKey, [])
-          }
-          holidayNotes.get(dateKey)!.push(file)
+          const dk = `${month}/${day}`
+          years.forEach((year) => {
+            const date = new Date(year, Number(month) - 1, Number(day))
+            const entry = getOrCreate(dk, year, date)
+            entry.notes.push({
+              slug: file.slug!,
+              title: String(file.frontmatter?.title ?? file.slug),
+              href: resolveRelative(fileData.slug!, file.slug!),
+            })
+          })
+        } else {
+          // Moving holiday name — resolve per year
+          const normalised = String(dateStr).toLowerCase()
+          years.forEach((year) => {
+            const map = movingHolidaysByYear.get(year)!
+            if (!map.has(normalised)) return
+            const date = map.get(normalised)!
+            const dk = toDateKey(date)
+            const entry = getOrCreate(dk, year, date)
+            const note: SerializedNote = {
+              slug: file.slug!,
+              title: String(file.frontmatter?.title ?? file.slug),
+              href: resolveRelative(fileData.slug!, file.slug!),
+            }
+            if (!entry.notes.find((n) => n.slug === note.slug)) {
+              entry.notes.push(note)
+            }
+          })
         }
       })
     })
 
-    const todayKey = `${String(today.getMonth() + 1).padStart(2, "0")}/${String(today.getDate()).padStart(2, "0")}`
-    const todayNotes = holidayNotes.get(todayKey) || []
+    // Only emit entries that actually have notes attached
+    const serialized: SerializedHolidayEntry[] = Array.from(entryMap.values()).filter(
+      (e) => e.notes.length > 0,
+    )
 
-    // Get upcoming dates
-    const upcomingHolidays: Array<{ date: Date; dateKey: string; notes: QuartzPluginData[]; holidayNames: string[] }> = []
+    if (serialized.length === 0) return null
 
-    for (let i = 1; i <= options.showUpcomingDays!; i++) {
-      const futureDate = new Date(today)
-      futureDate.setDate(today.getDate() + i)
-      const futureDateKey = `${String(futureDate.getMonth() + 1).padStart(2, "0")}/${String(futureDate.getDate()).padStart(2, "0")}`
-
-      if (holidayNotes.has(futureDateKey)) {
-        upcomingHolidays.push({
-          date: futureDate,
-          dateKey: futureDateKey,
-          notes: holidayNotes.get(futureDateKey)!,
-          holidayNames: dateToHolidays.get(futureDateKey) || [],
-        })
-      }
-    }
-
-    const formatDate = (date: Date) => {
-      return date.toLocaleDateString("en-US", { month: "long", day: "numeric" })
-    }
-    
-    const formatHolidayName = (name: string) => {
-      return name.split("-").map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(" ")
-    }
-
-    const renderNoteList = (notes: QuartzPluginData[]) => {
-      return (
-        <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
-          {notes.map((note) => {
-            const href = resolveRelative(fileData.slug!, note.slug!)
-            return (
-              <li key={note.slug}>
-                <a href={href} class="internal">
-                  {note.frontmatter?.title || note.slug}
-                </a>
-              </li>
-            )
-          })}
-        </ul>
-      )
-    }
-
-    // Don't render if no holiday content
-    if (holidayNotes.size === 0) {
-      return null
-    }
-
-    const todayHolidayNames = dateToHolidays.get(todayKey) || []
+    const dataJson = JSON.stringify(serialized)
+    const showDays = options.showUpcomingDays!
 
     return (
-      <div class="holiday-calendar" style="margin: 1.5 rem 0; padding: 1.5rem; border: 1px solid var(--lightgray); border-radius: 8px; background: var(--light); max height 800px; overflow-y: auto;">
-        {todayNotes.length > 0 && (
-          <div style="margin-bottom: 0.25rem;">
-            <h4 style="margin: 0 0 0.5rem 0;">
-              {formatDate(today)}
-              {todayHolidayNames.length > 0 && (
-                <span>
-                  {" - "}{todayHolidayNames.map(formatHolidayName).join(", ")}
-                </span>
-              )}
-            </h4>
-            {renderNoteList(todayNotes)}
-          </div>
-        )}
-
-        {upcomingHolidays.length > 0 && (
-          <div>
-            {upcomingHolidays.map(({ date, dateKey, notes, holidayNames }) => (
-              <div key={dateKey} style="margin-bottom: 0.25rem;">
-                <h5 style="margin: 0 0 0.25rem 0; color: var(--darkgray);">
-                  {formatDate(date)}
-                  {holidayNames.length > 0 && (
-                    <span>
-                      {" - "}{holidayNames.map(formatHolidayName).join(", ")}
-                    </span>
-                  )}
-                </h5>
-                {renderNoteList(notes)}
-              </div>
-            ))}
-          </div>
-        )}
-
-        {todayNotes.length === 0 && upcomingHolidays.length === 0 && (
-          <p style="color: var(--gray); font-style: italic;">No holidays in the next {options.showUpcomingDays} days</p>
-        )}
+      <div
+        class="holiday-calendar"
+        data-holiday-entries={dataJson}
+        data-show-upcoming-days={String(showDays)}
+        style="margin: 1.5rem 0; padding: 1.5rem; border: 1px solid var(--lightgray); border-radius: 8px; background: var(--light); max-height: 800px; overflow-y: auto;"
+      >
+        {/* Content is rendered client-side; this placeholder avoids layout shift */}
+        <p class="holiday-calendar-loading" style="color: var(--gray); font-style: italic;">
+          Loading calendar…
+        </p>
       </div>
     )
   }
+
+  // ── Client-side script ──────────────────────────────────────────────────────
+  // Quartz runs afterDOMLoaded scripts after every client-side navigation,
+  // so "today" is always evaluated at the moment the user views the page —
+  // no rebuild required.
+  HolidayCalendar.afterDOMLoaded = `
+    (function () {
+      function formatHolidayName(name) {
+        return name.split("-").map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(" ")
+      }
+
+      function formatDate(dateStr) {
+        // dateStr is an ISO string; parse as local date to avoid UTC-offset shift
+        const [year, month, day] = dateStr.split("T")[0].split("-").map(Number)
+        const d = new Date(year, month - 1, day)
+        return d.toLocaleDateString("en-US", { month: "long", day: "numeric" })
+      }
+
+      function renderNoteList(notes) {
+        return "<ul style='margin:0.5rem 0;padding-left:1.5rem;'>" +
+          notes.map(n =>
+            "<li><a href='" + n.href + "' class='internal'>" + n.title + "</a></li>"
+          ).join("") +
+          "</ul>"
+      }
+
+      function render(container) {
+        const raw = container.dataset.holidayEntries
+        const showDays = parseInt(container.dataset.showUpcomingDays || "30", 10)
+        if (!raw) return
+
+        const entries = JSON.parse(raw)   // SerializedHolidayEntry[]
+
+        const today = new Date()
+        // Strip time component so day-diff maths works cleanly
+        today.setHours(0, 0, 0, 0)
+
+        // Build a map: isoDate-prefix (YYYY-MM-DD) → entry
+        const byDate = new Map()
+        entries.forEach(entry => {
+          const prefix = entry.isoDate.split("T")[0]
+          byDate.set(prefix, entry)
+        })
+
+        // Find today's entry and upcoming entries
+        const pad = n => String(n).padStart(2, "0")
+        const todayPrefix = today.getFullYear() + "-" + pad(today.getMonth() + 1) + "-" + pad(today.getDate())
+
+        const todayEntry = byDate.get(todayPrefix) || null
+        const upcoming = []
+
+        for (let i = 1; i <= showDays; i++) {
+          const future = new Date(today)
+          future.setDate(today.getDate() + i)
+          const prefix = future.getFullYear() + "-" + pad(future.getMonth() + 1) + "-" + pad(future.getDate())
+          if (byDate.has(prefix)) {
+            upcoming.push(byDate.get(prefix))
+          }
+        }
+
+        let html = ""
+
+        if (todayEntry) {
+          const names = todayEntry.holidayNames.map(formatHolidayName).join(", ")
+          html += "<div style='margin-bottom:0.25rem;'>"
+          html += "<h4 style='margin:0 0 0.5rem 0;'>"
+          html += formatDate(todayEntry.isoDate)
+          if (names) html += " <span>- " + names + "</span>"
+          html += "</h4>"
+          html += renderNoteList(todayEntry.notes)
+          html += "</div>"
+        }
+
+        upcoming.forEach(entry => {
+          const names = entry.holidayNames.map(formatHolidayName).join(", ")
+          html += "<div style='margin-bottom:0.25rem;'>"
+          html += "<h5 style='margin:0 0 0.25rem 0;color:var(--darkgray);'>"
+          html += formatDate(entry.isoDate)
+          if (names) html += " <span>- " + names + "</span>"
+          html += "</h5>"
+          html += renderNoteList(entry.notes)
+          html += "</div>"
+        })
+
+        if (!todayEntry && upcoming.length === 0) {
+          html = "<p style='color:var(--gray);font-style:italic;'>No holidays in the next " + showDays + " days</p>"
+        }
+
+        container.innerHTML = html
+      }
+
+      document.querySelectorAll(".holiday-calendar[data-holiday-entries]").forEach(render)
+    })()
+  `
 
   return HolidayCalendar
 }) satisfies QuartzComponentConstructor
