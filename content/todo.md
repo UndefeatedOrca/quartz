@@ -25,7 +25,7 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [x] Copy over writing from Valor Dictus
 - [x] See if I can change how social media previews handle line breaks
 	- gave up on this lol
-- [x] Update [[whoami]]
+- [x] Update [[whoam]]
 	- [x] Figure out how much should be going on the homepage
 - [x] Write [[design]]
 - [x] Add cool little links to my socials in the corner
