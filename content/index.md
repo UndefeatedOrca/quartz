@@ -7,7 +7,7 @@ Howdy, I'm Patrick Joseph Foos and this is my website!
 
 This is is the long-term home of my poems, rants, and ramblings (along with archives of published works. Take a look around and enjoy content that you can't find anywhere other than scattered [Instagram](https://www.instagram.com/patrickthrowingbricks/) stories, [two](https://roeh.substack.com/) [separate](https://patricksdailypoem.substack.com/) Substacks, the [Valor Dictus](https://valor-dictus.com/staff_name/patrick-foos/) website, or actually nowhere else. 
 
-To get started, take a look inside a folder or two, [get to know me](whoam.md), or take a look at some of my [Favorite Pieces](tags/favorites). If you're interested in the technical side of things, check out [the design of this site](design.md) or [just ask me](mailto:patrick.j.foos@gmail.com). For extraneous vibecoded projects, from  [reading](readingruler) [assistance](beeline) to an [application to speed up academic paper startup time](papergen), check [this](tags/tech/vibecoding) out.
+To get started, take a look inside a folder or two, [get to know me](whoami.md), or take a look at some of my [Favorite Pieces](tags/favorites). If you're interested in the technical side of things, check out [the design of this site](design.md) or [just ask me](mailto:patrick.j.foos@gmail.com). For extraneous vibecoded projects, from  [reading](readingruler) [assistance](beeline) to an [application to speed up academic paper startup time](papergen), check [this](tags/tech/vibecoding) out.
 
 This is a perpetual work in progress, and I fear I know less about how everything works than I ought to, but hopefully you're able to at least find something interesting.
 
