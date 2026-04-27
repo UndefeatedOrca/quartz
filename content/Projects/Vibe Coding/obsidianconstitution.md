@@ -4,6 +4,7 @@ draft: false
 tags:
   - tech/vibecoding
   - unfinished
+  - tech/quartz
 description:
 created: 2026-04-22
 modified:
@@ -14,7 +15,7 @@ holiday:
 
 >[!note] Note/todo
 >This might be better as referencing a json file rather than hardcoding text
->This also struggles to capture line breaks (maybe json file would help with this)
+>This plugin also struggles to capture line breaks (maybe json file would help with this)
 
 Inspired by the obsidian bible reference plugin, I vibecoded this plugin which is for the United States Constitution. Syntax is \=\=a[article#]s[section#]c[clause name/#] or \=\=[clause name] or use the sidebar button on the left.
 
