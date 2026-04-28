@@ -41,15 +41,15 @@ I read a variety of [authors](tags/author) across a range of [genres](tags/genre
 ## [[writing]]
 I dabble, see this site.
 ## Techy Stuff
-Aside from the grass touching activities listed above, I've worked on a few projects of interest including my adventures [designing this site](design.md), [adventures in self-hosting]([[projects/self-hosting/]]), a [twitter bot](https://x.com/GKCQuote), various [excel](decoderspreadsheet.md) [adventures](commentgenerator.md), coding (though mostly with [[scratch]]), experimentation with [Gephi](thegraph.md), a poke at using [Scribus](https://en.wikipedia.org/wiki/Scribus) to create more beautiful editions of public domain books, dabbling with Linux, [Audacity](https://www.audacityteam.org/), some video editing with [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), a bit of laser engraving, playing with [NFC tags](https://en.wikipedia.org/wiki/Near-field_communication), geospatial analysis, and moderate understandings of [GIMP](https://www.gimp.org/), Photoshop, and Inkscape.
+Aside from the grass touching activities listed above, I've worked on a few projects of interest including my adventures [designing this site](sitedesign.md), [adventures in self-hosting]([[projects/self-hosting/]]), a [twitter bot](https://x.com/GKCQuote), various [excel](decoderspreadsheet.md) [adventures](commentgenerator.md), coding (though mostly with [[scratch]]), experimentation with [Gephi](thegraph.md), a poke at using [Scribus](https://en.wikipedia.org/wiki/Scribus) to create more beautiful editions of public domain books, dabbling with Linux, [Audacity](https://www.audacityteam.org/), some video editing with [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), a bit of laser engraving, playing with [NFC tags](https://en.wikipedia.org/wiki/Near-field_communication), geospatial analysis, and moderate understandings of [GIMP](https://www.gimp.org/), Photoshop, and Inkscape.
 ## Debate
 While I no longer compete, I was on the collegiate debate scene for two years, and those two years were sufficient to install a deep hatred and deep love of the game without rules. While I'm retired, once in a moment an idea hits me and it compels me to write a file, or a block, or just flag it for when inevitably someone with sanity decides that the whole of collegiate deserves to be defunded and needs a justification for it.
 ## Gaming
-I play/have played a wide variety of games, though I've played a lot less post-high school. I've been known to play FPS, 4X, RTS, MMO, Puzzle, Factory, Metroidvania, Tower Defense, [KSP](everescue.md), [[minesweeperrush]], and open-ended games like [Minecraft](tags/games/video/minecraft) and Terraria.
+I play/have played a wide variety of games, though I've played a lot less post-high school. I've been known to play FPS, 4X, RTS, MMO, Puzzle, Factory, Metroidvania, Tower Defense, [KSP](everescue.md), [Minesweeper Rush](minesweeperrush), and open-ended games like [Minecraft](tags/games/video/minecraft) and Terraria.
 ## Outdoor Recreation
 As a proud Eagle Scout and toucher of grass, I enjoy hiking, canoe/kayak/rowboating, and some camping. One of the highlights of my life was a raft trip down the Grand Canyon, and Boy Scouts was a wonderful experience. A sturdy hammock and a good book make for a lovely afternoon
 ## Amateur Radio
-While I did learn Morse code on a whim in the summer of 2025, I've yet to gain a license. That's my goal in the next month or so (hopeful license date, March 2026).
+While I did learn Morse code on a whim in the summer of 2025, I've yet to gain a license. That's my goal in the next month or so (hopeful license date, June 2026).
 
 [^1]: lol - PILF
 
