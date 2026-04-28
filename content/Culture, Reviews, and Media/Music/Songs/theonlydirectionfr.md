@@ -8,8 +8,6 @@ description:
 created: 2025-12-23
 modified:
 ---
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4n8uqjiYtmFfnRbPtkyzPQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 I've been going through my downloads folder and glanced upon several fascinating subjects, most of which I won't discuss.
 
 What I will discuss is the file that I found titled: [The Only Direction I Know For Real](https://www.youtube.com/watch?v=fII8rPAivpM) (I somehow managed to lose the file as I was writing this, so that was interesting).

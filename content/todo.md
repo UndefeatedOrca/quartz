@@ -1,10 +1,11 @@
 ---
-title: To-Do List
+title: Site To-Do List
 draft: false
 tags:
+  - project
 description:
 created: 2025-12-22
-modified: 2025-12-28
+modified: 2026-04-28
 ---
 
 This is the list of ongoing or yet to be completed tasks on the website. I'm a little worried it's going to get longer before it gets shorter.
@@ -14,8 +15,8 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 	- [ ] Update [[downloadtransformer]]
 	- [ ] Update [[holidayplugin]]
 	- [ ] Implement [[quartzvibecodestarts]]
-		- This probably turns into an accessibility suite, I'd like to have a font switcher, beeline, and maybe a quartz version of [[readingruler]] eventually
-		- Recursive popovers need more vibe-coded iteration, and it would be nice to at least get working wikipedia popups too -- full scale popups of archived other sites like [gwern.net](gwern.net) is probably overkill, but if there's a way to make some more iframes work, that would be cool
+		- This probably turns into an accessibility suite, I'd like to have a font switcher, beeline, and maybe a quartz version of the [reading ruler](readingruler) eventually
+		- Recursive popovers need more vibe-coded iteration, and it would be nice to at least get working wikipedia popups too -- full scale popups of archived other sites like [gwern.net](gwern.net) is probably overkill, but if there's a way to make some more iframes work, that would be cool -- could use a whitelist for sites and maybe include some kind of visual indicator on the favicon
 	- [ ] Accessibility suite -- see above
 	- [ ] Add random note button
 		- I wonder if I could fit it in with the reader mode and the night mode toggle switch and just shrink the search bar a bit
@@ -41,7 +42,9 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 		- [ ] custom callout formatting and blocks
 	- In some instances, it might make more sense to vibecode the features
 - [ ] Custom aesthetic divider (with randomized quote right after page content?)
-- [ ] Consider moving the [debate archive](policy/Debate/DebateArchive/index|index) to a separate site
+- [ ] Consider moving the [debate archive](policy/Debate/DebateArchive/index) to a separate site
+- [ ] Customize bullet points
+- [ ] Identify usefulness of quartz syncer
 # Complete
 - [x] Fix failure to build
 	- it wasn't actually an issue
@@ -77,3 +80,51 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [x] Update graph settings
 - [x] Consider adding comments section
 	- no
+# slop
+Sometimes you just gotta throw the entire todo list into Claude and ask for a gantt chart - dates are obvious nonsense, but the basics are there
+>[!info] Fun fact
+>Mermaid diagrams don't support lag time, finish-to-finish, or start-to-finish relationships
+```mermaid
+gantt
+    title Quartz Site Upgrade Speculative Timeline
+    dateFormat YYYY-MM-DD
+    axisFormat %b %d
+
+    section Foundation
+    Upgrade to Quartz 5 :crit, q5, 2025-04-28, 5d
+
+    section Plugin Updates
+    Update downloadtransformer :dt, after q5, 3d
+    Update holidayplugin :hp, after q5, 2d
+
+    section Core Features
+    Favicons basic :fav, after q5, 3d
+    Twitter embeds :tw, after q5, 4d
+    YouTube embeds :yt, after tw, 3d
+    Random note button :rnd, after q5, 4d
+
+    section Vibe Code Suite
+    quartzvibecodestarts scaffold :crit, vcs, after dt, 5d
+    Font switcher :fs, after vcs, 3d
+    Beeline reader :bl, after vcs, 4d
+    Recursive popovers iteration :pop, after vcs, 7d
+    Wikipedia popups :wiki, after pop, 5d
+    iframe whitelist and favicon indicator :ifr, after wiki, 5d
+    Reading ruler :rr, after bl, 4d
+
+    section Low Priority
+    Custom tangent callout :cal, after hp, 2d
+    Underline external links :ul, after q5, 1d
+    Spoiler text :spl, after cal, 2d
+    Dropcaps :dc, after spl, 2d
+    Custom divider and quote :div, after dc, 3d
+    Built-in audio player :aud, after yt, 5d
+
+    section Research
+    Review Turntrout design :tt, after q5, 2d
+    Review Eilleeenz snippets :eil, after tt, 2d
+    Synthesize and implement ideas :syn, after eil, 5d
+
+    section Deferred
+    Debate archive decision :milestone, deb, after syn, 0d
+```

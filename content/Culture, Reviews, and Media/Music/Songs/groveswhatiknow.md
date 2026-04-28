@@ -7,7 +7,9 @@ description:
 created: 2025-12-03
 modified:
 ---
-I’m not sure why, but I’ve always loved this [song by Sarah Groves](https://www.youtube.com/watch?v=8EU-WKu6byQ), especially this lyric:
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4n8uqjiYtmFfnRbPtkyzPQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+I’m not sure why, but I’ve always loved this song by Sarah Groves, especially this lyric:
 
 > Well, I don’t know that there are harps in heaven,
 > Or the process for earning your wings.
