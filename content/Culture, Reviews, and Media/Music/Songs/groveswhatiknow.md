@@ -5,7 +5,7 @@ tags:
   - snippet/music
 description:
 created: 2025-12-03
-modified:
+modified: 2026-04-28
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4n8uqjiYtmFfnRbPtkyzPQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
