@@ -1,5 +1,5 @@
 ---
-title: 01 - Release the Hounds of Artemis
+title: 1 - Release the Hounds of Artemis
 draft: false
 tags:
   - poem/ballad
