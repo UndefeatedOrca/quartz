@@ -511,7 +511,7 @@ class ClassFormDialog(tk.Toplevel):
         self.on_save = on_save
         self.idx = idx
         self.title("Edit Class" if existing else "Add Class")
-        self.resizable(False, False)
+        self.resizable(True, False)
         self.grab_set()
 
         self.vars = {k: tk.StringVar(value=existing.get(k, "") if existing else "")
@@ -521,10 +521,11 @@ class ClassFormDialog(tk.Toplevel):
             padx=16, pady=(12, 8), anchor="w")
 
         form = tk.Frame(self)
-        form.pack(padx=16, fill="x")
+        form.pack(padx=16, fill="x", expand=True)
+        form.grid_columnconfigure(0, weight=1)
         for i, (key, display) in enumerate(self.FIELDS):
             lbl(form, display).grid(row=i*2, column=0, sticky="w", pady=(6, 1))
-            entry(form, self.vars[key]).grid(row=i*2+1, column=0, sticky="ew")
+            entry(form, self.vars[key], width=48).grid(row=i*2+1, column=0, sticky="ew")
 
         hsep(self).pack(fill="x", padx=16, pady=10)
         btns = tk.Frame(self)
