@@ -1,0 +1,14 @@
+---
+title: 2 - Mr Goodies
+created: 2025-11-02T00:00:00.000Z
+tags:
+  - poem/limerick
+  - poem/friends
+  - poem/saga/camping24
+---
+
+There once was a cone of ice cream
+And it towered so high I could beam
+But now that it's done
+I'm not having much fun
+For I'm so full that I might just scream
