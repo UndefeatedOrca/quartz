@@ -1,5 +1,5 @@
 ---
-title: The Design of this Site
+title: The Design and Customization of this Site
 draft: false
 tags:
   - tech/quartz
@@ -17,7 +17,7 @@ Is it good?
 shhhhh
 # poem-frontmatter.cjs
 This is a small script that Claude wrote to import the multitude of poems. I'm not sure that it was a total improvement, but it finds files in the .`/content` folder with the name format "YY-MM-DD - title" and adds or edits frontmatter so that the date created reflects the date in the file name, the title the date except the day of the month, and any tags at the end of the body are inserted into the frontmatter. I'm still conflicted about the choice to include the day, and need to do further testing to see if order is based on title or file name.
-# Parent and Child Tag Pages
+# Parent and Child Tag Links
 When you look at a tag page, at the top you'll see links to any parent or child tags. This is helpful for two reasons
 1. You might want to read all of the nature poems but found one about snow first. Default Quartz requires you to manually edit your url to find the nested tag.
 2. Sometimes I misspell tags and the only way to find the rest of tags is to look in the parent and verify that there's no strange modifications
