@@ -1,3 +1,9 @@
+---
+date: 2026-05-10
+title: 9 - endings
+tags:
+  - poem/ballad
+---
 
 My room is clean, my stuff is packed
 It's all been sent away
