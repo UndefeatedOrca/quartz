@@ -11,7 +11,7 @@ modified: 2026-04-28
 This is the list of ongoing or yet to be completed tasks on the website. I'm a little worried it's going to get longer before it gets shorter.
 # In progress
 ## High Priority
-- [ ] Upgrade to quartz 5 - prereq for all following
+- [x] Upgrade to quartz 5 - prereq for all following
 	- [ ] Update [[downloadtransformer]]
 	- [ ] Update [[holidayplugin]]
 	- [ ] Implement [[quartzvibecodestarts]]
@@ -25,6 +25,9 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 	- [ ] Twitter embeds
 	- [ ] Youtube embeds
 - [ ] Customize color scheme
+# Quartz 5 panic mode
+- [ ] Fix colors
+- [ ] Update links
 ## Low Priority
 - [ ] Configure a custom callout for tangents using [this info](https://quartz.jzhao.xyz/features/callouts)
 - [ ] Built in audio player
