@@ -10,7 +10,7 @@ modified: 2025-12-27
 I've used most of the Quartz defaults, but there are a few modifications that I've made with the help of Claude. 
 All code is available at the [github repository](https://github.com/UndefeatedOrca/quartz).
 
-Transition to v5 is ongoing
+Transition to v5 is ongoing?!
 # Custom Favicon
 Using GIMP, I edited a picture of myself with glasses on the back of my head such that it looked like that was my head, and then a minor color modification of the blue glasses created the favicon that you see today.
 
