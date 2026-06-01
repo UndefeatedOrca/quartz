@@ -12,8 +12,8 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 # In progress
 ## High Priority
 - [x] Upgrade to quartz 5 - prereq for all following
-	- [ ] Update [[downloadtransformer]]
-	- [ ] Update [[holidayplugin]]
+	- [x] Update [[downloadtransformer]]
+	- [x] Update [[holidayplugin]]
 	- [ ] Implement [[quartzvibecodestarts]]
 		- This probably turns into an accessibility suite, I'd like to have a font switcher, beeline, and maybe a quartz version of the [reading ruler](readingruler) eventually
 		- Recursive popovers need more vibe-coded iteration, and it would be nice to at least get working wikipedia popups too -- full scale popups of archived other sites like [gwern.net](gwern.net) is probably overkill, but if there's a way to make some more iframes work, that would be cool -- could use a whitelist for sites and maybe include some kind of visual indicator on the favicon
@@ -23,11 +23,13 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 		- The icon should be the face of a six sided die, and pressing it should roll the die along with going to a random note
 	- [ ] Favicons
 	- [ ] Twitter embeds
-	- [ ] Youtube embeds
+	- [x] Youtube embeds
+		- Thanks Quartz 5!
 - [ ] Customize color scheme
 # Quartz 5 panic mode
 - [x] Fix colors
 - [ ] Update footer
+- [ ] Figure out why the syncer doesn't recognize the repo as being for quartz 5 (it really thinks it's on quartz 4)
 ## Low Priority
 - [ ] Configure a custom callout for tangents using [this info](https://quartz.jzhao.xyz/features/callouts)
 - [ ] Built in audio player

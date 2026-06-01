@@ -193,6 +193,24 @@
       "commit": "a53cf02ce7faca400bcf3cfeed47eb860329e534",
       "installedAt": "2026-05-30T19:07:44.450Z"
     },
+    "quartz-accessibility-suite": {
+      "source": "github:UndefeatedOrca/quartz-accessibility-suite",
+      "resolved": "https://github.com/UndefeatedOrca/quartz-accessibility-suite.git",
+      "commit": "1a1569cf6756c4cf99050b5fc4bec9a5784464e2",
+      "installedAt": "2026-06-01T03:37:12.975Z"
+    },
+    "quartz-download-links": {
+      "source": "github:UndefeatedOrca/quartz-download-links",
+      "resolved": "https://github.com/UndefeatedOrca/quartz-download-links.git",
+      "commit": "95094d76d7843219955b23a1b808453c8e90d2d1",
+      "installedAt": "2026-06-01T00:24:59.435Z"
+    },
+    "quartz-holiday-calendar": {
+      "source": "github:UndefeatedOrca/quartz-holiday-calendar",
+      "resolved": "https://github.com/UndefeatedOrca/quartz-holiday-calendar.git",
+      "commit": "0e787c8561a5e34698f7f3ae6f123c63d595292c",
+      "installedAt": "2026-05-31T23:15:20.961Z"
+    },
     "quartz-themes": {
       "source": {
         "name": "quartz-themes",
