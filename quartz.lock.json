@@ -208,8 +208,8 @@
     "quartz-holiday-calendar": {
       "source": "github:UndefeatedOrca/quartz-holiday-calendar",
       "resolved": "https://github.com/UndefeatedOrca/quartz-holiday-calendar.git",
-      "commit": "0e787c8561a5e34698f7f3ae6f123c63d595292c",
-      "installedAt": "2026-05-31T23:15:20.961Z"
+      "commit": "c473b2427ca2b3d73d6a5b9f91c1392c926b1e76",
+      "installedAt": "2026-06-01T20:11:15.322Z"
     },
     "quartz-themes": {
       "source": {

@@ -272,14 +272,6 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
-  - source: github:UndefeatedOrca/quartz-holiday-calendar
-    enabled: true
-    options:
-      showUpcomingDays: 30
-    order: 50
-    layout:
-      position: right
-      priority: 50
   - source: github:UndefeatedOrca/quartz-download-links
     enabled: true
     options:
@@ -307,6 +299,15 @@ plugins:
     layout:
       position: right
       priority: 50
+  - source: github:UndefeatedOrca/quartz-holiday-calendar
+    enabled: true
+    options:
+      showUpcomingDays: 30
+    order: 50
+    layout:
+      position: right
+      priority: 50
+      condition: only-index
 layout:
   groups:
     toolbar:
