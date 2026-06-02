@@ -37,8 +37,8 @@ git add -A
 git commit -m "fix alias" 
 git push
 ## in quartz
-npx quartz plugin remove quartz-holiday-calendar
-npx quartz plugin add github:UndefeatedOrca/quartz-holiday-calendar
+npx quartz plugin remove tag-page-genealogy
+npx quartz plugin add github:UndefeatedOrca/tag-page-genealogy
 ## Low Priority
 - [ ] Configure a custom callout for tangents using [this info](https://quartz.jzhao.xyz/features/callouts)
 - [ ] Built in audio player

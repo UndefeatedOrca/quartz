@@ -65,7 +65,7 @@
       "source": "github:quartz-community/content-meta",
       "resolved": "https://github.com/quartz-community/content-meta.git",
       "commit": "a148b4104e9fb6323a6459b2f13c46f9a92da487",
-      "installedAt": "2026-05-30T19:07:44.483Z"
+      "installedAt": "2026-06-02T00:12:44.773Z"
     },
     "content-page": {
       "source": "github:quartz-community/content-page",
@@ -282,11 +282,11 @@
       "commit": "0d18b40d26b3499823d46740c35e8ee874ba0ca0",
       "installedAt": "2026-05-30T19:07:44.520Z"
     },
-    "tag-page": {
-      "source": "github:quartz-community/tag-page",
-      "resolved": "https://github.com/quartz-community/tag-page.git",
-      "commit": "82f8a6d5e774de5e075978651b6ca81f2ccb6812",
-      "installedAt": "2026-05-30T19:07:43.612Z"
+    "tag-page-genealogy": {
+      "source": "github:UndefeatedOrca/tag-page-genealogy",
+      "resolved": "https://github.com/UndefeatedOrca/tag-page-genealogy.git",
+      "commit": "dab81febb21a0fc3c58fd9ce3dd16988d0a708cb",
+      "installedAt": "2026-06-02T00:30:03.644Z"
     },
     "unlisted-pages": {
       "source": "github:quartz-community/unlisted-pages",
