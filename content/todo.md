@@ -18,10 +18,15 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 		- This probably turns into an accessibility suite, I'd like to have a font switcher, beeline, and maybe a quartz version of the [reading ruler](readingruler) eventually
 		- Recursive popovers need more vibe-coded iteration, and it would be nice to at least get working wikipedia popups too -- full scale popups of archived other sites like [gwern.net](gwern.net) is probably overkill, but if there's a way to make some more iframes work, that would be cool -- could use a whitelist for sites and maybe include some kind of visual indicator on the favicon
 	- [x] Accessibility suite -- see above
-	- [ ] Implement tags at the top of page -- [[sitedesign#Parent and Child Tag Links]]
-	- [ ] Add random note button
+	- [x] Implement tags at the top of page -- [[sitedesign#Parent and Child Tag Links]]
+	- [x] Add random note button
 		- I wonder if I could fit it in with the reader mode and the night mode toggle switch and just shrink the search bar a bit
 		- The icon should be the face of a six sided die, and pressing it should roll the die along with going to a random note
+	- [ ] Fix random note button
+		- [ ] It should only go to content pages, no tag or folder pages
+		- [ ] Stop flashing screen
+		- [ ] Render rolled die after new page is loaded
+		- [ ] Don't visually roll die twice
 	- [ ] Favicons
 	- [ ] Twitter embeds
 	- [x] Youtube embeds
@@ -37,8 +42,8 @@ git add -A
 git commit -m "fix alias" 
 git push
 ## in quartz
-npx quartz plugin remove tag-page-genealogy
-npx quartz plugin add github:UndefeatedOrca/tag-page-genealogy
+npx quartz plugin remove quartz-random-note
+npx quartz plugin add github:UndefeatedOrca/quartz-random-note
 ## Low Priority
 - [ ] Configure a custom callout for tangents using [this info](https://quartz.jzhao.xyz/features/callouts)
 - [ ] Built in audio player
@@ -56,7 +61,8 @@ npx quartz plugin add github:UndefeatedOrca/tag-page-genealogy
 		- [ ] custom callout formatting and blocks
 	- In some instances, it might make more sense to vibecode the features
 - [ ] Custom aesthetic divider (with randomized quote right after page content?)
-- [ ] Consider moving the [debate archive](policy/Debate/DebateArchive/index) to a separate site
+- [x] Consider moving the [debate archive](policy/Debate/DebateArchive/index) to a separate site
+	- nah, they can deal
 - [ ] Customize bullet points
 - [ ] Identify usefulness of quartz syncer
 # Complete

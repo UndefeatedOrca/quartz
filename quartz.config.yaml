@@ -315,6 +315,16 @@ plugins:
     options:
       numPages: 10
     order: 50
+  - source: github:UndefeatedOrca/quartz-random-note
+    enabled: true
+    options:
+      label: Open a random note
+      includeCurrentPage: false
+    order: 50
+    layout:
+      position: left
+      group: toolbar
+      priority: 55
 layout:
   groups:
     toolbar:

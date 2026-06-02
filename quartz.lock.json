@@ -211,6 +211,12 @@
       "commit": "c473b2427ca2b3d73d6a5b9f91c1392c926b1e76",
       "installedAt": "2026-06-01T20:11:15.322Z"
     },
+    "quartz-random-note": {
+      "source": "github:UndefeatedOrca/quartz-random-note",
+      "resolved": "https://github.com/UndefeatedOrca/quartz-random-note.git",
+      "commit": "cb3a6ea0c9dd5182f766ce847662cdad9cc3b91d",
+      "installedAt": "2026-06-02T14:35:27.471Z"
+    },
     "quartz-themes": {
       "source": {
         "name": "quartz-themes",

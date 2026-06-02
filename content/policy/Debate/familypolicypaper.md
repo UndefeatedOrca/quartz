@@ -9,6 +9,10 @@ created: 2026-05-01
 modified:
 holiday:
 ---
+>[!bug] BUG
+>This page is magic and will break the site if you hover over it. I do not know why, but it's kinda cool, so I'm not going out of my way to fix it
+
+
 >[!info] About this
 >I really have no idea how this happened
 >Tbh just read the word doc at [FamilyPolicy26-27.docx](FamilyPolicy26-27.docx)
