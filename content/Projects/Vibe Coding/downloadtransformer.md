@@ -6,16 +6,21 @@ tags:
   - tech/quartz
 description:
 created: 2026-01-26
-modified:
+modified: 2026-06-05
 holiday:
 ---
-I wanted to add downloadable non-markdown, non-pdf files, to this website (even if hosting elsewhere is definitely ideal for larger projects and this isn't best practice to put stuff in the github repo).
+I wanted to add downloadable non-markdown, non-pdf files, to this website (even if hosting elsewhere is definitely ideal for larger projects and it isn't best practice to put stuff directly in my Quartz repo).
 
-Behold, a very short vibe-coded plugin to make links direct downloads when they aren't images, pdfs, or markdown.
+And thus: a very short vibe-coded plugin to make links direct downloads when they aren't images, pdfs, or markdown. [UndefeatedOrca/quartz-download-links](https://github.com/UndefeatedOrca/quartz-download-links)
 
-(Installation is as usual - add to the transformers folder, export from the index, add to quartz.config.ts)
+Installation is simple on Quartz 5, just run
 
-NOTE: while Obsidian doesn't care about case when making links, quartz does, be careful when writing those markdown links.
+```shell
+npx quartz plugin add github:UndefeatedOrca/quartz-download-links
+```
+
+>[!warning] While Obsidian doesn't care about case when making links, Quartz does, be careful when writing those markdown links.
+# Quartz 4 version:
 
 ``` ts
 import { QuartzTransformerPlugin } from "../types"

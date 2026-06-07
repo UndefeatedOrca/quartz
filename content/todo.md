@@ -22,11 +22,11 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 	- [x] Add random note button
 		- I wonder if I could fit it in with the reader mode and the night mode toggle switch and just shrink the search bar a bit
 		- The icon should be the face of a six sided die, and pressing it should roll the die along with going to a random note
-	- [ ] Fix random note button
-		- [ ] It should only go to content pages, no tag or folder pages
-		- [ ] Stop flashing screen
-		- [ ] Render rolled die after new page is loaded
-		- [ ] Don't visually roll die twice
+	- [x] Fix random note button
+		- [x] It should only go to content pages, no tag or folder pages
+		- [x] Stop flashing screen
+		- [x] Render rolled die after new page is loaded
+		- [x] Don't visually roll die twice
 	- [ ] Favicons
 	- [ ] Twitter embeds
 	- [x] Youtube embeds

@@ -8,16 +8,18 @@ tags:
   - tech/quartz
 description:
 created: 2025-12-27
-modified:
+modified: 2026-06-05
 holiday:
 ---
-to do
-- [x] dynamic updates?? Right now, the calendar is based on when the site was last synced (could also just create a workflow to sync daily)
-	- [ ] Check if dynamic updating actually worked
-# %%Summary%%
-This is a Quartz component I vibecoded with Claude that displays a notes based on date using a frontmatter element named "holiday" and either the date or one of a preset list of named holidays like Christmas or Easter. It only appears on the index page of the site and is set to display the next seven days worth of notes.
+This is a Quartz component I vibecoded that displays a notes based on date using a frontmatter element named "holiday" and either the date or one of a preset list of named holidays like Christmas or Easter. It only appears on the index page of the site and is set to display the next seven days worth of notes.
 
-The full code for the plugin as of 12/29/25 is at the end of this note
+To install run the following:
+```shell
+npx quartz plugin add github:UndefeatedOrca/quartz-holiday-calendar
+```
+
+The full code for the Quartz 4 version of this plugin as of 12/29/25 is at the end of this note.
+Repo is here: [UndefeatedOrca/quartz-holiday-calendar](https://github.com/UndefeatedOrca/quartz-holiday-calendar)
 # Function
 *Although I vibecoded this entire thing, and also don't understand typescript, here's what I understand.*
 
@@ -25,13 +27,6 @@ The component does three things
 1. Calculate the dates of the various moving holidays - Easter, Memorial Day, Thanksgiving, etc. - and assigns them and the preset holidays names
 2. Searches the content folder for files with the `holiday` frontmatter property and checks the contents for either valid holiday names or dates in the MM/DD format
 3. Checks the date and displays a list of notes that are set for either today or a configurable amount of days in the future
-# Installation
-1. Download HolidayCalendar.tsx and add it to your ./quartz/components folder
-2. Edit index.ts to export the component
-3. Add the component to quartz.layout.ts. To change the number of upcoming days shown, use the `showUpcomingDays` argument as shown below:
-	```
-	Component.HolidayCalendar({ showUpcomingDays: 30 })
-	```
 # Holiday Aliases
 ## Current List
 The following is a list of current holidays that will work with an alias
@@ -100,6 +95,13 @@ The categories would also allow custom formatting depending on date so users cou
 - etc.
 
 Whether this ever gets off the ground remains to be seen
+# Quartz 4 Installation
+1. Download HolidayCalendar.tsx and add it to your ./quartz/components folder
+2. Edit index.ts to export the component
+3. Add the component to quartz.layout.ts. To change the number of upcoming days shown, use the `showUpcomingDays` argument as shown below:
+	```
+	Component.HolidayCalendar({ showUpcomingDays: 30 })
+	```
 # Code
 ```ts
 // When adding dates to this file, remember that Date objects in JavaScript are 0-indexed
