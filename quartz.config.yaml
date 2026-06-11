@@ -325,6 +325,12 @@ plugins:
       position: left
       group: toolbar
       priority: 55
+  - source: github:quartz-community/fonts
+    enabled: true
+    options:
+      useThemeFonts: true
+      fontOrigin: googleFonts
+    order: 60
 layout:
   groups:
     toolbar:
