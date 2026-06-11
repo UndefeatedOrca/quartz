@@ -2,9 +2,9 @@
 title: 2 - Sonnet for an Astronaut's Love
 draft: false
 tags:
-  - poem/ballad
   - space
   - favorites/poem
+  - poem/sonnet
 description:
 created: 2026-06-02
 modified:
@@ -24,3 +24,6 @@ So while for precious moments you I lack
 And while endured the distance heart is sore
 Although up to the stars you did depart
 You'll always have a place here in my heart
+
+---
+see also: [[26-06-10 - Sonnet for an Astronaut's Love]]
