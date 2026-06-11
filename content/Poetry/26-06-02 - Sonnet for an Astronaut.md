@@ -1,5 +1,5 @@
 ---
-title: 2 - Sonnet for an Astronaut's Love
+title: 2 - Sonnet for an Astronaut
 draft: false
 tags:
   - space
