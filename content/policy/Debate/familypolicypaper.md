@@ -21,7 +21,7 @@ holiday:
 <head>
 <meta charset="UTF-8">
 <style>
-body { font-family: Calibri, sans-serif; font-size: 13px; line-height: 1.5; max-width: 900px; margin: 0 auto; padding: 20px; }
+body { font-family: Calibri, sans-serif; font-size: 13px; line-height: 1.5; }
 h1, h2, h3 { font-weight: bold; margin-top: 1em; }
 p { margin: 0.4em 0; }
 </style>

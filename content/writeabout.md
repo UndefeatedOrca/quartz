@@ -22,3 +22,5 @@ modified: 2025-12-23
 - [x] the guardian farm
 - [ ] I'd've
 - [ ] [distributed proofreaders](https://www.pgdp.net/c/)
+- [ ] [Langley Schools Music Project](https://en.wikipedia.org/wiki/The_Langley_Schools_Music_Project)
+- [ ] [George Bancroft](https://en.wikipedia.org/wiki/George_Bancroft)

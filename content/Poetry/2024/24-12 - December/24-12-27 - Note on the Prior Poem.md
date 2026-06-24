@@ -1,5 +1,5 @@
 ---
-title: 27 - Note on the Prior Poem +
+title: 27 - Note on the Prior Poem
 created: 2024-12-27T00:00:00.000Z
 tags:
   - poem/limerick
