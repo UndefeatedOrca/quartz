@@ -31,5 +31,5 @@ DC delayed its fight
 
 Allowed the reinforcements time
 Defenses to be manned
-Instead of Early in gates
+Instead of Early at the gates
 The capital would stand

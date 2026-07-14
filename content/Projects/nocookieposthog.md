@@ -5,14 +5,20 @@ tags:
   - guide
   - project
   - tech/quartz
+  - unfinished
 description:
 created: 2025-12-27
 modified:
 holiday:
 ---
+Todo
+- [ ] update for quartz 5
+	- [ ] formatting
+	- [ ] file info
+
 While Quartz has a helpful system that allows you to easily implement analytics for a given site simply by modifying `quartz.config.ts`, the system is set up for the default settings and passes arguments to the actual analytics elements which are stored inside `./quartz/plugins/emitters/componentResources.ts`. 
 
-By default, PostHog uses cookies. Cookies require notice and opt-out features to to be legal in Virginia, and because I have no idea how that would work, find cookies annoying, and don't want to go to jail or be fine, I didn't want that them. Fortunately, PostHog has a [helpful guide](https://posthog.com/tutorials/cookieless-tracking) to using analytics without cookies. Unfortunately, that guide expects you to have implemented and/or PostHog yourself where Quartz hasn't done that.
+By default, PostHog uses cookies. Cookies require notice and opt-out features to to be legal in Virginia, and because I have no idea how that would work, find cookies annoying, and don't want to go to jail or be fined, I didn't want that them. Fortunately, PostHog has a [helpful guide](https://posthog.com/tutorials/cookieless-tracking) to using analytics without cookies. Unfortunately, that guide expects you to have implemented and/or PostHog yourself where Quartz hasn't done that.
 
 Here's how to set up your PostHog project and Quartz website to use the built in cookie free option. This assumes that you've already set up a PostHog project and fed the appropriate provider, API key, and server host argument into `quartz.config.ts` analytics argument using the following format:
 
