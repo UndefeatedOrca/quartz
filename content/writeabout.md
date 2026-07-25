@@ -24,3 +24,4 @@ modified: 2025-12-23
 - [ ] [distributed proofreaders](https://www.pgdp.net/c/)
 - [ ] [Langley Schools Music Project](https://en.wikipedia.org/wiki/The_Langley_Schools_Music_Project)
 - [ ] [George Bancroft](https://en.wikipedia.org/wiki/George_Bancroft)
+- [ ] Parallels between the ending of That Hideous Strength and The Man Who Was Thursday -- alongside the general localist implications of the closing chapters

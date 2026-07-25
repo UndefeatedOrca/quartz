@@ -13,12 +13,12 @@ To fore of my thoughts find
 
 The name that I recall is sweet
 And pretty is the face
-That cooresponds the moniker
+That corresponds the moniker
 That goes through my headspace
 
 The feelings that associate
 Are ones that I will shade
-For made of stone I ere shall be
+For made of stone I e'er shall be
 'fore real my dreams are made
 
 Though even from a stifled soul
