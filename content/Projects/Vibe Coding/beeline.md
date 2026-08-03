@@ -1,5 +1,5 @@
 ---
-title: Beeline Reader
+title: Beeline Reader Extension
 draft: false
 tags:
   - tech/vibecoding
