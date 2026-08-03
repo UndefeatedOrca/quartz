@@ -6,7 +6,7 @@ tags:
   - tech/server
 description:
 created: 2026-08-01
-modified:
+modified: 2026-08-03
 ---
 Github repo: [UndefeatedOrca/docx-injector](https://github.com/UndefeatedOrca/docx-injector)
 
@@ -20,8 +20,10 @@ Installation is easy, download the repo and then:
 ```
 docker compose up -d
 ```
+If that doesn't work, make sure you have docker installed lol, it should list on port 8877
+
 ---
 Who can say whether this piece of innovative technology will ever be used for something other than failed attempts at tomfoolery. The only way to find out is to test it out on documents you find in the wild.
 
 ---
-Forgive the goofiness of the UI, I didn't care to make it pretty 
+Forgive the goofiness of the UI, I didn't take the time to make it pretty. If it makes you feel better, I vibe-coded a UI pass over what was an even worse display before pushing to you all lol.

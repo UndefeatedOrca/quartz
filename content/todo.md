@@ -33,17 +33,7 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 		- Thanks Quartz 5!
 - [ ] Customize color scheme
 # Quartz 5 panic mode
-- [x] Fix colors
-- [x] Update footer
-- [ ] Figure out why the syncer doesn't recognize the repo as being for quartz 5 (it really thinks it's on quartz 4)
-## in plugin
-npm run build 
-git add -A 
-git commit -m "fix alias" 
-git push
-## in quartz
-npx quartz plugin remove quartz-random-note
-npx quartz plugin add github:UndefeatedOrca/quartz-random-note
+
 ## Low Priority
 - [ ] Configure a custom callout for tangents using [this info](https://quartz.jzhao.xyz/features/callouts)
 - [ ] Built in audio player
@@ -56,7 +46,7 @@ npx quartz plugin add github:UndefeatedOrca/quartz-random-note
 		- [ ] twitter embeds
 		- [ ] also has spoilers - this feels like it should maybe be stock behavior
 		- [ ] also has favicons, several option
-		- [ ] random page
+		- [x] random page
 		- [ ] underline external links
 		- [ ] custom callout formatting and blocks
 	- In some instances, it might make more sense to vibecode the features
@@ -64,7 +54,8 @@ npx quartz plugin add github:UndefeatedOrca/quartz-random-note
 - [x] Consider moving the [debate archive](policy/Debate/DebateArchive/index) to a separate site
 	- nah, they can deal
 - [ ] Customize bullet points
-- [ ] Identify usefulness of quartz syncer
+- [x] Identify usefulness of quartz syncer
+	- [ ] Figure out if the frontmatter is gonna get screwed up by the syncer
 # Complete
 - [x] Fix failure to build
 	- it wasn't actually an issue
@@ -100,6 +91,12 @@ npx quartz plugin add github:UndefeatedOrca/quartz-random-note
 - [x] Update graph settings
 - [x] Consider adding comments section
 	- no
+Quartz 5 panic
+- [x] Fix colors
+- [x] Update footer
+- [x] Figure out why the syncer doesn't recognize the repo as being for quartz 5 (it really thinks it's on quartz 4)
+
+![[itiswell.m4a]]
 # slop
 Sometimes you just gotta throw the entire todo list into Claude and ask for a gantt chart - dates are obvious nonsense, but the basics are there
 >[!info] Fun fact
