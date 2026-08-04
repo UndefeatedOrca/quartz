@@ -95,8 +95,6 @@ Quartz 5 panic
 - [x] Fix colors
 - [x] Update footer
 - [x] Figure out why the syncer doesn't recognize the repo as being for quartz 5 (it really thinks it's on quartz 4)
-
-![[itiswell.m4a]]
 # slop
 Sometimes you just gotta throw the entire todo list into Claude and ask for a gantt chart - dates are obvious nonsense, but the basics are there
 >[!info] Fun fact
