@@ -26,5 +26,8 @@ modified: 2025-12-23
 - [ ] [George Bancroft](https://en.wikipedia.org/wiki/George_Bancroft)
 - [ ] Parallels between the ending of That Hideous Strength and The Man Who Was Thursday -- alongside the general localist implications of the closing chapters
 - [ ] soldier ghosts - Riding with Private Malone, Camouflage 
+- [ ] taking shoes off at TSA was a policy decision that was reversed by Trump
+- [ ] the depressing darkness of airplanes on account of the voluntary covering of their windows
 # Stories
 - Short story about an ancient enmity between a dog and a bird who are both being kept as pets, but the dog wants to eat the bird, and the bird wants to stay alive. Perhaps it will be told from the perspective of a series of fish, who watch the conflict with growing concern, before inevitably succumbing to neglect and a new narrator taking over.
+- novel about a man who discovered fairy land, but it's all gross and industrial/financialized like our world--localism grapple with the disappearance of its own ideal

@@ -32,8 +32,6 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 	- [x] Youtube embeds
 		- Thanks Quartz 5!
 - [ ] Customize color scheme
-# Quartz 5 panic mode
-
 ## Low Priority
 - [ ] Configure a custom callout for tangents using [this info](https://quartz.jzhao.xyz/features/callouts)
 - [ ] Built in audio player
@@ -91,6 +89,7 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [x] Update graph settings
 - [x] Consider adding comments section
 	- no
+
 Quartz 5 panic
 - [x] Fix colors
 - [x] Update footer
