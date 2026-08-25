@@ -21,5 +21,6 @@ I looked in at Politico
 And saw the meme in frame
 It made my day to see it there
 And now I feel true fame
+
 ---
 See the final image in this article lol: [https://www.politico.com/news/magazine/2025/03/16/project-2025-paul-dans-qa-00228890](https://www.politico.com/news/magazine/2025/03/16/project-2025-paul-dans-qa-00228890)
