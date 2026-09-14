@@ -7,7 +7,7 @@ tags:
 description:
 created: 2026-05-14
 modified:
-holiday:
+holiday: 05/14
 ---
 The sand we see was gravel once
 Before that it was stone

@@ -18,6 +18,7 @@ And shocking masked up performers
 Are what did greet us past the doors
 Which we had passed without a thought
 So innocent into the rot
+
 ---
 This was a grand adventure and also had dippin’ dots which was an overall win.
 

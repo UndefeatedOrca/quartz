@@ -14,5 +14,5 @@ When they he chose to slay
 
 While little Jesus fled the land
 Their mortal souls were caught
-Their innocence and martrydom
+Their innocence and martyrdom
 Shall not be soon forgot

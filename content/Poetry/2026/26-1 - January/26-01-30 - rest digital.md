@@ -2,6 +2,8 @@
 title: 30 - rest (digital)
 draft: false
 tags:
+  - poem/ballad
+  - poem/school
 description:
 created: 2026-01-30
 modified:
