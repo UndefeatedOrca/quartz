@@ -21,7 +21,7 @@ It had a working screen
 Until I tried the fifteenth time
 And it stopped being mean
 
-Or why the version of the jar
+Or why the version of the .jar
 Was not the one I want
 But  reinstalling everything
 Removed the faulty haunt

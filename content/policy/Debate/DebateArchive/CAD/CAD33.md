@@ -8,12 +8,12 @@ created: 2012-01-01
 modified:
 holiday:
 ---
-| Link                                                                                                                           | Title                                                                                                                     | Author                                     |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| [link](CAD33IConcurYouAreAbsolutelyCorrectIamCorrectAgreementasArgumentativeStrategy.pdf)<br>                                  | I Concur, You Are Absolutely Correct I am Correct: Agreement as Argumentative Strategy                                    | Sara K Straub, Jeremie L. Beller, Tim Hunt |
-| [link](CAD33Introductiontothespecialissueondigitaldebateandassessment.pdf)<br>                                                 | Introduction to the special issue on digital debate and assessment                                                        | Gordon Stables                             |
-| [link](CAD33ArguingforDebateMissionsGoalsandEvidenceasKeyComponentsinAssessingIntercollegiateDebatePrograms.pdf)<br>           | Arguing for Debate: Missions, Goals and Evidence as Key Components in Assessing Intercollegiate Debate Programs           | Sarah Taylor Partlow-Lefevre               |
-| [link](CAD33AuthenticAssessmentinDebateAnArgumentforUsingBallotstoFosterTalent-DevelopmentandPromoteAuthenticLearning.pdf)<br> | Authentic Assessment in Debate: An Argument for Using Ballots to Foster Talent-Development and Promote Authentic Learning | Sarah Stone Watt                           |
-| [link](CAD33OpenSourceDebatingTheJustificationsandResponsestoDeaconSourceVersion1.pdf)<br>                                     | Open Source Debating: The Justifications and Responses to Deacon Source Version 1.0                                       | Jarrod Atchison, Ian Miller                |
-| [link](CAD33PuttingdebatebackintodebateDigitaldebateandEvidence.pdf)<br>                                                       | Putting debate back into debate: Digital debate and Evidence                                                              | Travis Cram                                |
-| [link](CAD33OneifbylandtwoifbyseathreeifbyformatBritishdebateiscoming.pdf)<br>                                                 | One if by land, two if by sea, three if by format: British debate is coming                                               | Stephen Llano                              |
+| Link | Title | Author |
+| --- | --- | --- |
+| [link](CAD33IConcurYouAreAbsolutelyCorrectIamCorrectAgreementasArgumentativeStrategy.pdf) | I concur, you are absolutely correct that I am correct: Agreement as an argumentative strategy. | Sara K Straub, Jeremie L. Beller, Tim Hunt |
+| [link](CAD33Introductiontothespecialissueondigitaldebateandassessment.pdf) | Introduction to the special issue on digital debate and assessment | Gordon Stables |
+| [link](CAD33ArguingforDebateMissionsGoalsandEvidenceasKeyComponentsinAssessingIntercollegiateDebatePrograms.pdf) | Arguing for debate: Introducing key components for assessment of intercollegiate debate programs. | Sarah Taylor Partlow-Lefevre |
+| [link](CAD33AuthenticAssessmentinDebateAnArgumentforUsingBallotstoFosterTalent-DevelopmentandPromoteAuthenticLearning.pdf) | Authentic assessment in debate: An argument for using ballots to foster talent-development and promote authentic learning | Sarah Stone Watt |
+| [link](CAD33OpenSourceDebatingTheJustificationsandResponsestoDeaconSourceVersion1.pdf) | Open source debating: The justifications and responses to Deacon Source version 1.0 | Jarrod Atchison, Ian Miller |
+| [link](CAD33PuttingdebatebackintodebateDigitaldebateandEvidence.pdf) | Putting debate back into debate: Digital debate and evidence | Travis Cram |
+| [link](CAD33OneifbylandtwoifbyseathreeifbyformatBritishdebateiscoming.pdf) | One if by land, two if by sea, three if by format: British debate is coming | Stephen Llano |

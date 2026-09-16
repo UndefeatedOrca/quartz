@@ -22,7 +22,7 @@ For bonus fun, read
 Interp: laborers are missionaries
 
 Standards
-1---Predictability---The gospel is the best selling, most culturally relevant document ever create
+1---Predictability---The gospel is the best selling, most culturally relevant document ever created
 2---Limits---Our interpretation preserves a limited set of Affs, any other interp justifies subsets of the US workforce, hundreds of industries and gazillions of permutations compared to a single distinct group
 3---Spiritual Education---Learning about what's good for missionaries is key for pro-missionary policy, that's crucial to maximizing gospel impact---salvation outweighs and comes first, every individual salvation is eternal, means it outweighs extinction
 4---Ground---We have the best ground, core philosophy coupled with dynamic interplay between church and state is key to establishing a moral and religious people without which renders our governing structure wholly unsuitable.

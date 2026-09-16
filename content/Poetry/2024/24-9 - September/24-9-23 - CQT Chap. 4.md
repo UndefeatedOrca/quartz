@@ -21,5 +21,6 @@ And doubting Rupert was flummoxed
 When he could finally see
 The officer had never lied
 He did live in a tree
-### Note
+
+---
 CQT stands for The Club of Queer Trades, a book by G.K. Chesterton

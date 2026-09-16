@@ -3,6 +3,7 @@ title: 24 - Turning Colors
 created: 2024-10-24T00:00:00.000Z
 tags:
   - nature/seasons
+  - poem
 ---
 
 The leaves are turning red from green

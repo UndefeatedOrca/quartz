@@ -7,7 +7,7 @@ tags:
   - poem/saga/summerlovin
 description:
 created: 2026-06-19
-modified:
+modified: 2026-09-14
 holiday:
 ---
 The Worchester hills go up and down
@@ -16,7 +16,7 @@ The tower sits astride one such
 Up in that misty range 
 
 It's dedicated to a man
-Who did just so much stuff
+Who just did so much stuff
 Ambassador, historian
 And that was not enough
 

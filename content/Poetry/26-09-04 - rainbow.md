@@ -4,6 +4,7 @@ draft: false
 tags:
   - poem/ballad
   - nature/sky
+  - poem/church
 description:
 created: 2026-09-04
 modified:

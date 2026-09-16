@@ -1,0 +1,126 @@
+[
+  {
+    "id": "cad-2-25a12e43f8ea",
+    "volume": 2,
+    "title": "Psychological presumption: its place in value topic debate",
+    "authors": "Raymond Zeuschner, Charlene Hill",
+    "sources": [],
+    "alternate_titles": [],
+    "status": "missing",
+    "kind": "article",
+    "local_date": "1981-01-01"
+  },
+  {
+    "id": "cad-2-d9c5f2994cd4",
+    "volume": 2,
+    "title": "CEDA's objectives: lest we forget",
+    "authors": "Jack Howe",
+    "sources": [],
+    "alternate_titles": [],
+    "status": "missing",
+    "kind": "article",
+    "local_date": "1981-01-01",
+    "pages": "1-3",
+    "date": "1981"
+  },
+  {
+    "id": "cad-5-0d995f33b4d0",
+    "volume": 5,
+    "title": "A projection of CEDA's near future",
+    "authors": "Don Brownlee",
+    "sources": [],
+    "alternate_titles": [],
+    "status": "identity_mismatch",
+    "kind": "article",
+    "local_date": "1984-01-01",
+    "local_path": "5/CAD5AprojectionofCEDAsnearfuture.pdf",
+    "baseline_sha256": "29209f877785416f8a8a411c155234d928e530324cd88bb1e688bc09d6ddca2a",
+    "sha256": "29209f877785416f8a8a411c155234d928e530324cd88bb1e688bc09d6ddca2a",
+    "pdf_pages": 5,
+    "actual_content": "The philosophy and development of CEDA — James E. Tomlinson",
+    "identity_evidence": "Byte-identical to another original PDF; first scanned page visually verified on 2026-09-15. Original bytes and URL retained."
+  },
+  {
+    "id": "cad-5-ad6d9deabb2e",
+    "volume": 5,
+    "title": "The case against counterwarrants in value proposition debate",
+    "authors": "Rich Simon",
+    "sources": [],
+    "alternate_titles": [],
+    "status": "identity_mismatch",
+    "kind": "article",
+    "local_date": "1984-01-01",
+    "local_path": "5/CAD5Thecaseagainstcounterwarrantsinvaluepropositiondebate.pdf",
+    "baseline_sha256": "c297fc5bb1a28d8a879f2906e40f02fba599648beafd8e59e28f9aa87bfc0668",
+    "sha256": "c297fc5bb1a28d8a879f2906e40f02fba599648beafd8e59e28f9aa87bfc0668",
+    "pdf_pages": 6,
+    "actual_content": "Debating hasty generalization — David M. Berube",
+    "identity_evidence": "Byte-identical to another original PDF; first scanned page visually verified on 2026-09-15. Original bytes and URL retained."
+  },
+  {
+    "id": "cad-38-032e37be934d",
+    "volume": 38,
+    "title": "List of contributors",
+    "authors": "",
+    "sources": [
+      {
+        "source_id": "jmu:cad38:195",
+        "url": "https://commons.lib.jmu.edu/cad/",
+        "provider": "JMU full issue"
+      }
+    ],
+    "alternate_titles": [],
+    "kind": "back_matter",
+    "status": "full_issue_only",
+    "parent_path": "38/CAD38.pdf",
+    "parent_sha256": "992bf776bd983e74639f373f477cbfa75d30fab477e2e448582f48927de72552",
+    "pdf_start": 195,
+    "pdf_end": 196,
+    "pages": "190-191",
+    "evidence": "Verified in original full issue PDF."
+  },
+  {
+    "id": "cad-38-2245deff3191",
+    "volume": 38,
+    "title": "Table of contents",
+    "authors": "",
+    "sources": [
+      {
+        "source_id": "jmu:cad38:4",
+        "url": "https://commons.lib.jmu.edu/cad/",
+        "provider": "JMU full issue"
+      }
+    ],
+    "alternate_titles": [],
+    "kind": "front_matter",
+    "status": "full_issue_only",
+    "parent_path": "38/CAD38.pdf",
+    "parent_sha256": "992bf776bd983e74639f373f477cbfa75d30fab477e2e448582f48927de72552",
+    "pdf_start": 4,
+    "pdf_end": 5,
+    "pages": "iv-v",
+    "evidence": "Verified in original full issue PDF."
+  },
+  {
+    "id": "cad-38-6ce2374c276d",
+    "volume": 38,
+    "title": "Journal information and editorial board",
+    "authors": "",
+    "sources": [
+      {
+        "source_id": "jmu:cad38:2",
+        "url": "https://commons.lib.jmu.edu/cad/",
+        "provider": "JMU full issue"
+      }
+    ],
+    "alternate_titles": [],
+    "kind": "front_matter",
+    "status": "full_issue_only",
+    "parent_path": "38/CAD38.pdf",
+    "parent_sha256": "992bf776bd983e74639f373f477cbfa75d30fab477e2e448582f48927de72552",
+    "pdf_start": 2,
+    "pdf_end": 2,
+    "pages": "ii",
+    "evidence": "Verified in original full issue PDF."
+  }
+]

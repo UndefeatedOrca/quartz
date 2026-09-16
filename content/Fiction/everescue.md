@@ -16,7 +16,7 @@ modified:
 
 In my poetry inspo note, I have the Kerbal Space Program (KSP) forums as one of the things to write a poem about.[^1] Those forums, specifically the Mission Reports section, hold some of the formative stories that I read in my early teens. Some post cut-and-dried descriptions of the things that they did in the game, but others use KSP as a canvas to write prose that’s a cross between fanfiction and machinima. A few threads stand out as compelling stories that I’d recommend to any sci-fi fan, e.g. [The Saga of Emiko Station](https://forum.kerbalspaceprogram.com/topic/127785-the-saga-of-emiko-station-complete/) (completed), [Voyage: The Final Warning](https://forum.kerbalspaceprogram.com/topic/159960-voyage-the-final-warning-chapters-34-36-and-epilogues/) (completed, but not when I completed it, finishing it is now on the summer to-do list), [Project Intrepid](https://forum.kerbalspaceprogram.com/topic/141284-project-intrepid-chapter-61-the-sirens-of-moho/) (ongoing, author on hiatus), and [Forgotten Space Program](https://forum.kerbalspaceprogram.com/topic/126972-forgotten-space-program/) (incomplete) are in my bookmarks to this day.[^2]
 
-In that vein, and as a follow-up to [Eve](25-5-25-Eve), I present my very own mission report, reconstructed from the dozens of save files and around twenty hours of combined gameplay and writing.
+In that vein, and as a follow-up to [Eve](25-5-25%20-%20Eve.md), I present my very own mission report, reconstructed from the dozens of save files and around twenty hours of combined gameplay and writing.
 
 ---
 # Part One - Introduction

@@ -3,6 +3,7 @@ title: 4 - Anniversary of a Nation
 draft: false
 tags:
   - poem/ballad
+  - poem/history
 description:
 created: 2026-07-04
 modified:

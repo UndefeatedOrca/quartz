@@ -14,6 +14,15 @@ While Contemporary Argumentation and Debate no longer has a website, I aim to fi
 
 The following is the compiled index of every file that I've found.
 
+# Known missing articles
+The following articles still need PDFs. Two existing files contain a different article and need replacement. This list records known gaps; historical coverage is still being checked.
+
+| Volume | Title | Author | Status |
+| --- | --- | --- | --- |
+| [[CAD2\|2]] | Psychological presumption: Its place in value topic debate | Raymond Zeuschner, Charlene Hill | PDF not yet located |
+| [[CAD2\|2]] | CEDA's objectives: Lest we forget | Jack Howe | PDF not yet located |
+| [[CAD5\|5]] | A projection of CEDA's near future | Don Brownlee | Existing file contains *The philosophy and development of CEDA* by James E. Tomlinson |
+| [[CAD5\|5]] | The case against counterwarrants in value proposition debate | Rich Simon | Existing file contains *Debating hasty generalization* by David M. Berube |
 # Volume 1
 ![[CAD1|CAD1]]
 # Volume 2
@@ -56,15 +65,37 @@ The following is the compiled index of every file that I've found.
 ![[CAD20|CAD20]]
 # Volume 21
 ![[CAD21|CAD21]]
+# Volume 22
+![[CAD22|CAD22]]
+# Volume 23
+![[CAD23|CAD23]]
 # Volume 24
 ![[CAD24|CAD24]]
+# Volume 25
+![[CAD25|CAD25]]
+# Volume 26
+![[CAD26|CAD26]]
+# Volume 27
+![[CAD27|CAD27]]
+# Volume 28
+![[CAD28|CAD28]]
+# Volume 29
+![[CAD29|CAD29]]
+# Volume 30
+![[CAD30|CAD30]]
 # Volume 31
 ![[CAD31|CAD31]]
 # Volume 32
 ![[CAD32|CAD32]]
 # Volume 33
 ![[CAD33|CAD33]]
+# Volume 34
+![[CAD34|CAD34]]
+# Volume 35
+![[CAD35|CAD35]]
 # Volume 36
 ![[CAD36|CAD36]]
+# Volume 37
+![[CAD37|CAD37]]
 # Volume 38
 ![[CAD38|CAD38]]

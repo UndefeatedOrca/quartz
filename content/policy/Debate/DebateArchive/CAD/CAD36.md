@@ -2,19 +2,17 @@
 title: Volume 36
 draft: false
 tags:
-  - debate
+  - debate/journal
 description:
 created: 2017-01-01
 modified:
 holiday:
 ---
 
-| Link                                                             | Title                                                                                                           | Author                                       |
-| ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-|                                                                  |                                                                                                                 |                                              |
-| [link](CAD36EvidenceBasedDecisionMakingandAssessmentforCEDA.pdf) | Evidence Based Decision Making and Assessment for the Cross Examination Debate Association                      | Paul E. Mabrey III and Keith Richards        |
-| #debate/journal/missing                                                         | 100 Years of the Healthy Debate Initiative: Revisiting Walter Swift's "The Hygiene of the Voice Before Debates" | Jarrod Atchison and Sherry Hall              |
-| #debate/journal/missing                                                         | Contemporary Reflections on Frank Lane's 1915 Essay Faculty Help in Intercollegiate Contests.                   | Edward M Panetta                             |
-| #debate/journal/missing                                                         | "The Need for Research," Revisited                                                                              | Matthew Brigham                              |
-| #debate/journal/missing                                                         | Making Debate Normal: Different Audiences and Debate's Pedagogical Mission                                      | Brian Lain, Karen Anderson, and Laura Oliver |
-|                                                                  |                                                                                                                 |                                              |
+| Link | Title | Author |
+| --- | --- | --- |
+| [link](CAD36EvidenceBasedDecisionMakingandAssessmentforCEDA.pdf) | Evidence based decision making and assessment for the Cross Examination Debate Association | Paul E. Mabrey III, Keith Richards |
+| [link](CAD36100YearsoftheHealthyDebateInitiativeRevisitingWalterSwiftsTheHygieneoftheVoiceBeforeDebates.pdf) | 100 years of the Healthy Debate Initiative: Revisiting Walter Swift's "The hygiene of the voice before debates" | R. Jarrod Atchison, Sherry Hall |
+| [link](CAD36ContemporaryReflectionsonFrankLanes1915EssayFacultyHelpinIntercollegiateContests.pdf) | Contemporary reflections on Frank Lane's 1915 essay "Faculty help in intercollegiate contests" | Edward M. Panetta |
+| [link](CAD36TheNeedforResearchRevisited.pdf) | "The need for research," revisited | Matthew P. Brigham |
+| [link](CAD36MakingDebateNormalTheTexasNormalDebatingLeaguesDemocraticandPedogogicalFunctions.pdf) | Making debate normal: The Texas Normal Debating League's democratic and pedogogical functions | Brian Lain, Karen Anderson-Lain, Laura Oliver |
