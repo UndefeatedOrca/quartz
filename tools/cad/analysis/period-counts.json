@@ -1,0 +1,55 @@
+{
+  "method": "Catalogued entries, not independently verified article counts. Includes reviews, editorials, compound forum records and four unresolved entries. Excludes full issue, three front/back matter records, and duplicate volume-24 forum compilation. Dates are period labels from source chronology; volume-7 local_date 1976 is erroneous (State of CEDA, 1986 scan); no annual count inferred from volume numbers.",
+  "periods": [
+    {
+      "period": "1980–1989",
+      "volumes": [
+        1,
+        10
+      ],
+      "catalogued_content_entries": 90,
+      "entries_per_volume": 9.0,
+      "unresolved": 4
+    },
+    {
+      "period": "1990–1999",
+      "volumes": [
+        11,
+        20
+      ],
+      "catalogued_content_entries": 89,
+      "entries_per_volume": 8.9,
+      "unresolved": 0
+    },
+    {
+      "period": "2000–2009",
+      "volumes": [
+        21,
+        30
+      ],
+      "catalogued_content_entries": 95,
+      "entries_per_volume": 9.5,
+      "unresolved": 0
+    },
+    {
+      "period": "2010–2017",
+      "volumes": [
+        31,
+        37
+      ],
+      "catalogued_content_entries": 46,
+      "entries_per_volume": 6.57,
+      "unresolved": 0
+    },
+    {
+      "period": "2023",
+      "volumes": [
+        38,
+        38
+      ],
+      "catalogued_content_entries": 11,
+      "entries_per_volume": 11.0,
+      "unresolved": 0
+    }
+  ]
+}
