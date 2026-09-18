@@ -4,15 +4,16 @@ created: 2025-02-14T00:00:00.000Z
 tags:
   - poem/woman
 holiday: valentines-day
+modified: 2026-09-17
 ---
 
 I find myself in such a time
 Where I am loath to make a rhyme
 
-For what I wish is true is not
+For what I wish were true is not
 And in just that I find my thought
 
-On this of all days in the year
+On this of all days of the year
 My feeling concentrated here
 
 For I shall not get flowers for
@@ -27,5 +28,5 @@ It will delay I so surmise
 When dawn comes on that long-sought day
 I hope that I shall come to say
 
-That I then have a valentine
+That I should have a valentine
 And that her name is left unsaid
