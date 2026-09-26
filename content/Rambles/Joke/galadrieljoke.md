@@ -4,6 +4,7 @@ draft: false
 tags:
   - ramble
   - author/Tolkien
+  - joke
 description:
 created: 2026-09-17
 modified:
