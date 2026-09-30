@@ -4,6 +4,7 @@ draft: false
 tags:
   - poem/ballad
   - poem/church
+  - favorites/poem
 description:
 created: 2026-09-05
 modified:

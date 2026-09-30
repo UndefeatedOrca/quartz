@@ -4,6 +4,7 @@ draft: false
 tags:
   - poem/friends
   - nature/sky
+  - poem/couplets
 description:
 created: 2026-09-22
 modified:

@@ -2,8 +2,8 @@
 title: 23 - cut off morgoths head lol
 draft: false
 tags:
-  - poem
   - author/Tolkien
+  - poem/couplets
 description:
 created: 2026-09-23
 modified:

@@ -5,6 +5,7 @@ tags:
   - poem/ballad
   - fiction
   - poem/woman
+  - favorites/poem
 description:
 created: 2026-07-14
 modified:

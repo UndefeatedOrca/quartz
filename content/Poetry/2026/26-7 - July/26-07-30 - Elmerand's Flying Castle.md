@@ -4,6 +4,7 @@ draft: false
 tags:
   - poem/ballad
   - fiction
+  - favorites/poem
 description:
 created: 2026-07-30
 modified:

@@ -3,6 +3,7 @@ title: 3 - American Aeronautics
 draft: false
 tags:
   - poem/ballad
+  - favorites/poem
 description:
 created: 2026-07-03
 modified:

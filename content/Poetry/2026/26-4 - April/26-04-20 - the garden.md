@@ -5,6 +5,7 @@ tags:
   - poem/ballad
   - poem/church
   - nature
+  - favorites/poem
 description:
 created: 2026-04-20
 modified:

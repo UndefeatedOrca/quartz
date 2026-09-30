@@ -3,6 +3,8 @@ title: 16 - nothing
 draft: false
 tags:
   - poem/church
+  - poem/couplets
+  - favorites/poem
 description: and its discontents
 created: 2026-09-16
 modified:

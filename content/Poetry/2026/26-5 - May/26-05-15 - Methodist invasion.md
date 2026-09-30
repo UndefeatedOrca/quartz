@@ -8,7 +8,7 @@ created: 2026-05-15
 modified:
 holiday:
 ---
-The methodists are everywhere
+The Methodists are everywhere
 Upon Virginia Beach
 A mystery I need explained
 If someone dares to teach

@@ -3,6 +3,8 @@ title: 31 - mirror, mirror
 draft: false
 tags:
   - poem/church
+  - fiction
+  - favorites/poem
 description:
 created: 2026-07-31
 modified:

@@ -20,7 +20,7 @@ Despite that He would go to pain
 His promises to keep
 
 But what a triumph He has had
-Join with the triumph cry
+Join with the triumph, cry
 The work is finished on a cross
 For it a man would die
 

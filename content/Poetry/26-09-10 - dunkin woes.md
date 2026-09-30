@@ -2,6 +2,7 @@
 title: 10 - dunkin woes
 draft: false
 tags:
+  - poem/ballad
 description: yes, they got my order wrong again
 created: 2026-09-10
 modified:

@@ -4,6 +4,7 @@ draft: false
 tags:
   - poem/school
   - poem/nonsense
+  - poem/couplets
 description:
 created: 2026-09-24
 modified:

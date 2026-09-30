@@ -16,7 +16,7 @@ Has made this Friday Good
 The sun is black in midst of day
 The light is now put out
 There will not be a laugh today
-Nor joy or happy shout
+No joy nor happy shout
 
 Oh daughters of Jerusalem
 The day is looking grim
@@ -48,7 +48,7 @@ As all the resting host
 Are told the news that death is dead
 And Satan has no boast
 
-But though the one's in Sheol have heard
+But though the ones in Sheol have heard
 The greatest news to say
 The people that are on the earth
 Know naught but death today

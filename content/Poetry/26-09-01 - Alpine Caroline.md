@@ -4,7 +4,8 @@ draft: false
 tags:
   - poem/ballad
   - poem/woman
-  - poem/woman
+  - fiction
+  - favorites/poem
 description: not to be confused with incline caroline
 created: 2026-09-01
 modified:

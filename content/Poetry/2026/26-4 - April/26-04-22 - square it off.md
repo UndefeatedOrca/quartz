@@ -4,6 +4,7 @@ draft: false
 tags:
   - poem/ballad
   - poem/politics
+  - favorites/poem
 description:
 created: 2026-04-22
 modified:

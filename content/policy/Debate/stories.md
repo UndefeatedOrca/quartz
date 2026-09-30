@@ -41,7 +41,7 @@ This is not mentioned in cross. I put in our beefy T-USFG shell for K-Affs and s
 
 "sure"
 
-"they don't got plan"
+"they don't got a plan"
 
 The look on the opponent's face as she started scrolling through her document was unforgettable. Suffice to say, they didn't have a plan.
 
