@@ -12,7 +12,7 @@ holiday:
 ---
 Lord bless this door that we walk in
 Show us your narrow path
-Let it go into home of love
+Let it go into a home of love
 Without a place for wrath
 
 Lord bless this living room as well
@@ -22,7 +22,7 @@ Where we can hear your call
 
 Lord bless the kitchen and the stove
 Where we'll prepare a feast
-May it be where all can come
+Prepare our hearts to welcome all
 The greatest and least
 
 Lord bless the bedroom and the bed
@@ -36,11 +36,11 @@ Let every moment glorify
 Though awkward or alone
 
 Lord bless the work room all the time
-For diligence anew
+With diligence anew
 May every thing that's done in there
 Be done as unto you
 
 Lord bless the occupants and guests
 And may they overflow
 After their time spent in this home
-On mission out they go
+On mission may they go
