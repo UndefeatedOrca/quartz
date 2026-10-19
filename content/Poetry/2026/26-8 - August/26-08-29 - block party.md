@@ -3,6 +3,7 @@ title: 29 - block party
 draft: false
 tags:
   - poem/ballad
+  - poem/school
 description:
 created: 2026-08-29
 modified:
