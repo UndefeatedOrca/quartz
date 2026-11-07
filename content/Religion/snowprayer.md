@@ -3,6 +3,7 @@ title: Prayer for a Snowy Day
 draft: false
 tags:
   - religion/prayer
+  - nature/snow
 description:
 created: 2025-12-02
 modified:

@@ -5,6 +5,7 @@ tags:
   - poem/church
   - fiction
   - favorites/poem
+  - poem/couplets
 description:
 created: 2026-07-31
 modified:

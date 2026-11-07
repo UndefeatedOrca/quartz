@@ -2,6 +2,8 @@
 title: 7 - hotel room
 draft: false
 tags:
+  - poem/ballad
+  - poem/politics
 description:
 created: 2026-08-07
 modified:

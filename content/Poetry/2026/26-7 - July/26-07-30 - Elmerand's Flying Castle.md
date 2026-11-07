@@ -5,9 +5,10 @@ tags:
   - poem/ballad
   - fiction
   - favorites/poem
+  - genre/medieval
 description:
 created: 2026-07-30
-modified:
+modified: 2026-10-28
 holiday:
 ---
 He wasn't much to look at in his jacket and his jeans 
@@ -31,23 +32,23 @@ For just and righteous purposes, or something that would wilt
 He glimpsed her through the window pane, and ran up to the stair
 A dashing cavalcade of man to reach the open air
 Crested the top of workshop roof just at her carriage turn
-They had a moments eye contact that neither chose to spurn
+They had a moment's eye contact that neither chose to spurn
 A thousand words sprang from his eyes, the windows to his soul
 But she was now beyond the bend and still the carriage rolled
 
 His reputation grew through work that made the crowds amazed
-Mechanics, building filled his time, yet still upward he gazed
+Mechanics, building filled his time, yet upward still he gazed
 The princess for her part looked too, upon her city fair
 And wondered who her father'd choose, to make for her a pair
 Yet in the nights she looked upon the late lit, yellow glass
 Of strange contraptions being built, and on the man she'd passed
 
 The pocketbook grew heavy for the young constructive lad
-But though the riches filled his bank, his mood still drifted sad
-He hadn't ventured out to stack the gold to the moon
+But though the riches filled his bank, it did not make him glad
+He hadn't ventured out to stack the gold up to the moon
 Or to develop curios and novelty balloons
 His goal had loomed above his head for eons, so it felt
-But now the time had come at last to play what he'd been dealt
+But now the time had come at last to play what he had dealt
 
 The rotors whirred and doorways creaked, a castle in the sky
 Began to rise majestically, began to truly fly
@@ -59,22 +60,22 @@ To walk into the throne room door and justify his past
 The king was in the tallest throne, the princess meekly near
 And builder kneeled in fealty, his courage streaked with fear
 "I've come to ask betrothal, sir, to Princess Elmerand
-I've come requesting to be wed, I'm asking for your hand"
+I've come requesting to be wed, I'm asking for her hand"
 The king was just and loved his child, he told his daughter so
 He would allow the union if his daughter loved also
 
-She told to him a simple phrase, that stuck with him for life:
+She then told him a simple thing, that stuck with him for life:
 "I will indeed accept your ring, I will become your wife
-But why is it you waited so, delayed in your request
+But why is it you waited so, delayed me your request
 I would have married you the day you started on your quest.
-I wasn't looking for a place for me to lay my head, 
+I wasn't looking for a place that I could lay my head, 
 Respectfully, you still can't match the royal castle bed.
 I knew that we were meant to be, the moment we locked eyes
 And mine are still intent on yours, and I see your surprise.
 Your love for me was obvious to all who saw your craft
-You named three different prototypes with me names, I'm not daft.
+You named three different prototypes with my name, I'm not daft.
 You've built to be a worthy man, and that has proven true
-But now I am delighted that I'll finally be with you"
+But now I am delighted that I'll fin'lly be with you"
 
  The banns were cried, the service done, a covenant declared
  Of happy details after that, the reader can be spared

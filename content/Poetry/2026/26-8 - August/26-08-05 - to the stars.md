@@ -20,7 +20,7 @@ To silent stormy seas
 
 What pavers started long ago
 Foundation firmly set
-The generations tred upon 
+The generations tread upon 
 Extended and upset
 
 The narrow way is ours to build 

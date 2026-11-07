@@ -2,6 +2,9 @@
 title: 27 - Richmond
 draft: false
 tags:
+  - poem/ballad
+  - poem/school
+  - poem/politics
 description:
 created: 2026-02-27
 modified:

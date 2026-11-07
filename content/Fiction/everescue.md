@@ -20,19 +20,17 @@ In that vein, and as a follow-up to [Eve](25-5-25%20-%20Eve.md), I present my v
 
 ---
 # Part One - Introduction
-
 It was a beautiful day at the Kerbal Space Center, and the director of the space agency decided that after the program’s decades of successes, with landings on the Mun, Minmus, Duna, Moho, and Tylo[^3] completed in recent years, it was time for a mission that would test the ingenuity, intelligence, and intrepidity of the program to the limit.
 
 It was time for a mission to Eve.[^4]
 
-Landing on Eve was a milestone the program had completed a handful of times. It wasn’t very difficult. All you had to do was strap whatever you wanted landed to a few parachutes and a heat shield, and Eve would to the rest. The atmosphere, thicker by far than Kerbin’s was more than sufficient to safely decelerate any vessel that descended into the murky depths. Even the gravity, 170% that of Kerbin’s wasn’t enough to markedly reduce parachute effectiveness. What the incredibly thick atmosphere and incredibly high gravity did do was make returning from the purple planet’s surface next to impossible.
+Landing on Eve was a milestone the program had completed a handful of times. It wasn’t very difficult. All you had to do was strap whatever you wanted landed to a few parachutes and a heat shield, and Eve would to the rest. The atmosphere, thicker by far than Kerbin’s was more than sufficient to safely decelerate any vessel that descended into the murky depths. Even the gravity, 170% that of Kerbin’s wasn’t enough to markedly reduce parachute effectiveness. What the incredibly thick atmosphere and incredibly high gravity was enough to do was make returning from the purple planet’s surface next to impossible.
 
 ![](https://substackcdn.com/image/fetch/$s_!Z_ZQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0279092b-168a-45b0-b5c3-8b1950553d00_1375x893.png)
 *I have a complicated relationship with this planet.*
 
 It was time to prove the difference between “next to impossible” and “impossible.”
 # Part Two - The First Lander
-
 The engineers had drafted plans for a working Eve lander years ago, but much like the original Mun landing tapes, the blueprints had been overwritten by signal data collected from a local space station’s karaoke night which had been accidentally broadcast to half the planet. New plans needed to be drawn up.
 
 The first order of business was the lander. It needed to large enough to successfully escape the clutches of Eve’s surface, but small enough that it could be reasonably transported to those clutches in the first place. After a short Monster fueled drafting session, the engineers came up with this:
@@ -223,7 +221,7 @@ Several more engineers were fired when it was discovered that the probe core had
 
 ![](https://substackcdn.com/image/fetch/$s_!Sud-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cc596cb-b2a2-439c-8317-e652849b18fd_1035x852.png)
 
-As for the connection failure, a few engineers argued that fixing it should be a higher priority, but their concerns were drowned out by the army that was hopping up and down to build a public transportation for another planet.
+As for the connection failure, a few engineers argued that fixing it should be a higher priority, but their concerns were drowned out by the army that was hopping up and down to build public transportation for another planet.
 # Part Four - Eve Plane Mk. 3
 The newly turned-over staff of the space program’s design department filled an entire chalkboard with ideas for the Intra-Eve Transit System (IETS). Some office favorites included a rover, a planetwide light rail system, a series of underground tunnels that standard cars could run on, and a set of carefully spaced catapults similar to those used by the residents of Dover.[^19] Despite the creative outpouring, in the end the budget hawks and _prudent_ and _safety-minded_ forced the construction of a propellor plane instead (propellors being necessary as the murky atmosphere of Eve lacked oxygen for jet engines to burn).
 
@@ -255,7 +253,7 @@ The redesigned craft successfully took off but lacked the high-speed maneuverabi
 ![](https://substackcdn.com/image/fetch/$s_!M2z0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f89c022-d519-4407-ad24-168d9e299033_1606x835.png)
 *Found footage of Eve Plane Mk. 2 moments before the test flight crashed into the side of the R&D complex destroying the result of a multi-year audit. Strangely, Building VII of the complex also collapsed although the plane made no contact with the building and the destruction was announced live nearly an hour before it fell.*
 
-The new craft, in an attempt to remedy the past craft’s lack of speed, quadrupled the number of engines. (It also integrated a docking system'; it’ll make sense soon.) Other major improvements included the ladder system, expanded wing length, and canards.[^20]
+The new craft, in an attempt to remedy the past craft’s lack of speed, quadrupled the number of engines. (It also integrated a docking system; it’ll make sense soon.) Other major improvements included the ladder system, expanded wing length, and canards.[^20]
 
 ![](https://substackcdn.com/image/fetch/$s_!vgRP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F074c9cf0-5dbc-447a-8617-882ae777739a_1306x631.png)
 
@@ -410,14 +408,14 @@ Taking the controls of the newly landed plane, Munmore rapidly acclimated to the
 
 Now free of the confines of his capsule, Munmore took the opportunity of both the added room, increased energy, excessive snacks, and improved reception to lambast the engineers who had designed his, Valentina’s, and Jebediah’s craft, comparing them to puddlefish with delusions of grandeur. He blamed a mysterious controlling entity for giving him the dream of failed relays and concluded his rant with a heartfelt fifteen minutes of congratulation to his son and the pension department for finally “giving an honest attempt at rocketry and earning their paychecks.” Promising to find and repay every member of the engineering profession that had wronged him, several staffers at mission control invested in life insurance and started asking if there was a way to remotely disable Lander Mk. 3 before he was aboard.
 
-In the meantime, Valentina started packing her things, and when she heard the thumpa-thumpa-thumpa of the rotors, she was ready to go, one hand on the hatch and the other on her small bag containing her remaining steak. Her pod, complete with cupholders and a large snack cabinet had been a more comfortable stay, and though she’d been on the planet a few years fewer than Munmore, she too was ready to depart.
+In the meantime, Valentina started packing her things, and when she heard the thumpa-thumpa-thumpa of the rotors, she was ready to go, one hand on the hatch and the other on the small bag containing her remaining steak. Her pod, complete with cupholders and a large snack cabinet had been a more comfortable stay, and though she’d been on the planet a few years fewer than Munmore, she too was ready to depart.
 
 ![](https://substackcdn.com/image/fetch/$s_!RPEG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb85d2025-159f-4141-95c2-b48306acdf31_1701x1052.png)
-*Inexplicably, unlike the ground around Lander Mk. 1, the ground around the landing site for Lander Mk. 2 was not bugged to Moho and back. This made landing possible. safe, and easy.*
+*Inexplicably, unlike the ground around Lander Mk. 1, the ground around the landing site for Lander Mk. 2 was not bugged to Moho and back. This made landing possible, safe, and easy.*
 
-When both kerbals were safely aboard, mission control directed the two to their (hopefully) final destination, Lander Mk. 3. Left on the ground for years, the refueling module had filled the dry tanks to the brim with fuel and oxidizer, and though the system had never been tested, the engineers that had designed had been optimistic that it would work. Several of them had been transferred to administrative roles rather than fired and surreptitiously purchased yet more bottles of champagne in anticipation. The final bottle of the original run was also brought out (it had been lost in a closet when the other bottles were given to the graduating intern).
+When both kerbals were safely aboard, mission control directed the two to their (hopefully) final destination, Lander Mk. 3. Left on the ground for years, the refueling module had filled the dry tanks to the brim with fuel and oxidizer, and though the system had never been tested, the engineers that designed had been optimistic that it would work. Several of them had been transferred to administrative roles rather than fired and surreptitiously purchased yet more bottles of champagne in anticipation. The final bottle of the original run was also brought out (it had been lost in a closet when the other bottles were given to the graduating intern).
 
-Munmore and Valentina together were an excellent pair, and the two who had been in communication over radio for years finally got to meet in person. Their shared interest in piloting was both a blessing and a curse. A blessing because they had something to talk about, and a curse because it took mission control calling in law enforcement hostage negotiators to finally decide who would pilor the plane.[^28]
+Munmore and Valentina together were an excellent pair, and the two who had been in communication over radio for years finally got to meet in person. Their shared interest in piloting was both a blessing and a curse. A blessing because they had something to talk about, and a curse because it took mission control calling in law enforcement hostage negotiators to finally decide who would pilot the plane.[^28]
 
 ![](https://substackcdn.com/image/fetch/$s_!IwDh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde709c71-2494-4094-8569-6f9cd3905c58_1919x980.png)
 *Valentina also had a slightly higher risk tolerance when flying compared to Munmore.*
@@ -427,7 +425,7 @@ Finally, after the much shorter flight between Lander Mk. 2 and Lander Mk. 3, th
 ![](https://substackcdn.com/image/fetch/$s_!6hMj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F288fd675-02b5-4776-aa6d-8284c04fde83_1394x998.png)
 *The amount of time and effort I had put into getting these kerbals both to Eve and to this specific lander was more than I’d like to admit, but on the plus side, the amount of time I’ve spent writing this is comparable.*
 # Part Eight - The Return
-It had been over three years since Munmore had landed on Eve, and more than that since he had been on Kerbin. In that time the yearly turnover rate of the engineering department was 120%, there had been two additional landers sent through the purple clouds, Valentina had missed her 15th anniversary, the kerbin economy had undergone a massive recession, three planes of varying quality had been designed and tested, Jebediah Kerman had been located exactly where he was when he was ‘lost,’ and mission control had installed an incinerator to deal with unauthorized celebratory beverages. It had been a _long_ three years. Soon, hopefully, those three years wouldn’t turn into five, but just in case they did, the pension department was already hard at work designing new options for landers.
+It had been over three years since Munmore had landed on Eve, and more than that since he had been on Kerbin. In that time the yearly turnover rate of the engineering department was 120%, there had been two additional landers sent through the purple clouds, Valentina had missed her 15th anniversary, the Kerbin economy had undergone a massive recession, three planes of varying quality had been designed and tested, Jebediah Kerman had been located exactly where he was when he was ‘lost,’ and mission control had installed an incinerator to deal with unauthorized celebratory beverages. It had been a _long_ three years. Soon, hopefully, those three years wouldn’t turn into five, but just in case they did, the pension department was already hard at work designing new options for landers.
 
 Their preferred design looked like this:
 
@@ -502,7 +500,7 @@ The reentry into Kerbin’s atmosphere was fiery but mostly peaceful, and the ae
 ![](https://substackcdn.com/image/fetch/$s_!LiCi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63bf6e6c-7134-4f64-b7b8-17cc77803c75_1855x1033.png)
 *Unfortunately, I couldn’t manage to get a shot of the transfer stage exploding as the pod reentered.*
 
-One final parachute deployment later and the long-lost kerbals were finally safe, splashed down, on Kerbin.
+One final parachute deployment later and the long-lost kerbals were finally safe and splashed down on Kerbin.
 
 ![](https://substackcdn.com/image/fetch/$s_!Ec6R!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F808f948c-3dd3-4982-aef6-6d30b669c254_1640x968.png)
 
@@ -514,13 +512,13 @@ Upon return, the Kerbal Space Program underwent some changes. The title ‘Engin
 
 Munmore Kerman Jr., first in his class at pension fund management school would also eventually be hired as a communications specialist, and his design prowess would be sought by dozens of private sector comms networks as well. His input would be instrumental in delivering 6G coverage to Dres.
 
-The designers of Lander Mk. 1 and 2 are now in witness protection, as Munmore Sr. is still looking for them.
+The designers of Lander Mk. 1 and 2 are now in witness protection, and Munmore Sr. is still looking for them.
 
 Valentina celebrated her 16th anniversary in style at her new beach house, but she isn’t sure that she’ll be able to stay retired long.
 
 Munmore Kerman slept in for a week, hit an all you can eat buffet, and put himself back on the active-duty roster. He’s pretty sure they’ll have him fly another mission soon.
 
-Jebediah purchased a junkyard. He’ll be on an interplanetary mission soon enough, but whether that goes through the KSP or builds his own rocket from scrap remains to be seen.
+Jebediah purchased a junkyard. He’ll be on an interplanetary mission soon enough, but whether he goes through the KSP or builds his own rocket from scrap remains to be seen.
 
 Mission control is as bustling as ever, and the word on the street is that they’re preparing to visit Eeloo and the other moons of Sarnus.
 
@@ -544,7 +542,7 @@ If you’ve made it this far, congratulations! I hope you enjoyed, this is the f
 
 [^6]: We don’t need to talk about the thought process behind putting the parachutes on a giant hinge. Frankly, I have no idea.
 
-[^7]: I did this for all of the landers, I saw it in YouTube videos and I think it’s there to make sure that the craft is equally draggy on both sides, which prevents flipping pointy and very flammable end first into an atmosphere that will melt anything not made of asbestos when you’re moving at 3,500 meters per second.I did this for all of the landers, I saw it in YouTube videos and I think it’s there to make sure that the craft is equally draggy on both sides, which prevents flipping pointy and very flammable end first into an atmosphere that will melt anything not made of asbestos when you’re moving at 3,500 meters per second.
+[^7]: I did this for all of the landers, I saw it in YouTube videos and I think it’s there to make sure that the craft is equally draggy on both sides, which prevents flipping pointy and very flammable end first into an atmosphere that will melt anything not made of asbestos when you’re moving at 3,500 meters per second.
 
 [^8]: The actual reason for this is that for some reason I thought I might want to send the craft up in stages. Or maybe it was because I wanted to dock a nosecone to the top of it (the fully dockable nosecone even got designed, though to this minute, I cannot think of how I thought it would actually be used).
 

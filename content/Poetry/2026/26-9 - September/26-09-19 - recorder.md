@@ -12,7 +12,7 @@ holiday:
 Shrieks resound throughout my room
 Without escape, they know their doom
 Uttered from plastic holey tube
-Given to every third-grad rube
+Given to every third-grade rube
 In grim attempt at melody
 They even now would rather flee
 Than sound in mockery of song

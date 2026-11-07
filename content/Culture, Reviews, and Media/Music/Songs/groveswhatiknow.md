@@ -2,7 +2,8 @@
 title: What Do I Know?
 draft: false
 tags:
-  - snippet/music
+  - ramble
+  - music
 description:
 created: 2025-12-03
 modified: 2026-04-28

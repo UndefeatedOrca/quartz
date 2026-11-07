@@ -3,6 +3,7 @@ title: 1 - USNA Crypt
 draft: false
 tags:
   - poem/history
+  - poem/couplets
 description:
 created: 2026-08-01
 modified:

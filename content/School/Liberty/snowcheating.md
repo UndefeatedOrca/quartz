@@ -2,6 +2,8 @@
 title: Online Final Cheating
 draft: false
 tags:
+  - nature/snow
+  - school
 description:
 created: 2025-12-09
 modified:

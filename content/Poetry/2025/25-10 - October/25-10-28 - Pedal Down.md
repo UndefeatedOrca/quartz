@@ -4,6 +4,7 @@ created: 2025-10-28T00:00:00.000Z
 tags:
   - poem/friends
   - poem/sleep
+  - poem/ballad
 ---
 
 I maybe need to take a break

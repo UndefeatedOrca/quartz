@@ -3,6 +3,7 @@ title: Small in Stature, Great in Heart
 draft: false
 tags:
   - school/paper/ENG111
+  - author/Tolkien
 description:
 created: 2021-01-12
 modified: 2026-03-21

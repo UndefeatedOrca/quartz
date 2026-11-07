@@ -26,3 +26,6 @@ So gather round and listen close
 To hear the epic tale
 Of how the kerbals did succeed
 After some massive fails
+
+---
+This is the dedication to [Mission Report: The Great Eve Rescue](everescue)

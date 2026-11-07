@@ -5,36 +5,21 @@ tags:
   - project
 description:
 created: 2025-12-22
-modified: 2026-04-28
+modified: 2026-10-26
 ---
 
 This is the list of ongoing or yet to be completed tasks on the website. I'm a little worried it's going to get longer before it gets shorter.
 # In progress
 ## High Priority
-- [x] Upgrade to quartz 5 - prereq for all following
-	- [x] Update [[downloadtransformer]]
-	- [x] Update [[holidayplugin]]
-	- [ ] Implement [[quartzvibecodestarts]]
-		- This probably turns into an accessibility suite, I'd like to have a font switcher, beeline, and maybe a quartz version of the [reading ruler](readingruler) eventually
-		- Recursive popovers need more vibe-coded iteration, and it would be nice to at least get working wikipedia popups too -- full scale popups of archived other sites like [gwern.net](gwern.net) is probably overkill, but if there's a way to make some more iframes work, that would be cool -- could use a whitelist for sites and maybe include some kind of visual indicator on the favicon
-	- [x] Accessibility suite -- see above
-	- [x] Implement tags at the top of page -- [[sitedesign#Parent and Child Tag Links]]
-	- [x] Add random note button
-		- I wonder if I could fit it in with the reader mode and the night mode toggle switch and just shrink the search bar a bit
-		- The icon should be the face of a six sided die, and pressing it should roll the die along with going to a random note
-	- [x] Fix random note button
-		- [x] It should only go to content pages, no tag or folder pages
-		- [x] Stop flashing screen
-		- [x] Render rolled die after new page is loaded
-		- [x] Don't visually roll die twice
-	- [ ] Favicons
-	- [ ] Twitter embeds
-	- [x] Youtube embeds
-		- Thanks Quartz 5!
+
+- [ ] Implement [[quartzvibecodestarts]]
+	- This probably turns into an accessibility suite, I'd like to have a font switcher, beeline, and maybe a quartz version of the [reading ruler](readingruler) eventually
+	- Recursive popovers need more vibe-coded iteration, and it would be nice to at least get working wikipedia popups too -- full scale popups of archived other sites like [gwern.net](gwern.net) is probably overkill, but if there's a way to make some more iframes work, that would be cool -- could use a whitelist for sites and maybe include some kind of visual indicator on the favicon
+- [ ] Favicons
+- [ ] Twitter embeds
 - [ ] Customize color scheme
 ## Low Priority
 - [ ] Configure a custom callout for tangents using [this info](https://quartz.jzhao.xyz/features/callouts)
-- [ ] Built in audio player
 - [ ] Go steal a bunch of other people's site design ideas
 	- [ ] [Turntrout](https://turntrout.com/design)
 		- [ ] Spoiler text
@@ -49,11 +34,8 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 		- [ ] custom callout formatting and blocks
 	- In some instances, it might make more sense to vibecode the features
 - [ ] Custom aesthetic divider (with randomized quote right after page content?)
-- [x] Consider moving the [debate archive](policy/Debate/DebateArchive/index) to a separate site
-	- nah, they can deal
 - [ ] Customize bullet points
-- [x] Identify usefulness of quartz syncer
-	- [ ] Figure out if the frontmatter is gonna get screwed up by the syncer
+- [ ] Toggle switch to replace AI with SI -- maybe autodetect if accessed from a .gov domain lol
 # Complete
 - [x] Fix failure to build
 	- it wasn't actually an issue
@@ -89,6 +71,26 @@ This is the list of ongoing or yet to be completed tasks on the website. I'm a l
 - [x] Update graph settings
 - [x] Consider adding comments section
 	- no
+- [x] Upgrade to quartz 5
+- [x] Update [[downloadtransformer]]
+- [x] Update [[holidayplugin]]
+- [x] Accessibility suite -- see above
+- [x] Implement tags at the top of page -- [[sitedesign#Parent and Child Tag Links]]
+- [x] Add random note button
+	- I wonder if I could fit it in with the reader mode and the night mode toggle switch and just shrink the search bar a bit
+	- The icon should be the face of a six sided die, and pressing it should roll the die along with going to a random note
+- [x] Fix random note button
+	- [x] It should only go to content pages, no tag or folder pages
+	- [x] Stop flashing screen
+	- [x] Render rolled die after new page is loaded
+	- [x] Don't visually roll die twice
+- [x] Built in audio player
+	- this is actually called using html as intended lol
+- [x] Consider moving the [debate archive](policy/Debate/DebateArchive/index) to a separate site
+	- nah, they can deal
+- [x] Identify usefulness of quartz syncer
+- [x] Youtube embeds
+	- Thanks Quartz 5!
 
 Quartz 5 panic
 - [x] Fix colors
